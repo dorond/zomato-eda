@@ -1,0 +1,818 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,city,latitude,longitude,has_online_delivery,is_delivering_now,has_table_booking
+Jacksons Republic,European,1.8,Poor,140,R,300,4,"OR Tambo International Airport, Kempton Park",East Rand,-26.1348470000,28.2317990000,0,0,0
+Mike's Kitchen,"Steak, Grill",1.9,Poor,105,R,300,4,"The Zone, Rosebank, Sandton",Johannesburg,-26.1450000000,28.0435000000,0,0,0
+Billy G,"Mediterranean, African, Asian",2.0,Poor,96,R,350,4,"Montecasino, Fourways",Sandton,-26.0240590000,28.0128540000,0,0,0
+Cappello,"Italian, Pizza",2.0,Poor,52,R,300,4,"OR Tambo International Airport, Kempton Park",East Rand,-26.1325000000,28.2310000000,0,0,0
+Kawayi Sushi Bar,Japanese,2.1,Poor,89,R,150,2,Parkmore,Sandton,-26.0996730000,28.0476290000,0,0,0
+Golden Peacock,Indian,2.0,Poor,15,R,200,3,"Oriental Plaza, Fordsburg",Inner City,-26.2055000000,28.0268333333,0,0,0
+Lai Lai Garden,Chinese,2.1,Poor,88,R,350,4,"Montecasino, Fourways",Sandton,-26.0240590000,28.0128540000,0,0,0
+Piece A Pizza,Pizza,2.1,Poor,38,R,150,2,Kempton Park,East Rand,-26.1325000000,28.2311666667,0,0,0
+Pata Pata,South African,2.2,Poor,172,R,250,3,"Maboneng Precinct, City & Suburban ",Inner City,-26.2040550000,28.0599310000,0,0,0
+PRIMI Piatti,"Italian, American, Pizza",2.2,Poor,93,R,350,4,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1806666667,28.1168333333,0,0,0
+Rosetta's Bistro,"Asian, Mediterranean, Egyptian",2.2,Poor,35,R,400,4,"Emperors Palace, Kempton Park",East Rand,-26.1464458435,28.2231764364,0,0,0
+The Lake Restaurant,"Greek, Italian, Portuguese, Continental",2.2,Poor,28,R,0,1,Brakpan,East Rand,0.0000000000,0.0000000000,0,0,0
+Wimpy,"Fast Food, Burger",2.2,Poor,22,R,0,1,Kempton Park,East Rand,-26.1355000000,28.2313333333,0,0,0
+Boston BBQ,"American, Grill",2.3,Poor,25,R,400,4,"Gold Reef City, Ormonde",Johannesburg South,-26.2384980000,28.0127330000,0,0,0
+The Raj Express,Indian,2.2,Poor,29,R,220,3,"Pineslopes Shopping Centre, Fourways",Sandton,-26.0221666667,28.0160000000,0,0,0
+Hooters,American,2.3,Poor,216,R,300,4,"The Buzz Shopping Centre, Fourways, Sandton",Sandton,-26.0236666667,27.9910000000,0,0,0
+Fratelli,"Italian, Pizza",2.3,Poor,68,R,250,3,Blairgowrie,Randburg,-26.1142350000,28.0187890000,0,0,0
+Jimmy's Killer Prawns,Seafood,2.3,Poor,45,R,350,4,"The Zone, Rosebank, Sandton",Johannesburg,-26.1450000000,28.0435000000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.3,Poor,52,R,473,4,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1271439652,27.9044831917,0,0,0
+Harvest Grill & Wine,Grill,2.3,Poor,25,R,350,4,"Carnival City, Brakpan",East Rand,-26.2580660000,28.3140930000,0,0,0
+The Harvard Cafe,"Pizza, Italian, Seafood, Mediterranean",2.3,Poor,33,R,200,3,Kempton Park,East Rand,-26.1198770000,28.2578850000,0,0,0
+Andiccio 24,Pizza,2.3,Poor,27,R,160,2,Randpark Ridge,Randburg,-26.0927690000,27.9394090000,0,0,0
+Sheikhs Palace-Lebanese Restaurant and Cabaret Club,"Lebanese, Mediterranean, Middle Eastern",2.3,Poor,37,R,300,4,Rivonia,Sandton,-26.0578333333,28.0596666667,0,0,0
+Col'Cacchio,"Pizza, Italian",2.3,Poor,28,R,356,4,"Silverstar Hotel and Casino, Muldersdrift",West Rand,-26.0673730000,27.8284270000,0,0,0
+Wimpy,"Fast Food, Burger",2.3,Poor,17,R,0,1,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1803333333,28.1161666667,0,0,0
+Mochachos,"Mexican, Fast Food",2.3,Poor,27,R,150,2,"Carlswald Lifestyle Centre, Carlswald",Midrand,-25.9791830000,28.1162930000,0,0,0
+Mimmos,"Italian, Pizza",2.3,Poor,30,R,250,3,"The Glen Shopping Centre, Oakdene, Johannesburg South",Johannesburg South,-26.2675000000,28.0511666667,0,0,0
+Billy G,"Mediterranean, African, Asian",2.3,Poor,20,R,350,4,"Silverstar Hotel and Casino, Muldersdrift",West Rand,-26.0674550000,27.8285990000,0,0,0
+Tradewinds Restaurant - Hilton Hotel,"International, African",2.3,Poor,14,R,500,4,"Hilton Hotel, Sandown",Sandton,-26.1017470000,28.0595860000,0,0,0
+Cubana,"Spanish, Latin American",2.4,Poor,76,R,350,4,"Cedar Square, Fourways, Sandton",Sandton,-26.0172390000,27.9997080000,0,0,0
+Airport Craft Brewers,"Mediterranean, Seafood",2.4,Poor,60,R,300,4,"OR Tambo International Airport, Kempton Park",East Rand,-26.1367840000,28.2408030000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.4,Poor,76,R,473,4,"Cresta Shopping Centre, Cresta",Randburg,-26.1310000000,27.9761666667,0,0,0
+Antonnio's Italian Kitchen,"Italian, Pizza",2.4,Poor,62,R,280,3,"Lonehill Shopping Centre, Lonehill",Sandton,-26.0145850000,28.0253490000,0,0,0
+Sakura Sushi,"Japanese, Sushi",2.4,Poor,54,R,180,2,"Comaro View Shopping Centre, Bassonia",Johannesburg South,-26.2789190000,28.0677660000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.4,Poor,61,R,473,4,"Montecasino, Fourways",Sandton,-26.0240000000,28.0118333333,0,0,0
+Ocean Basket,"Seafood, Sushi",2.4,Poor,35,R,473,4,"Emperors Palace, Kempton Park",East Rand,-26.1455000000,28.2211666667,0,0,0
+Montexo Spur,"Steak, Burger",2.4,Poor,50,R,380,4,"Montecasino, Fourways",Sandton,-26.0240000000,28.0120000000,0,0,0
+Pizza Perfect,Pizza,2.5,Average,38,R,150,2,"Bedford Centre, Bedfordview",East Rand,-26.1883333333,28.1233333333,0,0,0
+Mochachos,"Mexican, Fast Food",2.4,Poor,27,R,150,2,Melville,Johannesburg,-26.1780000000,28.0013333333,0,0,0
+Wetlands,"Contemporary, Continental",2.4,Poor,18,R,300,4,Muldersdrift,West Rand,-25.8323120000,27.8889750000,0,0,0
+Wimpy,"Fast Food, Burger",2.4,Poor,11,R,0,1,"OR Tambo International Airport, Kempton Park",East Rand,-26.1366630000,28.2411350000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.4,Poor,21,R,473,4,Fordsburg,Inner City,-26.2036666667,28.0206666667,0,0,0
+Mi ~ Vami,"Arabian, Fast Food",2.4,Poor,19,R,200,3,"Sunninghill Village Shopping Centre, Sunninghill, Sandton",Sandton,-26.0373333333,28.0795000000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,103,R,473,4,"The Zone, Rosebank, Sandton",Johannesburg,-26.1458333333,28.0426666667,0,0,0
+Hooters,American,2.5,Average,80,R,300,4,"Emperors Palace, Kempton Park",East Rand,-26.1456666667,28.2211666667,0,0,0
+The Secret Garden,Contemporary,2.5,Average,57,R,200,3,Fourways,Sandton,-26.0353310000,28.0063040000,0,0,0
+Chevy Lane,Burger,2.5,Average,22,R,300,4,Bedford Gardens,East Rand,0.0000000000,0.0000000000,0,0,0
+Dros,"Portuguese, Italian, American, Pizza",2.5,Average,49,R,300,4,"Eden Meadows Shopping Centre, Edenvale",East Rand,-26.1210340000,28.1379380000,0,0,0
+C & C Sushi,"Japanese, Sushi",2.5,Average,39,R,150,2,"Sunninghill Village Shopping Centre, Sunninghill, Sandton",Sandton,-26.0367980000,28.0801370000,0,0,0
+Stages,"American, British, Italian",2.5,Average,37,R,0,1,Braamfontein,Inner City,-26.1911220000,28.0392730000,0,0,0
+Nino's,"European, Italian, Pizza",2.5,Average,32,R,180,2,"Rivonia Village Shopping Centre, Rivoina",Sandton,-26.0601666667,28.0636666667,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,23,R,473,4,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1805000000,28.1163333333,0,0,0
+Wimpy,"Fast Food, Burger",2.5,Average,25,R,0,1,"Sandton City Shopping Centre, Sandown",Sandton,-26.1076666667,28.0543333333,0,0,0
+Bru's,"South African, Pizza, Burger",2.5,Average,18,R,250,3,"Carnival City, Brakpan",East Rand,-26.2583500000,28.3139060000,0,0,0
+Michelo's Pizzeria,"Italian, Pizza, Sushi",2.5,Average,28,R,200,3,Glenhazel,Johannesburg,-26.1380000000,28.0975000000,0,0,0
+Mochachos,"Mexican, Fast Food",2.5,Average,25,R,150,2,Weltevreden Park,Roodepoort,-26.1048333333,27.9265000000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,30,R,473,4,"Stoneridge Shopping Centre, Edenvale",East Rand,-26.1153333333,28.1445000000,0,0,0
+Panarottis Pizza Pasta Greenstone,"Italian, Pizza",2.5,Average,24,R,280,3,Edenvale,East Rand,-26.1180320000,28.1410230000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,12,R,473,4,Ormonde,Johannesburg South,-26.2384980000,28.0127440000,0,0,0
+Goodies Restaurant,"Steak, Grill, African, Pizza",2.5,Average,23,R,400,4,Kempton Park,East Rand,-26.0704180000,28.2443920000,0,0,0
+House Of Ribs,"American, Grill",2.5,Average,21,R,230,3,"Festival Mall, Kempton Park",East Rand,-26.1027730000,28.2231330000,0,0,0
+Wimpy,"Fast Food, Burger",2.5,Average,19,R,0,1,"The Glen Shopping Centre, Oakdene, Johannesburg South",Johannesburg South,-26.2684120000,28.0497610000,0,0,0
+Dros,"Portuguese, Italian, American, Pizza",2.5,Average,16,R,300,4,Kempton Park,East Rand,-26.0848280000,28.2400200000,0,0,0
+Barcelos,Fast Food,2.5,Average,23,R,120,2,Kyalami On Main Shopping Center ,Midrand,-26.0022554129,28.0755497888,0,0,0
+Sarasota Spur,"Steak, Burger",2.5,Average,18,R,380,4,Braamfontein,Inner City,-26.1928333333,28.0375000000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,15,R,473,4,"OR Tambo International Airport, Kempton Park",East Rand,-26.1356666667,28.2315000000,0,0,0
+Wichita Spur,"Steak, Burger",2.5,Average,14,R,380,4,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1806666667,28.1163333333,0,0,0
+Byblos Hubbly Lounge,"Middle Eastern, Lebanese, Grill, Fast Food",2.5,Average,16,R,250,3,Rivonia,Sandton,-26.0578333333,28.0595000000,0,0,0
+Ottawa Creek Spur,"Steak, Burger",2.5,Average,19,R,380,4,"Karaglen Shopping Centre, Edenvale",East Rand,-26.1354210000,28.1808940000,0,0,0
+Shaam Arabian Restaurant & Butchery,Contemporary,2.5,Average,13,R,250,3,Rivonia,Sandton,-26.0575350000,28.0603700000,0,0,0
+Texamo Spur,"Steak, Burger",2.5,Average,19,R,380,4,"The Glen Shopping Centre, Oakdene, Johannesburg South",Johannesburg South,-26.2673333333,28.0505000000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,10,R,473,4,"Southgate Mall, Meredale ",Johannesburg South,-26.2673333333,27.9818333333,0,0,0
+Fu Li Hua,Asian,2.5,Average,13,R,220,3,"Emperors Palace, Kempton Park",East Rand,-26.1453333333,28.2215000000,0,0,0
+Wimpy,"Fast Food, Burger",2.5,Average,10,R,0,1,Halfway House,Midrand,-26.0105530000,28.1218330000,0,0,0
+Mi ~ Vami,"Arabian, Fast Food",2.5,Average,8,R,200,3,"Stoneridge Shopping Centre, Edenvale",East Rand,-26.1155000000,28.1445000000,0,0,0
+Currylicious,Indian,2.6,Average,79,R,150,2,"Appleton's Village, Ferndale",Randburg,-26.0953333333,27.9855000000,0,0,0
+Lets Meat,"Steak, Grill, Pizza",2.6,Average,85,R,350,4,"Lonehill Shopping Centre, Lonehill",Sandton,-26.0136240000,28.0270770000,0,0,0
+Ri'Stretto,"Italian, Seafood, Pizza",2.6,Average,59,R,300,4,Morningside,Sandton,-26.0895420000,28.0584400000,0,0,0
+Promise Grill & Seafood,"Japanese, Seafood, Steak",2.6,Average,64,R,250,3,Meyersdal,Johannesburg South,-26.2897210000,28.0898700000,0,0,0
+Monforte,Portuguese,2.6,Average,11,R,300,4,Woodmead,Sandton,-26.0209510000,28.0896040000,0,0,0
+Primafila,"Italian, Pizza",2.6,Average,63,R,300,4,"Montecasino, Fourways",Sandton,-26.0240590000,28.0128540000,0,0,0
+Q.ba,"Grill, Pizza, Japanese",2.6,Average,87,R,350,4,"Stoneridge Shopping Centre, Edenvale",East Rand,-26.1153333333,28.1445000000,0,0,0
+Ri'Stretto,"Italian, Seafood, Pizza",2.6,Average,49,R,300,4,Kyalami,Midrand,-25.9742619602,28.0935028195,0,0,0
+Poppy's,"Portuguese, Italian, Pizza",2.6,Average,53,R,150,2,Melville,Johannesburg,-26.1773333333,28.0086666667,0,0,0
+Adega,"Portuguese, Japanese, Italian, European",2.6,Average,48,R,0,1,"Carlswald Decor Centre, Hallfway Gardens",Midrand,-25.9827180000,28.1183450000,0,0,0
+Kong Tai,Chinese,2.6,Average,45,R,150,2,"The Wedge, Morningside",Sandton,-26.0748333333,28.0648333333,0,0,0
+Mochachos,"Mexican, Fast Food",2.7,Average,38,R,150,2,"Sunninghill Village Shopping Centre, Sunninghill, Sandton",Sandton,-26.0368333333,28.0795000000,0,0,0
+Panarottis Pizza Pasta,"Italian, Pizza",2.6,Average,38,R,280,3,"The Zone, Rosebank, Sandton",Johannesburg,-26.1453550000,28.0435930000,0,0,0
+Simply Asia,"Thai, Asian",2.6,Average,57,R,280,3,Northcliff,Johannesburg,-26.1396820000,27.9783120000,0,0,0
+Papa Boa,"Portuguese, Pizza",2.6,Average,43,R,400,4,"Lakefield Square, Lakefield",East Rand,-26.1787220000,28.2883560000,0,0,0
+Brooklyn Brothers,"Burger, American",2.6,Average,23,R,200,3,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1803333333,28.1168333333,0,0,0
+Ocean Basket,"Seafood, Sushi",2.6,Average,41,R,473,4,"Bedford Village, Bedfordview",East Rand,-26.1805000000,28.1360000000,0,0,0
+Kauai,Healthy Food,2.6,Average,26,R,220,3,"Melrose Arch, Melrose ",Sandton,-26.1338333333,28.0681666667,0,0,0
+Something Country,"Continental, Pizza",2.6,Average,27,R,250,3,Muldersdrift,West Rand,-25.9966720000,27.8186810000,0,0,0
+Dros,"Portuguese, Italian, American, Pizza",2.6,Average,39,R,300,4,"Campus Square Shoppinng Center, Melville",Johannesburg,-26.1815000000,28.0035000000,0,0,0
+The Great Burger Company,"Fast Food, Burger",2.6,Average,30,R,200,3,"Morningview Shopping Centre, Morningside",Sandton,-26.0889320000,28.0659580000,0,0,0
+Simply Asia,"Thai, Asian",2.6,Average,33,R,280,3,"Mall of the South, Meyersdal",Johannesburg South,-26.3156890000,28.0629280000,0,0,0
+Alaska Spur,"Steak, Burger",2.7,Average,12,R,380,4,"Atlas Shopping Centre, Atlasville",East Rand,-26.1591666667,28.2821666667,0,0,0
+Eagles Fare,Continental,2.6,Average,32,R,200,3,Ruimsig,Roodepoort,-26.0871670000,27.8446390000,0,0,0
+Andiccio 24,Pizza,2.6,Average,32,R,160,2,Meyersdal,Johannesburg South,-26.2871750000,28.0945800000,0,0,0
+Nando's,"African, Portuguese",2.1,Poor,55,R,180,2,"Benmore Gardens Shopping Centre, Benmore Gardens",Sandton,-26.1001666667,28.0490000000,0,0,0
+Nando's,"African, Portuguese",2.0,Poor,49,R,180,2,"The Leaping Frog Shopping Centre, Fourways, Sandton",Sandton,-26.0086666667,28.0126666667,0,0,0
+Akhalwaya's,"Fast Food, Pizza",2.1,Poor,32,R,100,2,"Woodmead Retail Park, Woodmead, Sandton",Sandton,-26.0505000000,28.0926666667,0,0,0
+McDonald's,Fast Food,2.2,Poor,25,R,100,2,Craighall,Johannesburg,-26.1165000000,28.0241666667,0,0,0
+Domino's Pizza,"Fast Food, Pizza",2.2,Poor,30,R,150,2,Bryanston,Sandton,-26.0529050000,28.0046660000,0,0,0
+Pizza Hut,Pizza,2.2,Poor,26,R,150,2,Sandown,Sandton,-26.1086120000,28.0573580000,0,0,0
+McDonald's,Fast Food,2.2,Poor,16,R,100,2,Woodmead,Sandton,-26.0556140000,28.0909740000,0,0,0
+Nando's,"African, Portuguese",2.2,Poor,12,R,180,2,Bruma,Inner City,-26.1801666667,28.1103333333,0,0,0
+Burger King,"Burger, Fast Food",2.2,Poor,175,R,120,2,Sandown,Sandton,-26.1153550000,28.0492160000,0,0,0
+Domino's Pizza,"Fast Food, Pizza",2.3,Poor,39,R,150,2,Fourways,Sandton,-26.0080150000,28.0036100000,0,0,0
+KFC,"Fast Food, Burger",2.3,Poor,23,R,125,2,"Pick n Pay Centre, Douglasdale",Sandton,-26.0383333333,27.9936666667,0,0,0
+McDonald's,Fast Food,2.3,Poor,19,R,100,2,Ruimsig,Roodepoort,-26.1142070307,27.8961834311,0,0,0
+KFC,"Fast Food, Burger",2.3,Poor,20,R,125,2,"Greenstone Crescent, Edenvale",East Rand,-26.1206670000,28.1439730000,0,0,0
+Best of Asia,"Japanese, Chinese",2.4,Poor,69,R,200,3,"Pineslopes Shopping Centre, Fourways",Sandton,-26.0223333333,28.0158333333,0,0,0
+Pizza Hut,Pizza,2.4,Poor,61,R,150,2,"Honeydew Village Shopping Centre, Weltevreden Park",Roodepoort,-26.1055000000,27.9258333333,0,0,0
+Domino's Pizza,"Fast Food, Pizza",2.4,Poor,63,R,150,2,Rivonia,Sandton,-26.0605980000,28.0601590000,0,0,0
+Pizza Hut,Pizza,2.4,Poor,62,R,150,2,Norwood,Johannesburg,-26.1571630000,28.0754160000,0,0,0
+Eat Your Heart Out,"Healthy Food, Deli",2.4,Poor,34,R,150,2,"Maboneng Precinct, City & Suburban ",Inner City,-26.2036366667,28.0593050000,0,0,0
+Adega Express,"Portuguese, Pizza",2.4,Poor,38,R,200,3,"Sandton City Shopping Centre, Sandown",Sandton,-26.1087840000,28.0532650000,0,0,0
+Burger King,"Burger, Fast Food",2.5,Average,24,R,120,2,Boksburg,East Rand,-26.1786720000,28.2347430000,0,0,0
+Pizza Hut,Pizza,2.4,Poor,38,R,150,2,Fourways,Sandton,-26.0172990000,27.9995720000,0,0,0
+Nando's,"African, Portuguese",2.4,Poor,23,R,180,2,"Appleton's Village, Ferndale",Randburg,-26.0953400000,27.9857280000,0,0,0
+Akhalwaya's,"Fast Food, Pizza",2.4,Poor,36,R,100,2,"Sandton City Shopping Centre, Sandown",Sandton,-26.1076666667,28.0543333333,0,0,0
+Cafe Rousse,"Cafe, Fast Food, Italian",2.4,Poor,29,R,200,3,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1276666667,27.9053333333,0,0,0
+Nando's,"African, Portuguese",2.4,Poor,23,R,180,2,"Banbury Cross Village, North Riding",Randburg,-26.0616666667,27.9545000000,0,0,0
+McDonald's,Fast Food,2.4,Poor,31,R,100,2,Fourways,Sandton,-26.0156666667,28.0110000000,0,0,0
+Steers,"Fast Food, Burger",2.4,Poor,20,R,180,2,"The Colony Shopping Centre, Craighall",Johannesburg,-26.1221666667,28.0293333333,0,0,0
+McDonald's,Fast Food,2.4,Poor,18,R,100,2,"Appleton's Village, Ferndale",Randburg,-26.0945000000,27.9848333333,0,0,0
+Steers,"Fast Food, Burger",2.4,Poor,23,R,180,2,"Chilli Lane Shopping Centre, Sunninghill",Sandton,-26.0288333333,28.0606666667,0,0,0
+Debonairs Pizza,Pizza,2.4,Poor,14,R,0,1,"The Zone, Rosebank, Sandton",Johannesburg,-26.1450000000,28.0430000000,0,0,0
+Debonairs Pizza,Pizza,2.4,Poor,17,R,0,1,Norwood,Johannesburg,-26.1597960000,28.0762960000,0,0,0
+Anat,"Fast Food, Middle Eastern",2.4,Poor,15,R,130,2,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1806666667,28.1168333333,0,0,0
+McDonald's,Fast Food,2.4,Poor,17,R,100,2,Bruma,Inner City,-26.1801666667,28.1095000000,0,0,0
+KFC,"Fast Food, Burger",2.4,Poor,14,R,125,2,"Trinity Shopping Centre, Randpark Ridge",Randburg,-26.0941666667,27.9376666667,0,0,0
+KFC,"Fast Food, Burger",2.4,Poor,13,R,125,2,Benoni,East Rand,-26.1729060000,28.3301980000,0,0,0
+Nando's,"African, Portuguese",2.6,Average,56,R,180,2,Sunninghill,Sandton,-26.0286666667,28.0608333333,0,0,0
+Burgerack,Burger,2.5,Average,38,R,180,2,Birnam,Sandton,-26.1300360000,28.0682950000,0,0,0
+Chicken Licken,Fast Food,2.5,Average,27,R,120,2,Rivonia,Sandton,-26.0608333333,28.0583333333,0,0,0
+KFC,"Fast Food, Burger",2.5,Average,27,R,125,2,"Sunhill Center, Sunninghill",Sandton,-26.0258333333,28.0666666667,0,0,0
+Anat,"Fast Food, Middle Eastern",2.5,Average,27,R,130,2,"Montecasino, Fourways",Sandton,-26.0238333333,28.0118333333,0,0,0
+Let's wok,Chinese,2.4,Poor,17,R,70,1,Lonehill,Sandton,-26.0139575000,28.0257460938,0,0,0
+Bronto's,Pizza,2.5,Average,26,R,230,3,Norwood,Johannesburg,-26.1597800000,28.0763800000,0,0,0
+Nando's,"African, Portuguese",2.5,Average,22,R,180,2,"Kyalami Downs Shopping Centre, Kyalami Park",Midrand,-25.9909281591,28.0762146413,0,0,0
+Steers,"Fast Food, Burger",2.4,Poor,22,R,180,2,"The Zone, Rosebank, Sandton",Johannesburg,-26.1448333333,28.0430000000,0,0,0
+McDonald's,Fast Food,2.5,Average,22,R,100,2,Sandown,Sandton,-26.0978333333,28.0558333333,0,0,0
+Debonairs Pizza,Pizza,2.5,Average,15,R,0,1,"Banbury Cross Village, North Riding",Randburg,-26.0620510000,27.9549380000,0,0,0
+Anat,"Fast Food, Middle Eastern",2.5,Average,21,R,130,2,"Cresta Shopping Centre, Cresta",Randburg,-26.1308333333,27.9760000000,0,0,0
+McDonald's,Fast Food,2.5,Average,15,R,100,2,"Stoneridge Shopping Centre, Edenvale",East Rand,-26.1183333333,28.1438333333,0,0,0
+McDonald's,Fast Food,2.4,Poor,14,R,100,2,Edenvale,East Rand,-26.1390333333,28.1513466667,0,0,0
+Debonairs Pizza,Pizza,2.5,Average,17,R,0,1,"Sandton City Shopping Centre, Sandown",Sandton,-26.1076666667,28.0543333333,0,0,0
+Fishaways,"Seafood, Fast Food",2.5,Average,11,R,120,2,"90 Degrees On Rivonia, Rivonia",Sandton,-26.0713333333,28.0643333333,0,0,0
+Domino's Pizza,"Fast Food, Pizza",2.5,Average,19,R,150,2,"Rock Cottage, Weltevreden Park, Roodeport",Roodepoort,-26.1045910000,27.9262680000,0,0,0
+Fish and Chips,"Fast Food, Fish and Chips",2.5,Average,12,R,80,1,"Lonehill Shopping Centre, Lonehill",Sandton,-26.0136670000,28.0269410000,0,0,0
+KFC,"Fast Food, Burger",2.5,Average,11,R,125,2,Craighall,Johannesburg,-26.1146666667,28.0215000000,0,0,0
+Steers,"Fast Food, Burger",2.5,Average,8,R,180,2,"Grayston Shopping Centre, Sandown",Sandton,-26.1001666667,28.0656666667,0,0,0
+Debonairs Pizza,Pizza,2.5,Average,6,R,0,1,"Randburg City Shopping Center, Randburg",Randburg,-26.0931666667,28.0026666667,0,0,0
+KFC,"Fast Food, Burger",2.5,Average,10,R,125,2,"Palm Court, Weltevreden Park",Roodepoort,-26.1253333333,27.9318333333,0,0,0
+KFC,"Fast Food, Burger",2.5,Average,6,R,125,2,Parkhurst,Johannesburg,-26.1423333333,28.0118333333,0,0,0
+Danny's House of Curries,Indian,2.6,Average,36,R,150,2,"Montecasino, Fourways",Sandton,-26.0241850000,28.0133160000,0,0,0
+Blacksteer Rib & Burger,"Burger, Grill",2.6,Average,27,R,260,3,Edenvale,East Rand,-26.1214850000,28.1429980000,0,0,0
+Cosmic Curries,Durban,2.6,Average,20,R,120,2,"Karaglen Shopping Centre, Edenvale",East Rand,-26.1352480000,28.1805410000,0,0,0
+Pizza Hut,Pizza,2.6,Average,24,R,150,2,Edenvale,East Rand,-26.1212510000,28.1382660000,0,0,0
+Akhalz - The Zone,"Fast Food, Pizza",2.6,Average,26,R,180,2,"The Zone, Rosebank, Sandton",Johannesburg,-26.1453970000,28.0434240000,0,0,0
+McDonald's,Fast Food,2.6,Average,27,R,100,2,Rivonia,Sandton,-26.0623333333,28.0630000000,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,23,R,180,2,"Grosvenor Crossing, Bryanston",Sandton,-26.0598000000,28.0227000000,0,0,0
+Pizza Hut,Pizza,2.6,Average,15,R,150,2,"Mall of Africa, Midrand",Midrand,-26.0162250000,28.1063450000,0,0,0
+KFC,"Fast Food, Burger",2.6,Average,17,R,125,2,"Bedford Centre, Bedfordview",East Rand,-26.1876130000,28.1224300000,0,0,0
+Chicken Licken,Fast Food,2.6,Average,11,R,120,2,"Cresta Shopping Centre, Cresta",Randburg,-26.1291666667,27.9728333333,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,21,R,180,2,"Pineslopes Shopping Centre, Fourways",Sandton,-26.0221030000,28.0160560000,0,0,0
+Domino's Pizza,"Fast Food, Pizza",2.6,Average,22,R,150,2,North Riding,Randburg,-26.0598650000,27.9582590000,0,0,0
+The Applebite Roadhouse & Pizzeria,"Fast Food, Grill, Pizza",2.6,Average,12,R,250,3,Benoni,East Rand,-26.1692280000,28.3285710000,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,13,R,180,2,"The Berg Shopping Centre, Bergbron",Johannesburg,-26.1631666667,27.9525000000,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,10,R,0,1,"Grosvenor Crossing, Bryanston",Sandton,-26.0597000000,28.0231000000,0,0,0
+Sandwich Baron,Fast Food,2.6,Average,15,R,150,2,Fourways,Sandton,-26.0277560000,28.0015820000,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,9,R,0,1,Benoni,East Rand,-26.1729060000,28.3301980000,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,15,R,0,1,"Pineslopes Shopping Centre, Fourways",Sandton,-26.0229370000,28.0159510000,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,14,R,180,2,"Sandton City Shopping Centre, Sandown",Sandton,-26.1076666667,28.0516666667,0,0,0
+Fishaways,"Seafood, Fast Food",2.6,Average,10,R,120,2,"All Saints Shopping Centre, North Riding",Randburg,-26.0538640000,27.9714570000,0,0,0
+Fishaways,"Seafood, Fast Food",2.6,Average,8,R,120,2,"Montecasino, Fourways",Sandton,-26.0238333333,28.0120000000,0,0,0
+KFC,"Fast Food, Burger",2.6,Average,10,R,125,2,North Riding,Randburg,-26.0541666667,27.9550000000,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,11,R,0,1,"Comaro Crossing Shopping Centre, Oakdene",Johannesburg South,-26.2653333333,28.0590000000,0,0,0
+Bronto's,Pizza,2.6,Average,11,R,230,3,Parkmore,Sandton,-26.0987581994,28.0463643372,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,12,R,180,2,"Northcliff Square Shopping Centre, Northcliff",Johannesburg,-26.1448333333,27.9836666667,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,8,R,0,1,"Woodmead Retail Park, Woodmead, Sandton",Sandton,-26.0553780000,28.0928460000,0,0,0
+Debonairs Pizza Express,Pizza,2.6,Average,12,R,150,2,Parkmore,Sandton,-26.0993980000,28.0462520000,0,0,0
+McDonald's,Fast Food,2.6,Average,10,R,100,2,"Beacon Isle Shopping Centre, Florida North",Roodepoort,-26.1685000000,27.9301666667,0,0,0
+KFC,"Fast Food, Burger",2.6,Average,4,R,125,2,"Comaro Crossing Shopping Centre, Oakdene",Johannesburg South,-26.2658960000,28.0594520000,0,0,0
+McDonald's,Fast Food,2.6,Average,10,R,100,2,Blackheath,Johannesburg,-26.1293333333,27.9698333333,0,0,0
+Sandwich Baron,Fast Food,2.6,Average,7,R,150,2,"The Square Shopping Centre, Sunninghill",Sandton,-26.0322870000,28.0631840000,0,0,0
+Sausage Saloon,Fast Food,2.6,Average,9,R,100,2,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1276674331,27.9033496231,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,6,R,180,2,"Montecasino, Fourways",Sandton,-26.0240000000,28.0120000000,0,0,0
+Steers,"Fast Food, Burger",2.6,Average,7,R,180,2,"Greenstone Shopping Centre, Edenvale",East Rand,-26.1180320000,28.1410230000,0,0,0
+Sandwich Baron,Fast Food,2.6,Average,4,R,150,2,Kempton Park,East Rand,-26.1321500000,28.2000250000,0,0,0
+Kung-Fu Kitchen,"Chinese, Japanese, Sushi",2.7,Average,59,R,100,2,Parktown North,Johannesburg,-26.1441666667,28.0223333333,0,0,0
+Burgerack,"Burger, American, Beverages, Desserts, Fast Food, Grill, Ice Cream",2.7,Average,24,R,180,2,Lyme Park,Sandton,-26.0806700000,28.0170960000,0,0,0
+Debonairs Pizza,Pizza,2.7,Average,12,R,0,1,Braamfontein,Inner City,-26.1928333333,28.0368333333,0,0,0
+Kung-Fu Kitchen,"Chinese, Japanese, Sushi",2.7,Average,24,R,100,2,Boksburg,East Rand,-26.1789620000,28.2613400000,0,0,0
+Domino's Pizza,"Fast Food, Pizza",2.7,Average,24,R,150,2,"Green Valley Shopping Centre, Edenvale",East Rand,-26.1177790000,28.1559530000,0,0,0
+Adega Express,"Portuguese, Pizza",2.7,Average,15,R,200,3,Woodmead,Sandton,-26.0491760000,28.0925680000,0,0,0
+Casalotti's Pizza Rapido,"Pizza, Italian",2.7,Average,25,R,150,2,Rosebank,Johannesburg,-26.1510919504,28.0332761630,0,0,0
+Popeyes,"Cafe, American",2.1,Poor,64,R,0,1,Sandown,Sandton,-26.1090020475,28.0528978311,0,0,0
+News Cafe,Cafe,2.1,Poor,32,R,350,4,"Emperors Palace, Kempton Park",East Rand,-26.1456666667,28.2211666667,0,0,0
+Fournos Bakery,"Cafe, Bakery",2.3,Poor,75,R,250,3,"Woodmead Retail Park, Woodmead, Sandton",Sandton,-26.0476666667,28.0916666667,0,0,0
+Wiesenhof,"Cafe, Pizza",2.2,Poor,44,R,300,4,Muldersdrift,West Rand,-25.9348910000,27.9258190000,0,0,0
+Yolo,Cafe,2.2,Poor,20,R,150,2,"OR Tambo International Airport, Kempton Park",East Rand,-26.1353333333,28.2313333333,0,0,0
+Mugg & Bean,Cafe,2.3,Poor,80,R,300,4,"Rosebank Mall, Rosebank",Johannesburg,-26.1461666667,28.0421666667,0,0,0
+The French Corner Bakery,Cafe,2.3,Poor,44,R,180,2,"Cramerview Village Shopping Centre, Bryanston",Sandton,-26.0740000000,28.0126666667,0,0,0
+The Factory on Grant,"Cafe, Bakery, Desserts",2.4,Poor,42,R,290,3,Norwood,Johannesburg,-26.1578710000,28.0766600000,0,0,0
+Food Lover's Café,"Cafe, Pizza",2.4,Poor,64,R,150,2,"Nicolway Shopping Centre, Bryanston",Sandton,-26.0523333333,28.0205000000,0,0,0
+Seattle Coffee Co.,Cafe,2.4,Poor,29,R,150,2,"Montecasino, Fourways",Sandton,-26.0238333333,28.0120000000,0,0,0
+Cappuccino's Cafe & Pizzeria,"Cafe, Italian, Fast Food, Pizza",2.5,Average,90,R,250,3,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1282766878,27.9053549096,0,0,0
+Milk Bar,Cafe,2.5,Average,49,R,140,2,Rosebank,Johannesburg,-26.1435420000,28.0364600000,0,0,0
+Mugg & Bean,Cafe,2.5,Average,46,R,300,4,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1800000000,28.1165000000,0,0,0
+The Harvard Cafe,Cafe,2.5,Average,40,R,280,3,Halfway Gardens,Midrand,-25.9869800000,28.1409510000,0,0,0
+Crafters & Cravings,Cafe,2.5,Average,29,R,150,2,Linden,Randburg,-26.1401150000,27.9910440000,0,0,0
+Rivers Cafe,"Cafe, American, Japanese",2.6,Average,24,R,300,4,"World Wear Centre, Northcliff",Johannesburg,-26.1190000000,27.9561666667,0,0,0
+Woolworths Cafe,Cafe,2.5,Average,19,R,190,2,Benoni,East Rand,-26.1623160000,28.3042220000,0,0,0
+Mugg & Bean,Cafe,2.5,Average,19,R,300,4,"Town Square, Weltevreden Park, Roodeport",Roodepoort,-26.1364030000,27.9174650000,0,0,0
+Byte Cafe,"Cafe, Contemporary",2.5,Average,16,R,300,4,"OR Tambo International Airport, Kempton Park",East Rand,-26.1356080000,28.2387000000,0,0,0
+Food Lover's Café,"Cafe, Pizza",2.5,Average,15,R,150,2,Norwood,Johannesburg,-26.1475000000,28.0791666667,0,0,0
+Coffee Couture,Cafe,2.5,Average,8,R,200,3,Morningside,Sandton,-26.0946350000,28.0547170000,0,0,0
+Fego Caffe,"Cafe, Italian, Contemporary",2.6,Average,85,R,180,2,"Montecasino, Fourways",Sandton,-26.0265000000,28.0100000000,0,0,0
+Woolworths Cafe,Cafe,2.5,Average,50,R,190,2,"Morningside Shopping Centre, Morningside",Sandton,-26.0830670000,28.0601840000,0,0,0
+The Bread Basket,"Cafe, Bakery",2.6,Average,48,R,180,2,"Morningside Shopping Centre, Morningside",Sandton,-26.0821666667,28.0605000000,0,0,0
+News Cafe,Cafe,2.6,Average,61,R,350,4,"24 Central, Sandown",Sandton,-26.1009130000,28.0565100000,0,0,0
+Chalkboard,Cafe,2.7,Average,44,R,250,3,"Maboneng Precinct, City & Suburban ",Inner City,-26.2037900000,28.0598650000,0,0,0
+Mugg & Bean,Cafe,2.6,Average,40,R,300,4,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1274103652,27.9058564827,0,0,0
+Cafe Chicago,Cafe,2.6,Average,35,R,120,2,Meyersdal,Johannesburg South,-26.2871824541,28.1044851243,0,0,0
+Europa,"Cafe, Pizza",2.6,Average,38,R,250,3,"Douglasdale Village Shopping Centre, Douglasdale",Sandton,-26.0402920000,27.9941810000,0,0,0
+Mugg & Bean,Cafe,2.6,Average,42,R,300,4,"Carlswald Lifestyle Centre, Carlswald",Midrand,-259.0000000000,281.0000000000,0,0,0
+Fego Caffe,Cafe,2.6,Average,28,R,180,2,"Woodmead Retail Park, Woodmead, Sandton",Sandton,-26.0505000000,28.0928333333,0,0,0
+IT Corner,Cafe,2.6,Average,15,R,150,2,Melville,Johannesburg,-26.1740170000,28.0023090000,0,0,0
+Boulevard Cafe,"Cafe, Pizza, Italian",2.6,Average,17,R,250,3,Illovo,Sandton,-26.1291666667,28.0476666667,0,0,0
+Mugg & Bean,Cafe,2.6,Average,10,R,300,4,"Gold Reef City, Ormonde",Johannesburg South,-26.2354760000,28.0134740000,0,0,0
+Fiddlewood's Restaurant,"Cafe, Pizza",2.6,Average,9,R,250,3,Bedfordview,East Rand,-26.1755510000,28.1353850000,0,0,0
+Wild Bean Cafe,Cafe,2.6,Average,7,R,55,1,Sandown,Sandton,-26.0980000000,28.0591666667,0,0,0
+Cafe Di Stefano,"Cafe, Mediterranean",2.6,Average,7,R,150,2,Edenvale,East Rand,-26.1408156715,28.1534941122,0,0,0
+Cappuccino's Cafe & Pizzeria,"Cafe, Italian, Fast Food, Pizza",2.7,Average,125,R,250,3,"Greenstone Shopping Centre, Edenvale",East Rand,-26.1180320000,28.1410230000,0,0,0
+Europa,"Cafe, Pizza",2.7,Average,72,R,250,3,Parkview,Johannesburg,-26.1601666667,28.0261666667,0,0,0
+Mugg & Bean,Cafe,2.7,Average,58,R,300,4,"Killarney Mall, Killarney",Sandton,-26.1660000000,28.0548333333,0,0,0
+Woolworths Cafe,Cafe,2.8,Average,50,R,190,2,"Melrose Arch, Melrose ",Sandton,-26.1315000000,28.0685000000,0,0,0
+Caffe Fresco,Cafe,2.7,Average,39,R,200,3,"Benmore Gardens Shopping Centre, Benmore Gardens",Sandton,-26.0998190000,28.0494290000,0,0,0
+Europa,"Cafe, Pizza",2.7,Average,47,R,250,3,"Killarney Mall, Killarney",Sandton,-26.1665000000,28.0535000000,0,0,0
+Plantation Cafe,"Cafe, Pizza",2.7,Average,29,R,300,4,Halfway Gardens,Midrand,-25.9787410000,28.1203000000,0,0,0
+Mugg & Bean,Cafe,2.7,Average,35,R,300,4,"The Glen Shopping Centre, Oakdene, Johannesburg South",Johannesburg South,-26.2671666667,28.0513333333,0,0,0
+Mugg & Bean,Cafe,2.7,Average,35,R,300,4,"Boskruin Village Shopping Centre, Boskruin",Randburg,-260.0000000000,279.0000000000,0,0,0
+Lattelicious,"Cafe, Sushi, Pizza",2.7,Average,25,R,150,2,"Eastgate Shopping Centre, Bedford Gardens",East Rand,-26.1803333333,28.1176666667,0,0,0
+News Cafe,Cafe,2.7,Average,24,R,350,4,"Town Square, Weltevreden Park, Roodeport",Roodepoort,-26.1370000000,27.9181666667,0,0,0
+Fournos Bakery,"Cafe, Bakery",2.7,Average,33,R,250,3,"Lifestyle Crossing, Wilgeheuwel",Roodepoort,-26.1143333333,27.8938333333,0,0,0
+Arum Symphony Coffee Shop,Cafe,2.7,Average,16,R,250,3,Boksburg,East Rand,-26.2182200000,28.2377420000,0,0,0
+Mugg & Bean Mall of The South,Cafe,2.7,Average,18,R,300,4,"Mall of the South, Meyersdal",Johannesburg South,-26.3156890000,28.0629280000,0,0,0
+News Cafe,Cafe,2.7,Average,18,R,350,4,"Campus Square Shoppinng Center, Melville",Johannesburg,-26.1815000000,28.0036666667,0,0,0
+NetCafe,Cafe,2.7,Average,8,R,120,2,Milpark,Inner City,-26.1800000000,28.0200000000,0,0,0
+Le' Escobar,Cafe,2.7,Average,9,R,0,1,Bergbron,Johannesburg,0.0000000000,0.0000000000,0,0,0
+Cafe Delicia,"Cafe, Portuguese",2.7,Average,10,R,150,2,Edenvale,East Rand,-26.1313551212,28.1786401570,0,0,0
+Krunch - Sandown Valley Crescent,Cafe,2.7,Average,12,R,180,2,Sandown,Sandton,-26.1022150000,28.0496050000,0,0,0
+Mugg & Bean,Cafe,2.7,Average,9,R,300,4,"Lakeside Mall, Benoni",East Rand,-26.1850000000,28.3146666667,0,0,0
+Woolworths Cafe,Cafe,2.7,Average,9,R,190,2,Norwood Mall,Johannesburg,0.0000000000,0.0000000000,0,0,0
+Woolworths Cafe,Cafe,2.8,Average,92,R,190,2,"Design Quarter, Fourways",Sandton,-26.0306666667,28.0111666667,0,0,0
+Mugg & Bean,Cafe,2.8,Average,46,R,300,4,"Montecasino, Fourways",Sandton,-26.0240000000,28.0145000000,0,0,0
+Doppio Zero,"Cafe, Italian, Bakery, Pizza",2.8,Average,42,R,300,4,Kyalami,Midrand,-25.9438580000,28.1058640000,0,0,0
+Mugg & Bean,Cafe,2.8,Average,48,R,300,4,"Fourways Mall, Fourways",Sandton,-26.0200290000,28.0072670000,0,0,0
+Woolworths Cafe,Cafe,2.8,Average,40,R,190,2,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1269010440,27.9062856361,0,0,0
+Caffe Finetsa,Cafe,2.8,Average,24,R,0,1,Strubens Valley,Roodepoort,-26.1281666667,27.9046666667,0,0,0
+Oakes Brew House,Cafe,2.8,Average,12,R,200,3,Edenvale,East Rand,-26.0958300000,28.1587030000,0,0,0
+Cafe Nes,Cafe,2.8,Average,14,R,150,2,"The Village Horizon Centre, Horizon View",Roodepoort,-26.1433620000,27.8689760000,0,0,0
+Mugg & Bean,Cafe,2.8,Average,17,R,300,4,Panorama Shopping Centre ,Johannesburg South,-26.2964690000,28.0471020000,0,0,0
+News Cafe,Cafe,2.8,Average,21,R,350,4,"Key Largo Shopping Centre, Boksburg",East Rand,-26.1778333333,28.2548333333,0,0,0
+News Cafe,Cafe,2.8,Average,11,R,350,4,"Northview Shopping Centre, North Riding",Randburg,-26.0608250000,27.9541250000,0,0,0
+Wiesenhof,"Cafe, Pizza",2.8,Average,8,R,300,4,Bryanston,Sandton,-26.0774810000,28.0123260000,0,0,0
+News Cafe,Cafe,2.8,Average,9,R,350,4,"Maponya Mall, Klipspruit",Soweto,-26.2586206840,27.9017604142,0,0,0
+Little OT's,Cafe,2.8,Average,11,R,150,2,Fontainbleau,Randburg,-26.1041850000,27.9763420000,0,0,0
+Mugg & Bean,Cafe,2.8,Average,14,R,300,4,Parkhurst,Johannesburg,-26.1376666667,28.0085000000,0,0,0
+La Vie Est Rose Cafe,Cafe,2.8,Average,7,R,100,2,Brackendowns,Johannesburg South,-26.3126040000,28.0961080000,0,0,0
+Cafe Mirosta,Cafe,2.8,Average,9,R,150,2,"Northmead Square, Benoni",East Rand,-26.1630000000,28.3233333333,0,0,0
+Fabled Foods,"Cafe, Desserts, Contemporary",2.8,Average,9,R,200,3,Morningside,Sandton,-26.0886140000,28.0807430000,0,0,0
+Deli One,"Cafe, Deli",2.8,Average,7,R,250,3,Kempton Park,East Rand,-26.1348333333,28.2311666667,0,0,0
+News Cafe,Cafe,2.9,Average,45,R,350,4,"The Zone, Rosebank, Sandton",Johannesburg,-26.1454070000,28.0434030000,0,0,0
+The Rooftop Cafe ,"Cafe, Contemporary, Coffee and Tea, Continental, Desserts, European, Seafood, Sandwich",2.9,Average,42,R,0,1,Rosebank,Johannesburg,-26.1589570000,28.0467760000,0,0,0
+State 5,"Cafe, American, Burger, Pizza, Street Food",2.9,Average,32,R,160,2,Fourways,Sandton,-26.0235450000,27.9953890000,0,0,0
+News Cafe,Cafe,2.8,Average,21,R,350,4,"Newtown Junction, Newtown",Inner City,-26.2003650000,28.0311170000,0,0,0
+Wiesenhof,"Cafe, Pizza",2.9,Average,25,R,300,4,"Linksfield Terrace, Linksfield",Johannesburg,-26.1486666667,28.1286666667,0,0,0
+Caffe Espresso,"Cafe, Finger Food, Healthy Food, South African",2.9,Average,18,R,180,2,"Noordheuwel Shopping Centre, Krugersdorp",West Rand,-26.0899050000,27.8185766667,0,0,0
+News Cafe,Cafe,2.9,Average,14,R,350,4,Ferndale,Randburg,-26.0929790000,27.9847460000,0,0,0
+Woolworths Cafe,Cafe,2.9,Average,9,R,190,2,"Bedford Centre, Bedfordview",East Rand,-26.1882240000,28.1255100000,0,0,0
+Woolworths Cafe,Cafe,2.9,Average,6,R,190,2,Wilgeheuwel,Roodepoort,-26.1100000000,27.8900000000,0,0,0
+Fego Caffe,Cafe,2.9,Average,7,R,180,2,Krugersdorp,West Rand,-26.0608830000,27.8377020000,0,0,0
+News Room,"Cafe, Pizza",2.9,Average,8,R,150,2,Parktown North,Johannesburg,-26.1450270000,28.0356640000,0,0,0
+MelonRouge Eatery & Art,Cafe,2.9,Average,8,R,160,2,Magaliesburg,West Rand,-25.9507320000,27.5476810000,0,0,0
+Cafe Flamingo,Cafe,2.9,Average,6,R,160,2,"Montecasino, Fourways",Sandton,-26.0242690000,28.0131870000,0,0,0
+Wiesenhof,"Cafe, Pizza",2.9,Average,6,R,300,4,Benoni,East Rand,-26.1471660000,28.3523170000,0,0,0
+Food Lover's Café,"Cafe, Pizza",2.9,Average,1,R,150,2,"Westgate Shopping Centre, Ontdekker",Roodepoort,-26.1396666667,27.8631666667,0,0,0
+Willow Cafe,Cafe,2.9,Average,2,R,100,2,Craighall,Johannesburg,-26.1153333333,28.0223333333,0,0,0
+A Choupana,"Cafe, Portuguese",3.0,Average,16,R,350,4,Brackendowns,Johannesburg South,-26.3122900000,28.0801800000,0,0,0
+Mugg & Bean,Cafe,3.0,Average,28,R,300,4,"Woodbridge Square, Kempton Park",East Rand,-26.0795250000,28.2475570000,0,0,0
+Cafe De La Roche,"Cafe, Burger, Bakery, Contemporary, Desserts, Grill, Italian, Pizza",3.1,Average,11,R,120,2,Honeydew,Roodepoort,-26.0819907787,27.9266948998,0,0,0
+Kat's Cafe,Cafe,3.0,Average,8,R,200,3,"Park Meadows Shopping Center, Bedford Gardens",East Rand,-26.1835000000,28.1130380000,0,0,0
+Vida E Caffe,Cafe,3.0,Average,8,R,150,2,Muldersdrift,West Rand,-25.9399360000,27.9244630000,0,0,0
+Fego Caffe,Cafe,3.0,Average,7,R,180,2,Sandown,Sandton,-26.1009450000,28.0564860000,0,0,0
+A Pinch of Thyme,Cafe,3.0,Average,4,R,150,2,Rosettenville,Johannesburg South,-26.2614110000,28.0312710000,0,0,0
+News Cafe,Cafe,2.1,Poor,32,R,350,4,"Emperors Palace, Kempton Park",East Rand,-26.1456666667,28.2211666667,0,0,0
+Rosetta's Bistro,"Asian, Mediterranean, Egyptian",2.2,Poor,35,R,400,4,"Emperors Palace, Kempton Park",East Rand,-26.1464458435,28.2231764364,0,0,0
+Airport Craft Brewers,"Mediterranean, Seafood",2.4,Poor,60,R,300,4,"OR Tambo International Airport, Kempton Park",East Rand,-26.1367840000,28.2408030000,0,0,0
+Hooters,American,2.5,Average,80,R,300,4,"Emperors Palace, Kempton Park",East Rand,-26.1456666667,28.2211666667,0,0,0
+Bru's,"South African, Pizza, Burger",2.5,Average,18,R,250,3,"Carnival City, Brakpan",East Rand,-26.2583500000,28.3139060000,0,0,0
+Hashtag Kitchen & Bar,Contemporary,2.6,Average,7,R,400,4,"The Colony Shopping Centre, Craighall",Johannesburg,0.0000000000,0.0000000000,0,0,0
+Hard Rock Cafe,"American, Steak, Burger",2.7,Average,555,R,450,4,"Nelson Mandela Square, Sandown",Sandton,-26.1076666667,28.0543333333,0,0,0
+Winesense,Mediterranean,2.7,Average,34,R,360,4,"Melrose Arch, Melrose ",Sandton,-26.1336666667,28.0681666667,0,0,0
+Harleys Grill and Pub,"South African, Burger, Pizza",2.7,Average,6,R,0,1,Bedfordview,East Rand,-26.1805720262,28.1364485926,0,0,0
+The Getty : Miami,Finger Food,2.8,Average,31,R,300,4,North Riding,Randburg,-26.0548370000,27.9643880000,0,0,0
+Shikisha,Finger Food,2.8,Average,7,R,250,3,Newtown,Inner City,-26.2041666667,28.0335000000,0,0,0
+Tsunami Beach Restaurant,"Fast Food, Latin American",2.8,Average,6,R,200,3,Benoni,East Rand,-26.1494080000,28.2997890000,0,0,0
+JB's Corner,"Italian, American, Pizza, Burger, Desserts, Grill, Seafood",2.9,Average,95,R,0,1,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1273947123,27.9044473171,0,0,0
+Sankayi,Finger Food,2.9,Average,7,R,400,4,"90 Degrees On Rivonia, Rivonia",Sandton,-26.0710500000,28.0642000000,0,0,0
+Rockabilly's Pool Hall,Pizza,2.9,Average,9,R,180,2,Edenvale,East Rand,-26.1254350000,28.1660730000,0,0,0
+Las Vegas Tavern,"South African, African",2.9,Average,4,R,50,1,Newtown,Inner City,-26.2015000000,28.0371666667,0,0,0
+Sports Cafe,Drinks Only,2.9,Average,1,R,100,2,Benoni,East Rand,-26.1934366667,28.3186366667,0,0,0
+De Peak,South African,2.9,Average,4,R,150,2,Newtown,Inner City,-26.2018333333,28.0335000000,0,0,0
+International Restaurant & Action Bar,"Beverages, Finger Food",2.9,Average,4,R,50,1,Newtown,Inner City,-26.2015140000,28.0351630000,0,0,0
+Niche Lounge,"Finger Food, Beverages",3.0,Average,7,R,600,4,Rosebank,Johannesburg,-26.1459640000,28.0371150000,0,0,0
+Ballbreakers Pool Bar,Finger Food,3.0,Average,4,R,180,2,Blackheath,Johannesburg,-26.1286050000,27.9698700000,0,0,0
+Burg's Sports Bar,Finger Food,3.0,Average,2,R,200,3,"The Village Horizon Centre, Horizon View",Roodepoort,-26.1433620000,27.8689760000,0,0,0
+All Stars Sports Bar,Drinks Only,3.0,Average,1,R,200,3,"Trinity Shopping Centre, Randpark Ridge",Randburg,-26.0919410000,27.9377020000,0,0,0
+Chalk & Cue Sports Bar,Finger Food,3.0,Average,4,R,300,4,North Riding,Randburg,-26.0783200000,27.9460530000,0,0,0
+The Lacuna Bar - The Maslow Hotel,"African, Finger Food",3.1,Average,37,R,200,3,"The Maslow Hotel, Sandown, Sandton",Sandton,-26.0992640000,28.0590750000,0,0,0
+Colonial Restaurant,"Portuguese, Pizza",3.2,Average,22,R,400,4,Magaliesburg,West Rand,-25.9316640000,27.4674300000,0,0,0
+Ballbreakers Pool Bar,Finger Food,3.0,Average,13,R,180,2,Fourways,Sandton,-26.0204410000,28.0137510000,0,0,0
+Barnyard Theatre,"Grill, Pizza",3.1,Average,12,R,300,4,"Cresta Shopping Centre, Cresta",Randburg,-26.1286170000,27.9735840000,0,0,0
+Grosky's Restaurant,"Seafood, Steak, American, Beverages, Burger, Desserts, Finger Food, Grill",3.1,Average,8,R,0,1,"Noordheuwel Shopping Centre, Krugersdorp",West Rand,-26.0899050000,27.8185766667,0,0,0
+Pizza Del Forno,"Italian, Pizza",3.1,Average,11,R,350,4,Florida Glen,West Rand,-26.1646250000,27.9432620000,0,0,0
+O Cantinho,Portuguese,3.1,Average,7,R,250,3,Germiston,East Rand,-26.2390570000,28.1758510000,0,0,0
+Open at Eagle Canyon,"Contemporary, South African, Steak",3.1,Average,4,R,250,3,Honeydew,Roodepoort,-26.0863120000,27.9264190000,0,0,0
+The Terrace-Cigar & Wine Bar- The Hyatt Regency,Drinks Only,3.1,Average,4,R,400,4,"Hyatt Regency, Rosebank, Johannesburg",Johannesburg,-26.1434510000,28.0434600000,0,0,0
+Pool Gazebo Bar - Hilton Hotel,Cafe,3.2,Average,2,R,350,4,"Hilton Hotel, Sandown",Sandton,-26.1017470000,28.0595860000,0,0,0
+Sphere Monk,"South African, Finger Food",3.2,Average,5,R,300,4,City and Suburban,Inner City,-26.2032300000,28.0603100000,0,0,0
+Roving Bantu Kitchen,African,3.2,Average,8,R,250,3,Mayfair,Inner City,-26.1934340000,28.0009360000,0,0,0
+Library Bar - African Pride Melrose Arch Hotel,"Contemporary, Grill",3.2,Average,8,R,400,4,"African Pride Hotel, Melrose Arch",Sandton,-26.1318090000,28.0679050000,0,0,0
+Rhinos Pub And Grill,"Burger, Grill, Fast Food, Finger Food",3.2,Average,9,R,180,2,Wilropark,Roodepoort,-26.1232427159,27.8751579300,0,0,0
+The Nine Barrels,"Finger Food, Belgian, Grill, Seafood, Steak, Tapas",3.2,Average,4,R,200,3,City and Suburban,Inner City,-26.2016190000,28.0589720000,0,0,0
+Dakota Lee - Rockabilly Bar & Tattoo Studio,Drinks Only,3.2,Average,5,R,240,3,Morningside,Sandton,-26.0885690000,28.0835610000,0,0,0
+Sundowners Pub,Drinks Only,3.1,Average,6,R,120,2,Mulbarton,Johannesburg South,-26.3086130000,28.0571330000,0,0,0
+Nineteen69,"Pizza, Finger Food",3.3,Average,131,R,200,3,"Boskruin Village Shopping Centre, Boskruin",Randburg,-26.0867540000,27.9589590000,0,0,0
+Chicago's Piano Bar,"American, Steak",3.3,Average,120,R,300,4,Randpark Ridge,Randburg,-26.0930990000,27.9392240000,0,0,0
+Dingo's,"Finger Food, Burger, Grill",3.3,Average,18,R,380,4,"Lakefield Square, Lakefield",East Rand,-26.1785040000,28.2865170000,0,0,0
+Republic of 94,"American, Pizza, Burger",3.3,Average,10,R,0,1,Braamfontein,Inner City,-26.1942700000,28.0368750000,0,0,0
+Hi-Flyerz Aviation Bar & Restaurant,"Grill, Pizza, International",3.3,Average,9,R,220,3,Boksburg,East Rand,-26.1750250000,28.2483720000,0,0,0
+Randlords,Contemporary,3.3,Average,11,R,0,1,Braamfontein,Inner City,-26.1938950000,28.0318470000,0,0,0
+Ridgeway Racebar,"Grill, Pizza",3.4,Average,36,R,200,3,"Stoneridge Shopping Centre, Edenvale",East Rand,-26.1138270000,28.1436600000,0,0,0
+Sir James Van Der Merwe,Finger Food,3.4,Average,22,R,180,2,"Katy's Palace Bar, Morningside",Sandton,-26.0888880000,28.0807320000,0,0,0
+The Good Luck Bar,"African, Finger Food",3.4,Average,16,R,150,2,Ferreirastown,Inner City,-26.2071200000,28.0318200000,0,0,0
+Poolside,"Contemporary, Beverages",3.4,Average,16,R,300,4,"Maboneng Precinct, City & Suburban ",Inner City,-26.2032700000,28.0597770000,0,0,0
+Casa De Amigos,Portuguese,3.4,Average,17,R,350,4,Kempton Park,East Rand,-26.0827640000,28.2331580000,0,0,0
+86 Public,Pizza,3.5,Good,89,R,300,4,Illovo,Sandton,-26.1305190000,28.0495440000,0,0,0
+Murphy's Law Bar &  Grill,Grill,3.6,Good,62,R,600,4,North Riding,Randburg,-26.0541600209,27.9555628449,0,0,0
+Thief Restaurant,Continental,3.3,Average,15,R,450,4,Parkmore,Sandton,0.0000000000,0.0000000000,0,0,0
+Ratz Bar,"Mexican, Fast Food",3.5,Good,43,R,200,3,Melville,Johannesburg,-26.1761666667,28.0088333333,0,0,0
+The Green Room at Pirates East,"Cafe, Continental, Bakery, Burger, Desserts, Finger Food, Italian, Pizza",3.5,Good,23,R,260,3,Greenside,Johannesburg,-26.1466040149,28.0162548646,0,0,0
+The VIP Room,"Finger Food, Beverages",3.5,Good,17,R,750,4,"Michelangelo Towers Mall, Sandown",Sandton,-26.1063333333,28.0540000000,0,0,0
+Beerhouse Fourways,European,3.6,Good,373,R,300,4,Fourways,Sandton,-26.0215857805,28.0136180086,0,0,0
+Jo'Anna Melt Bar,"European, Beverages, Desserts, Finger Food",3.7,Good,81,R,150,2,Melville,Johannesburg,-26.1766800000,28.0085900000,0,0,0
+The Deck @ Possums,European,3.6,Good,29,R,220,3,"Possums on Burnside, Craighall Park",Johannesburg,-26.1143090000,28.0225550000,0,0,0
+Crafters Bar,Drinks Only,3.6,Good,29,R,200,3,Norwood,Johannesburg,-26.1578430000,28.0766750000,0,0,0
+San Bar - Sandton Sun Hotel,"African, European",3.7,Good,178,R,450,4,"Sandton Sun Hotel, Sandown, Sandton",Sandton,-26.1071780000,28.0519040000,0,0,0
+Island Bar at Southern Sun,Mediterranean,3.7,Good,57,R,250,3,Hyde Park,Sandton,-26.1244240000,28.0325710000,0,0,0
+Great Dane,"Finger Food, South African, American",3.7,Good,89,R,0,1,Braamfontein,Inner City,-26.1943160000,28.0346710000,0,0,0
+The Griffin,Contemporary,3.8,Good,378,R,350,4,Illovo,Sandton,-26.1346643392,28.0483273789,0,0,0
+Olivias Coffee Bake,"Bakery, Cafe",3.9,Good,156,R,200,3,Northcliff,Johannesburg,-26.1443333333,27.9811666667,0,0,0
+Six Bar and Restaurant,"South African, Italian, European",3.8,Good,108,R,200,3,Melville,Johannesburg,-26.1768333333,28.0086666667,0,0,0
+Milk & Honey Bar,French,3.8,Good,44,R,500,4,"Montecasino, Fourways",Sandton,-26.0240000000,28.0145000000,0,0,0
+Copper Bar,Drinks Only,3.8,Good,40,R,200,3,Bryanston,Sandton,-26.0616790000,28.0213210000,0,0,0
+The Artisan,Cafe,3.9,Good,236,R,350,4,Greenside,Johannesburg,-26.1463333333,28.0091666667,0,0,0
+Lenin's Vodka Bar,American,3.9,Good,58,R,180,2,"Maboneng Precinct, City & Suburban ",Inner City,-26.2035300000,28.0606440000,0,0,0
+Mooteebar,"African, Finger Food",3.9,Good,23,R,250,3,Melville,Johannesburg,-26.1757544060,28.0084017220,0,0,0
+Erawan Thai Restaurant and Bar,Thai,4.0,Very Good,256,R,300,4,"Riverside Shopping Center, Bryanston",Sandton,-26.0586360000,28.0468290000,0,0,0
+EB Social Kitchen & Bar,"Contemporary, Tapas",4.0,Very Good,183,R,550,4,"Hyde Park Corner, Hyde Park",Sandton,-26.1252070000,28.0333130000,0,0,0
+86 Public,Pizza,4.0,Very Good,191,R,300,4,Braamfontein,Inner City,-26.1941070000,28.0361310000,0,0,0
+Nostimo by Mythos,"Greek, Pizza",4.0,Very Good,81,R,225,3,Woodmead,Sandton,-26.0137092788,28.0994251671,0,0,0
+011 Dainfern by The Baron,"Finger Food, Burger, Beverages, Grill, Italian, Mediterranean, Seafood, Steak",4.1,Very Good,82,R,175,2,"Dainfern Square, Dainfern",Midrand,-25.9940100000,28.0138950000,0,0,0
+The Landmark,"Finger Food, Pizza",4.0,Very Good,72,R,340,4,"Bryanston Shopping Centre, Bryanston",Sandton,-26.0755270000,28.0278250000,0,0,0
+Tonic,"Finger Food, Tapas",4.0,Very Good,35,R,0,1,Linden,Randburg,-26.1408360875,27.9915467205,0,0,0
+The National,American,4.1,Very Good,259,R,515,4,Parktown North,Johannesburg,-26.1440716000,28.0251930000,0,0,1
+Bolton Road Collection,"European, Contemporary",4.2,Very Good,381,R,400,4,Rosebank,Johannesburg,-26.1489620000,28.0347440000,0,0,0
+The Countess,"Burger, Juices, American, Finger Food, Grill",4.2,Very Good,306,R,380,4,"27 Boxes, Melville, ",Johannesburg,-26.1756163473,28.0074203387,0,0,0
+Backyard Pop Up Bar,American,0,Not rated,2,R,200,3,Bramley,Johannesburg,-26.1260350000,28.0813010000,0,0,0
+Observatory Golf Club Restaurant/Bar,"Finger Food, Fast Food",0,Not rated,1,R,110,2,Buccleuch,Johannesburg,-26.1786350000,28.0788160000,0,0,0
+Brass Bar on 85,Contemporary,0,Not rated,2,R,260,3,Marshalltown,Inner City,-26.2055950000,28.0407180000,0,0,0
+The City Bar and Grill,"Contemporary, Finger Food",0,Not rated,2,R,150,2,"Maboneng Precinct, City & Suburban ",Inner City,-26.2035470000,28.0592920000,0,0,0
+Firemans Tavern,Finger Food,0,Not rated,3,R,300,4,Kempton Park,East Rand,-26.0929080000,28.1539610000,0,0,0
+The Club House Bar and Grill,Grill,0,Not rated,2,R,250,3,Alberton,Johannesburg South,-26.2755980000,28.1355450000,0,0,0
+The Green Craft Bar,"Italian, Finger Food",0,Not rated,3,R,270,3,Glenvista,Johannesburg South,0.0000000000,0.0000000000,0,0,0
+Capri Kitchen & Bar,Italian,0,Not rated,2,R,300,4,Greenside,Johannesburg,-26.1463600000,28.0102400000,0,0,0
+Gem Bar & Grill,Grill,0,Not rated,3,R,150,2,Germiston,East Rand,-26.2417580000,28.1759750000,0,0,0
+Valley Tavern,Drinks Only,0,Not rated,2,R,200,3,Vorna Valley,Midrand,-26.0017110000,28.1134830000,0,0,0
+The Horse and River,Grill,0,Not rated,2,R,230,3,Bassonia,Johannesburg South,0.0000000000,0.0000000000,0,0,0
+Rosebank Bowling Club,South African,0,Not rated,2,R,250,3,Dunkeld,Sandton,-26.1342310000,28.0340870000,0,0,0
+Bubbly Bar Champagne Lounge,"European, Finger Food",0,Not rated,2,R,360,4,Greenside,Johannesburg,-26.1467430000,28.0110960000,0,0,0
+Ophirton Hotel,"British, Finger Food",0,Not rated,2,R,240,3,Ormonde,Johannesburg South,-26.2244250000,28.0296400000,0,0,0
+Shooters Pool Hall,Pizza,0,Not rated,2,R,160,2,Horizon View,Roodepoort,-26.1395230000,27.8672470000,0,0,0
+Motswako Pot,African,0,Not rated,3,R,150,2,Muldersdrift,West Rand,-26.0543220000,27.9068090000,0,0,0
+Phoenix Bar,American,0,Not rated,1,R,0,1,Ferndale,Randburg,-26.0873090000,27.9984600000,0,0,0
+Dros,"Portuguese, Italian, American, Pizza",2.3,Poor,35,R,300,4,"Carlswald Lifestyle Centre, Carlswald",Midrand,-25.9791490000,28.1162850000,0,0,0
+The Brazen Head,Irish,2.3,Poor,25,R,330,4,Sandown,Sandton,-26.1010520000,28.0693700000,0,0,0
+Jolly Cool,Finger Food,2.4,Poor,103,R,200,3,Parkhurst,Johannesburg,-26.1430000000,28.0168333333,0,0,0
+Green & Gold,"South African, British, Finger Food, Fish and Chips, Burger, Hot Pot, Pub Food",2.5,Average,50,R,250,3,Weltevreden Park,Roodepoort,-26.1492500000,27.9259310000,0,0,0
+The Beer Co.,Contemporary,2.6,Average,33,R,250,3,Germiston,East Rand,-26.2414167367,28.1578845531,0,0,0
+Molly Malone's,"Irish, Burger, Grill",2.7,Average,118,R,250,3,Fourways,Sandton,-26.0201680000,28.0143610000,0,0,0
+The Colony Arms,"European, British",2.7,Average,52,R,200,3,"The Colony Shopping Centre, Craighall",Johannesburg,-26.1221666667,28.0295000000,0,0,0
+Off the Grid,"Finger Food, Steak",2.7,Average,25,R,260,3,Paulshof,Sandton,-26.0355115311,28.0516385660,0,0,0
+Scrooge,Finger Food,2.7,Average,21,R,50,1,Greenside,Johannesburg,-26.1464090000,28.0099790000,0,0,0
+Stones Melville,Drinks Only,2.7,Average,10,R,250,3,Melville,Johannesburg,-26.1764300000,28.0086800000,0,0,0
+The Lemon Tree Car Wash & Pub,Cafe,2.7,Average,7,R,100,2,Linden,Randburg,-26.1218333333,27.9890000000,0,0,0
+Billy the Bum's,Finger Food,2.7,Average,79,R,250,3,"Pineslopes Shopping Centre, Fourways",Sandton,-26.0220000000,28.0155000000,0,0,0
+The Pig & Wiggill,Portuguese,2.8,Average,8,R,200,3,Randpark Ridge,Randburg,-26.1021230000,27.9613120000,0,0,0
+Steamers Pub & Grill,Grill,2.8,Average,10,R,150,2,Northcliff,Johannesburg,-26.1366666667,27.9543333333,0,0,0
+Brigadoon's Pub and Restaurant,Finger Food,2.8,Average,4,R,180,2,Benoni,East Rand,-26.1643720000,28.2983490000,0,0,0
+Murphy's Pub & Grill,Grill,2.9,Average,21,R,220,3,Germiston,East Rand,-26.2501220000,28.1840880000,0,0,0
+Street Cafe,"Italian, Pizza",2.9,Average,6,R,180,2,Edenvale,East Rand,-26.1321990000,28.1481280000,0,0,0
+Crew Room Lounge,"Grill, Pizza",2.9,Average,7,R,150,2,Kempton Park,East Rand,-26.1200260000,28.2587650000,0,0,0
+O'Hagans Irish Pub,Irish,2.9,Average,4,R,0,1,"Value Fair Shopping Center, Halway House",Midrand,-26.0014803680,28.1256725639,0,0,0
+Bubba J's,"Pizza, European",2.9,Average,4,R,150,2,"Summerfield Shopping Centre, Atlasville, East Rand",East Rand,-26.1599530000,28.2798420000,0,0,0
+The Joker,Contemporary,2.9,Average,3,R,220,3,"Wilrogate Centre, Ontdekker",Roodepoort,-26.1268880000,27.8470430000,0,0,0
+The Cup and Shield Sports Bar,Finger Food,2.9,Average,1,R,200,3,Boksburg,East Rand,-26.2603100000,28.2950240000,0,0,0
+Two Sister's Pub,Beverages,2.9,Average,4,R,80,1,Edenvale,East Rand,-26.1343530000,28.1496120000,0,0,0
+Keg and Crow,"Finger Food, Burger, Grill",3.0,Average,42,R,380,4,"Key West Shopping Centre, Bedfordview",East Rand,-26.1820000000,28.1355000000,0,0,0
+Heroes Pub & Grill,"Finger Food, Grill",3.0,Average,3,R,125,2,Krugersdorp,West Rand,-26.1185750000,27.8179116667,0,0,0
+Old No 7 Diner,British,3.1,Average,3,R,150,2,Edenvale,East Rand,-26.1306510000,28.1473320000,0,0,0
+Let's Brew,"Burger, Finger Food",3.0,Average,5,R,200,3,"Lonehill Shopping Centre, Lonehill",Sandton,-26.0137800000,28.0251210000,0,0,0
+Westwood Arms,"Steak, Seafood",3.1,Average,13,R,350,4,Krugersdorp,West Rand,-26.1096583333,27.8039250000,0,0,0
+Villa Funchal,Portuguese,3.1,Average,19,R,250,3,Benoni,East Rand,-26.1996150000,28.3201040000,0,0,0
+Navio's Cellar Restaurant,Portuguese,3.1,Average,15,R,240,3,Rosettenville,Johannesburg South,-26.2576950000,28.0680430000,0,0,0
+Winstons On Smit,"European, Grill",3.1,Average,19,R,250,3,Randpark,Randburg,-26.1299900000,27.9444820000,0,0,0
+Cheerleaders,"Grill, Pizza",3.1,Average,7,R,300,4,Rivonia,Sandton,-26.0276666398,28.0295056477,0,0,0
+Fashion Society,Finger Food,3.1,Average,2,R,200,3,Norwood,Johannesburg,-26.1594830000,28.0759890000,0,0,0
+Big Dog Pub and Grill,"Grill, American",3.1,Average,2,R,230,3,"Lakeside Mall, Benoni",East Rand,-26.1855000000,28.3138333333,0,0,0
+Tonino's Pub & Pizza,"Steak, Portuguese, Pizza",3.2,Average,27,R,300,4,Norwood,Johannesburg,-26.1562570000,28.0864130000,0,0,0
+Die Kneipe,German,3.2,Average,26,R,220,3,Kensington,Inner City,-26.1888333333,28.1080000000,0,0,0
+The Gathering o' the Clans,"British, Burger",3.2,Average,27,R,120,2,"Pick n Pay Centre, Douglasdale",Sandton,-26.0395000000,27.9936666667,0,0,0
+Bru'House & Diner,"South African, Burger, Finger Food",3.2,Average,13,R,160,2,Krugersdorp,West Rand,-26.0192420000,27.7190420000,0,0,0
+Country Pub,"Finger Food, Burger, Grill",3.2,Average,6,R,380,4,Kyalami,Midrand,-25.9861004547,28.0654267967,0,0,0
+Buzz 9,"Mexican, Continental, Italian",3.2,Average,14,R,120,2,Melville,Johannesburg,-26.1764840000,28.0087990000,0,0,0
+The Brazen Head,Irish,3.2,Average,12,R,330,4,Boksburg,East Rand,-26.2469200000,28.2784550000,0,0,0
+Grid And Grill Pub,"Grill, Burger",3.2,Average,11,R,200,3,Benoni,East Rand,-26.1588640000,28.3326210000,0,0,0
+Bells Inn Sports Bar,"Burger, Pizza, Grill",3.2,Average,7,R,150,2,Glenvista,Johannesburg South,-26.3257236646,28.0340379104,0,0,0
+Saints,Finger Food,3.2,Average,5,R,200,3,"Summerfield Shopping Centre, Atlasville, East Rand",East Rand,-26.1603333333,28.2800000000,0,0,0
+Matey's,Finger Food,3.2,Average,2,R,200,3,"Ridge Terrace Shopping Centre, Weltevreden Park, Roodepoort",Roodepoort,-26.1140000000,27.9475000000,0,0,0
+Grand Slam Sports Diner,Portuguese,3.3,Average,90,R,300,4,"Dowerglen Plaza, Edenvale",East Rand,-26.1443333333,28.1380000000,0,0,0
+McGinty's,Irish,3.3,Average,38,R,200,3,"The Brightwater Commons, Ferndale",Randburg,-26.1030000000,27.9915000000,0,0,0
+The Old Rose,British,3.3,Average,29,R,200,3,"Petervale Centre, Bryanston",Sandton,-26.0436666667,28.0495000000,0,0,0
+Ferreira's Sports Bar,"Portuguese, Pizza",3.3,Average,19,R,300,4,Boksburg,East Rand,-26.1913333333,28.2410000000,0,0,0
+Jerry's,Burger,3.3,Average,12,R,200,3,Greenside,Johannesburg,-26.1530743000,28.0156811000,0,0,0
+The Green Craft Bar,Burger,3.3,Average,10,R,270,3,Kempton Park,East Rand,-26.1006940000,28.1600310000,0,0,0
+Kwa Lichaba,"South African, Grill",3.3,Average,12,R,200,3,Orlando West,Soweto,-26.2389000000,27.9115440000,0,0,0
+Uncle Jim's Pub & Grill,"Grill, Burger",3.3,Average,10,R,150,2,Strubens Valley,Roodepoort,-26.1370650738,27.9102750868,0,0,0
+The Brazen Head,Irish,3.4,Average,63,R,330,4,"The Leaping Frog Shopping Centre, Fourways, Sandton",Sandton,-26.0091666667,28.0123333333,0,0,0
+Hooters,American,3.4,Average,32,R,300,4,Ruimsig,Roodepoort,-26.0941354671,27.8693154082,0,0,0
+Jerry's,"Burger, American",3.4,Average,18,R,250,3,Illovo,Sandton,-26.1292717000,28.0498210000,0,0,0
+Berlin Pub & Restaurant,"German, Contemporary, Pizza, Beverages, Burger, Desserts, Finger Food, Grill",3.4,Average,21,R,300,4,Ruimsig,Roodepoort,-26.0684660000,27.8423690000,0,0,0
+The Green Craft Bar,Burger,3.4,Average,22,R,270,3,Benoni,East Rand,-26.1725380000,28.3411750000,0,0,0
+The Brazen Head,Irish,3.4,Average,27,R,330,4,Edenvale,East Rand,-26.1265380000,28.1650390000,0,0,0
+Barrels and Bottles,"European, Grill",3.4,Average,15,R,200,3,Bryanston,Sandton,-26.0736666667,28.0130000000,0,0,0
+Cafe 141,"Finger Food, South African",3.4,Average,17,R,150,2,Kensington,Inner City,-26.1883333333,28.1078333333,0,0,0
+McGinty's,Irish,3.4,Average,16,R,200,3,"Northmead Square, Benoni",East Rand,-26.1628270000,28.3225850000,0,0,0
+The Barrel Pub & Grill,Grill,3.3,Average,7,R,200,3,Boskruin,Randburg,-26.0879960000,27.9618400000,0,0,0
+Keg and Filly,"Finger Food, Burger, Grill",3.5,Good,57,R,380,4,Sunninghill,Sandton,-26.0349260000,28.0607130000,0,0,0
+Craft Beer Library,"Burger, South African",3.5,Good,49,R,200,3,Linden,Randburg,-26.1364170000,27.9938170000,0,0,0
+Kitcheners,Finger Food,3.5,Good,85,R,0,1,Braamfontein,Inner City,-26.1945430409,28.0347201973,0,0,0
+Keg and Beagle,"Finger Food, Burger, Grill",3.5,Good,38,R,380,4,"Linksfield Terrace, Linksfield",Johannesburg,-26.1483333333,28.1290000000,0,0,0
+Grapes Pub & Restaurant,Contemporary,3.5,Good,20,R,200,3,Benoni,East Rand,-26.1912510000,28.3033160000,0,0,0
+Mad Giant,Finger Food,3.5,Good,10,R,150,2,Marshalltown,Inner City,-26.2072066056,28.0316940250,0,0,0
+The Jolly Roger,"Pizza, Mediterranean",3.6,Good,312,R,250,3,Parkhurst,Johannesburg,-26.1428720000,28.0168430000,0,0,0
+Hogshead,"Burger, South African, Grill, Steak",3.6,Good,238,R,250,3,Illovo,Sandton,-26.1306080000,28.0493450000,0,0,0
+Hogshead,"Burger, South African, Grill, Steak",3.6,Good,216,R,250,3,"Douglasdale Village Shopping Centre, Douglasdale",Sandton,-26.0401666667,27.9940000000,0,0,0
+Hogshead,"Burger, Grill",3.6,Good,137,R,250,3,"Rock Cottage, Weltevreden Park, Roodeport",Roodepoort,-26.1041666667,27.9261666667,0,0,0
+Chaf Pozi,African,3.6,Good,48,R,250,3,Orlando West,Soweto,-26.2419940000,27.9278230000,0,0,0
+Chariots Bar,"Steak, Burger, Pizza",3.6,Good,27,R,250,3,"Wanderer's Club, Sandton",Sandton,-26.1349963394,28.0531657487,0,0,0
+Beefcakes Burger Bar,"Burger, Finger Food",3.7,Good,190,R,300,4,"Illovo Muse Centre, Illovo",Sandton,-26.1305000000,28.0501666667,0,0,0
+The Radium Beerhall,"Mediterranean, Seafood",3.8,Good,121,R,320,4,Norwood,Johannesburg,-26.1626320000,28.0841020000,0,0,0
+Hudsons,"Burger, Finger Food, Pizza",3.9,Good,1010,R,350,4,Parkhurst,Johannesburg,-26.1373910000,28.0180220000,0,0,0
+Stanley Beer Yard,Grill,3.9,Good,208,R,200,3,"44 Stanley, Milpark",Inner City,-26.1854470000,28.0188740000,0,0,0
+Thundergun Steakhouse,Steak,4.2,Very Good,429,R,350,4,Blackheath,Johannesburg,-26.1361870000,27.9753890000,0,0,0
+Bafokeng Corner,Finger Food,0,Not rated,3,R,200,3,Jabulani,Soweto,-26.2667070000,27.8553180000,0,0,0
+Our place,"Finger Food, Drinks Only",0,Not rated,1,R,0,1,Edenvale,East Rand,-26.1307898298,28.1781570241,0,0,0
+The Circle Pub & Grill,Grill,0,Not rated,3,R,150,2,Germiston,East Rand,-26.2310810000,28.1753080000,0,0,0
+The Green Craft Bar,"Italian, Finger Food",0,Not rated,3,R,270,3,Glenvista,Johannesburg South,0.0000000000,0.0000000000,0,0,0
+Red Baron,"American, South African",0,Not rated,3,R,250,3,North Riding,Randburg,-26.0323170000,27.9465470000,0,0,0
+Gold Diggers Pub & Grill,South African,0,Not rated,2,R,250,3,Wynberg,Johannesburg,-26.1054700000,28.0804690000,0,0,0
+The Tribe Pub & Grill,Portuguese,0,Not rated,1,R,250,3,Kensington,Inner City,0.0000000000,0.0000000000,0,0,0
+Ball and All Pub & Sports Facilities,"South African, Contemporary",0,Not rated,1,R,200,3,Krugersdorp,West Rand,-25.9983580000,27.9193700000,0,0,0
+Tudor Pub and Grill,Contemporary,0,Not rated,3,R,180,2,Brackendowns,Johannesburg South,-26.3100690000,28.1074820000,0,0,0
+Ditsaleng,Finger Food,0,Not rated,1,R,0,1,Orlando West,Soweto,-26.2903910000,27.8542500000,0,0,0
+Sunset on Doreen,"Contemporary, Pizza",0,Not rated,2,R,250,3,Ruimsig,Roodepoort,-26.0744410000,27.8851980000,0,0,0
+Bush Whackers,"Finger Food, Pizza",0,Not rated,2,R,200,3,Krugersdorp,West Rand,-26.0862860000,27.7948250000,0,0,0
+The Croc Pub,"Finger Food, Pizza",0,Not rated,2,R,300,4,Kyalami,Midrand,-25.9678800000,28.0796370000,0,0,0
+Silverado Pub & Grill,"Portuguese, Steak, Pizza",0,Not rated,1,R,350,4,Boksburg,East Rand,-26.1789650000,28.2313350000,0,0,0
+The Don Buildings Restaurant & Bar,Continental,0,Not rated,1,R,150,2,Kensington,Inner City,-26.2022730000,28.0718390000,0,0,0
+Art in a Glass,German,0,Not rated,2,R,300,4,Kyalami,Midrand,-25.9613223123,28.0279147625,0,0,0
+New South Pub,"South African, African",0,Not rated,1,R,150,2,Alberton,Johannesburg South,-26.3232170000,28.0097780000,0,0,0
+Goodies Sports Bar,"Finger Food, Pizza",0,Not rated,2,R,80,1,Kempton Park,East Rand,-26.0666230000,28.2414410000,0,0,0
+Sundowners Pub & Grill,Contemporary,0,Not rated,2,R,200,3,Springs,East Rand,-26.2141220000,28.4147980000,0,0,0
+Cascata Pub & Grill,"Drinks Only, Finger Food",0,Not rated,2,R,150,2,Germiston,East Rand,-26.2376480000,28.1752720000,0,0,0
+The Il Ritrovo Lounge And Bar - The Michelangelo Hotel,"Italian, Continental, European",2.6,Average,23,R,700,4,"The Michelangelo Hotel, Sandown, Sandton",Sandton,-26.1065970000,28.0555210000,0,0,0
+Vuyos,South African,2.7,Average,12,R,300,4,Orlando West,Soweto,-26.2389030000,27.9097790000,0,0,0
+The Capital Empire,"European, American",3.1,Average,6,R,450,4,Sandown,Sandton,-26.1128650000,28.0512360000,0,0,0
+Lotus Teppanyaki & Sushi Bar - Hilton Hotel,"Japanese, Sushi",3.1,Average,8,R,500,4,"Hilton Hotel, Sandown",Sandton,-26.1017470000,28.0595860000,0,0,0
+Deli'cious,Contemporary,3.1,Average,6,R,300,4,"Toadbury Hall, Krugersdorp",West Rand,-25.9489940000,27.8795230000,0,0,0
+Velvet - Holiday Inn,Mediterranean,3.1,Average,2,R,600,4,Rosebank,Johannesburg,-26.1445070000,28.0437100000,0,0,0
+Lords Cigar Bar - Protea Hotel Balalaika Sandton,"British, Beverages",3.1,Average,3,R,300,4,"Protea Hotel Balalaika, Sandown",Sandton,-26.1036650000,28.0582190000,0,0,0
+Breakfast Room - The Airport Grand Hotel & Conference Centre,"European, British",3.1,Average,0,R,420,4,"The Airport Grand Hotel & Conference Centre, Boksburg, East Rand",East Rand,-26.1777730000,28.2439990000,0,0,0
+Chiefs Boma - Indaba Hotel and Conference Centre,"African, Beverages, Desserts, Grill, South African",3.2,Average,44,R,500,4,Fourways,Sandton,-26.0014950000,28.0126290000,0,0,0
+Rambling Vine Restaurant,"European, Contemporary",3.2,Average,14,R,450,4,"Mount Grace House House, Magaliesburg",West Rand,-25.9821480000,27.5542790000,0,0,0
+10 2nd Avenue Houghton Estate,Continental,3.2,Average,6,R,500,4,Houghton Estate,Johannesburg,-26.1675560000,28.0594190000,0,0,0
+THE Restaurant - The Winston Hotel,"African, European, Mediterranean",2.9,Average,11,R,450,4,"The Winston Hotel, Melrose, Sandton",Sandton,-26.1481570000,28.0465020000,0,0,0
+Sphere Monk,"South African, Finger Food",3.2,Average,5,R,300,4,City and Suburban,Inner City,-26.2032300000,28.0603100000,0,0,0
+The Bridge Bistro,"French, Greek, Mediterranean",3.2,Average,5,R,200,3,Magaliesburg,West Rand,-25.9536520000,27.5408900000,0,0,0
+The Lobby Lounge- The Hyatt Regency,Continental,3.2,Average,6,R,450,4,Rosebank,Johannesburg,-26.1433700000,28.0433050000,0,0,0
+Oriana - Peermont Mondior,"European, American",3.2,Average,1,R,400,4,"Emperors Palace, Kempton Park",East Rand,-26.1476680000,28.2213010000,0,0,0
+Milner's Restaurant - Sunnyside Park Hotel,"Seafood, Grill, Italian, Moroccan",3.2,Average,2,R,500,4,"Sunnyside Park Hotel, Parktown",Johannesburg,-26.1786830000,28.0472370000,0,0,0
+Butcher Block - Mall of The South,"Grill, Steak",3.3,Average,36,R,400,4,"Mall of the South, Meyersdal",Johannesburg South,-26.3149860000,28.0609760000,0,0,0
+Cube - Tasting Kitchen,"European, Contemporary",3.3,Average,11,R,1600,4,"Bryanston Shopping Centre, Bryanston",Sandton,0.0000000000,0.0000000000,0,0,0
+The Conservatory,"French, Mediterranean",3.3,Average,5,R,0,1,Magaliesburg,West Rand,0.0000000000,0.0000000000,0,0,0
+The View - The View Boutique Hotel,Contemporary,3.3,Average,9,R,500,4,Melville,Johannesburg,-26.1782429000,28.0010808000,0,0,0
+The Elm Tree - The Syrene Hotel,"Continental, European",3.3,Average,7,R,680,4,Rivonia,Sandton,-26.0529910000,28.0617480000,0,0,0
+Twist - Faircity Mapungubwe Hotel,"Asian, African, Continental",3.3,Average,12,R,400,4,Marshalltown,Inner City,-26.2080650000,28.0368350000,0,0,0
+Idwala Boutique Hotel,Contemporary,3.3,Average,7,R,600,4,Cresta,Randburg,-26.1273060000,27.9854000000,0,0,0
+Pound & Penny - Sunnyside Park Hotel,Finger Food,3.3,Average,11,R,300,4,"Sunnyside Park Hotel, Parktown",Johannesburg,-26.1786830000,28.0472370000,0,0,0
+The Monarch Hotel,African,3.3,Average,7,R,600,4,Rosebank,Johannesburg,-26.1467220000,28.0441130000,0,0,0
+The Residence Restaurant- The Residence Boutique,Continental,3.3,Average,12,R,500,4,Houghton Estate,Johannesburg,-26.1645740000,28.0593580000,0,0,0
+Back O' The Moon,Mediterranean,3.4,Average,72,R,450,4,"Gold Reef City, Ormonde",Johannesburg South,-26.2381750000,28.0131760000,0,0,0
+Emoyeni,Contemporary,3.4,Average,18,R,549,4,Parktown,Johannesburg,-26.1774270000,28.0407970000,0,0,0
+Turn 'n Tender,Steak,3.5,Good,51,R,350,4,Ruimsig,Roodepoort,-26.1101060472,27.8849671036,0,0,0
+Vivace Restaurant - Radisson Blu Hotel,Italian,3.5,Good,34,R,700,4,"Radisson Blu Hotel, Sandown, Sandton",Sandton,-26.1078690000,28.0588190000,0,0,0
+Summer Place,Contemporary,3.5,Good,13,R,700,4,Hyde Park,Sandton,-26.1216730000,28.0466350000,0,0,0
+The Meat Company,"Grill, Steak, American",3.6,Good,265,R,400,4,"Montecasino, Fourways",Sandton,-26.0247070000,28.0139460000,0,0,0
+Central One Restaurant & Bar - Radisson Blu Gautrain Hotel,"American, European",3.6,Good,93,R,400,4,"Radisson Blu Gautrain Hotel, Sandown",Sandton,-26.1078770000,28.0588220000,0,0,0
+Butcher Block Executive Grill - Crowne Plaza,"Grill, Steak",3.6,Good,77,R,400,4,"Crowne Plaza Johannesburg The Rosebank, Rosebank",Johannesburg,-26.1454340000,28.0391990000,0,0,0
+NCW Restaurant,"Contemporary, International",3.6,Good,15,R,0,1,Melville,Johannesburg,-26.1724036254,28.0004838409,0,0,0
+Gentleman's Arthouse,Contemporary,3.6,Good,22,R,250,3,Newtown,Inner City,-26.2002790000,28.0307400000,0,0,0
+Lacuna Bistro - The Maslow Hotel,"Continental, Italian, American",3.7,Good,116,R,680,4,"The Maslow Hotel, Sandown, Sandton",Sandton,-26.0991150000,28.0592250000,0,0,0
+L'Opulence,Tapas,3.7,Good,52,R,300,4,"Nelson Mandela Square, Sandown",Sandton,-26.1061380000,28.0552720000,0,0,0
+Quills Restaurant & Bar - Intercontinental Hotel,African,3.7,Good,19,R,600,4,Kempton Park,East Rand,-26.1331940000,28.2307010000,0,0,0
+Protea Hotel Fire & Ice! Melrose Arch Restaurant,"Continental, Grill, American",3.8,Good,255,R,480,4,"Melrose Arch, Melrose ",Sandton,-26.1323800000,28.0671920000,0,0,0
+Browns,European,3.8,Good,191,R,450,4,Lonehill,Sandton,-26.0019290000,28.0223390000,0,0,0
+The Atrium - Intercontinental Hotel Johannesburg Sandton Towers,"Continental, American",3.8,Good,46,R,720,4,Sandown,Sandton,-26.1068920000,28.0522370000,0,0,0
+Punchinello's Restaurant - Southern Sun Montecasino,Mediterranean,3.8,Good,70,R,450,4,"Montecasino, Fourways",Sandton,-26.0268318088,28.0144001171,0,0,0
+Parc Ferme,"French, Asian, European, Contemporary",3.8,Good,63,R,500,4,Sandown,Sandton,-26.1064710000,28.0537620000,0,0,0
+Turn 'n Tender,Steak,3.8,Good,53,R,350,4,"Waterfall Corner Mall, Midrand",Midrand,-26.0200020000,28.0895150000,0,0,0
+Am.Biance - The Marion on Nicol Boutique Hotel,"Continental, European",3.8,Good,39,R,450,4,Craighall,Johannesburg,-26.1062210000,28.0306230000,0,0,0
+The Butcher Shop & Grill,Grill,3.9,Good,433,R,400,4,"Nelson Mandela Square, Sandown",Sandton,-26.1073333333,28.0548333333,0,0,0
+Luce Ristorante,Italian,3.9,Good,161,R,450,4,Hyde Park,Sandton,-26.1250000000,28.0333333333,0,0,0
+The Medeo Restaurant - The Palazzo,Mediterranean,4.0,Very Good,112,R,450,4,"Montecasino, Fourways",Sandton,-26.0250680000,28.0103920000,0,0,0
+Villa Bianca,"Mediterranean, Italian, Seafood, Pizza",4.0,Very Good,174,R,450,4,"Villa Bianca Centre, Kempton Park",East Rand,-26.1344840000,28.1965450000,0,0,0
+The Terrace Restaurant - Fairlawns Boutique Hotel & Spa,"European, Continental",4.0,Very Good,77,R,450,4,"Fairlawns Boutique Hotel & Spa, Morningside, Sandton",Sandton,-26.0796110000,28.0747920000,0,0,0
+Buitengeluk,"Continental, Beverages, Desserts, Grill, Italian, Seafood, Steak",4.0,Very Good,132,R,300,4,"Broadacres Shopping Centre, Fourways",Sandton,-26.0009690000,27.9850100000,0,0,0
+Kong,"Thai, Vietnamese, Japanese, Asian",4.1,Very Good,542,R,380,4,"Cedar Square, Fourways, Sandton",Sandton,-26.0185120000,28.0009320000,0,0,0
+La Cucina Di Ciro,"Italian, Mediterranean, Desserts",4.1,Very Good,279,R,500,4,Parktown North,Johannesburg,-26.1445500000,28.0299420000,0,0,0
+Pigalle,Portuguese,4.1,Very Good,154,R,500,4,"Village View Shopping Center, Bedfordview",East Rand,-26.1828333333,28.1355000000,0,0,0
+Les Delices de France,French,4.1,Very Good,135,R,400,4,Florida North,Roodepoort,-26.1676920000,27.9338440000,0,0,0
+Aurelia's Restaurant - Peermont D'oreale Grande,"African, European, Continental",4.1,Very Good,76,R,500,4,"Emperors Palace, Kempton Park",East Rand,-26.1465900000,28.2222170000,0,0,0
+March Restaurant - African Pride Melrose Arch Hotel,"European, Grill",4.1,Very Good,77,R,550,4,"African Pride Hotel, Melrose Arch",Sandton,-26.1335439815,28.0679106326,0,0,0
+Bellgables,African,4.0,Very Good,107,R,560,4,Muldersdrift,West Rand,-25.9655380000,27.8563490000,0,0,0
+Trumps Grillhouse & Butchery,"Grill, Steak",4.2,Very Good,239,R,450,4,"Nelson Mandela Square, Sandown",Sandton,-26.1076666667,28.0548333333,0,0,0
+Bellagio,"Contemporary, Seafood, Continental",4.2,Very Good,344,R,450,4,Illovo,Sandton,-26.1314454231,28.0490465462,0,0,0
+OneNineOne - Hyatt Regency,"Grill, Seafood, South African",4.2,Very Good,71,R,620,4,Rosebank,Johannesburg,-26.1432070000,28.0434020000,0,0,0
+Maximillien Restaurant,"Contemporary, French",4.2,Very Good,90,R,480,4,"Nelson Mandela Square, Sandown",Sandton,-26.1073210000,28.0531510000,0,0,0
+"View Restaurant at Four Seasons Hotel, The Westcliff",Contemporary,4.2,Very Good,75,R,2100,4,"The Four Seasons, Rosebank ",Johannesburg,-26.1710700000,28.0319870000,0,0,0
+Pigalle,Portuguese,4.4,Very Good,288,R,450,4,"Michelangelo Towers Mall, Sandown",Sandton,-26.1063333333,28.0540000000,0,0,0
+Casalinga Ristorante,Italian,4.3,Very Good,326,R,450,4,Muldersdrift,West Rand,-26.0446680000,27.8714940000,0,0,0
+Clico Restaurant - Clico Boutique Hotel,Contemporary,4.3,Very Good,109,R,910,4,Rosebank,Johannesburg,-26.1427160000,28.0380260000,0,0,0
+Piccolo Mondo - The Michelangelo Hotel,"Italian, Continental, European",4.3,Very Good,217,R,700,4,"The Michelangelo Hotel, Sandown, Sandton",Sandton,-26.1073333333,28.0548333333,0,0,0
+"Qunu - Saxon Hotel, Villas and Spa","African, Contemporary, Grill",4.3,Very Good,149,R,895,4,"Saxon Boutique Hotel, Hyde Park, Sandton",Sandton,-26.1121180000,28.0356070000,0,0,0
+Kream,"South African, Contemporary, Sushi, International, African, French",4.4,Very Good,270,R,600,4,"Mall of Africa, Midrand",Midrand,-26.0166760000,28.1072040000,0,0,0
+The Grillhouse,"Grill, Steak",4.4,Very Good,427,R,450,4,"The Firs, Rosebank, Sandton",Johannesburg,-26.1438333333,28.0420000000,0,0,0
+Pigalle,Portuguese,4.4,Very Good,259,R,600,4,"Melrose Arch, Melrose ",Sandton,-26.1318333333,28.0686666667,0,0,0
+Marble,"Continental, South African, Beverages, Desserts, Seafood, Grill, Ice Cream, International",4.5,Excellent,443,R,955,4,Rosebank,Johannesburg,-26.1433881368,28.0361994356,0,0,0
+Signature Restaurant,"European, Contemporary",4.5,Excellent,585,R,600,4,"Morningside Shopping Centre, Morningside",Sandton,-26.0827400000,28.0606780000,0,0,0
+AtholPlace Restaurant,"Contemporary, Continental, South African",4.5,Excellent,129,R,900,4,Sandown,Sandton,-26.1115960000,28.0639760000,0,0,0
+Level Four - 54 on Bath Hotel,Contemporary,4.6,Excellent,501,R,600,4,Rosebank,Johannesburg,-26.1455760000,28.0405270000,0,0,0
+Wombles,"Steak, Beverages, Desserts, Grill, Seafood",4.6,Excellent,583,R,500,4,"Hobart Grove Shopping Center, Bryanston",Sandton,-26.0619240000,28.0261330000,0,0,0
+Winehouse - Ten Bompas Hotel,"European, Contemporary",4.6,Excellent,350,R,870,4,Dunkeld,Sandton,-26.1311090000,28.0328390000,0,0,0
+Roots - Forum Homini Hotel,"African, Contemporary",4.7,Excellent,337,R,840,4,Krugersdorp,West Rand,-26.0227780000,27.7813880000,0,0,0
+DW Eleven-13,European,4.9,Excellent,579,R,650,4,"Dunkeld West Shopping Centre, Dunkeld",Sandton,-26.1313420000,28.0349180000,0,0,0
+Silver Spoon Restaurant - Southern Sun Silverstar,Continental,0,Not rated,3,R,350,4,"Silverstar Hotel and Casino, Muldersdrift",West Rand,-26.0671530000,27.8274000000,0,0,0
+The Terrace Restaurant,Contemporary,0,Not rated,2,R,0,1,Bryanston,Sandton,-26.0600750000,28.0107710000,0,0,0
+Reef Grill Room - The Reef Hotel,"Grill, Steak, Contemporary",0,Not rated,1,R,450,4,"The Reef Hotel, Marshalltown",Inner City,-26.2082690000,28.0411250000,0,0,0
+Anna's Kitchen ,Contemporary,0,Not rated,3,R,90,1,Lenasia,Soweto,-26.6598400000,27.9746890000,0,0,0
+The Capital Moloko,"European, American",0,Not rated,2,R,450,4,Sandown,Sandton,-26.0979540000,28.0689110000,0,0,0
+The Moon and Sixpence,Contemporary,0,Not rated,3,R,220,3,Muldersdrift,West Rand,-25.9734340000,27.8646210000,0,0,0
+The BON Hotel,Contemporary,0,Not rated,0,R,220,3,Halfway Gardens,Midrand,-25.9758740000,28.1331870000,0,0,0
+Nando's,"African, Portuguese",3.0,Average,1,R,180,2,"Southgate Mall, Meredale ",Johannesburg South,-26.2673333333,27.9820000000,0,0,0
+Milky Lane,Ice Cream,0,Not rated,2,R,50,1,Edenvale,East Rand,-26.1185200000,28.1413280000,0,0,0
+Nando's,"African, Portuguese",0,Not rated,1,R,180,2,Springs,East Rand,-26.3528690000,28.3725010000,0,0,0
+The Village Bakery,Bakery,2.9,Average,2,R,50,1,Fordsburg,Inner City,-26.2045000000,28.0226666667,0,0,0
+Fournos Bakery,Bakery,3.1,Average,6,R,200,3,Boksburg,East Rand,-26.1819940000,28.2419830000,0,0,0
+Shoshana's Bakery,Bakery,3.1,Average,1,R,70,1,Glenhazel,Johannesburg,-26.1375000000,28.0978333333,0,0,0
+Doppio Zero,"Cafe, Bakery",3.2,Average,42,R,300,4,Bedfordview,East Rand,0.0000000000,0.0000000000,0,0,0
+Lillies bakery,"Cafe, Bakery",3.2,Average,12,R,150,2,Northcliff,Johannesburg,-26.1396360000,27.9790960000,0,0,0
+Hanover Bakery,Bakery,3.2,Average,14,R,100,2,Mayfair,Inner City,-26.2085850000,28.0168130000,0,0,0
+La Bakery On Crownwood,Bakery,3.2,Average,5,R,150,2,Ormonde,Johannesburg South,-26.2423240000,28.0045580000,0,0,0
+Oh My Cake!,"Patisserie, Bakery, Desserts",3.2,Average,4,R,100,2,Fourways,Sandton,-26.0233080000,28.0163050000,0,0,0
+Cakes by Seilaz,"Bakery, Desserts",3.2,Average,4,R,100,2,Blairgowrie,Randburg,-26.1154220000,28.0094390000,0,0,0
+Cherub's Coffee Shop,"Cafe, Bakery",3.3,Average,12,R,140,2,Meyersdal,Johannesburg South,-26.2871550000,28.0945920000,0,0,0
+Tony's Cake Boss Patisserie,"Bakery, Patisserie, Continental",3.3,Average,7,R,0,1,North Riding,Randburg,0.0000000000,0.0000000000,0,0,0
+Satellite Bakery,Bakery,3.3,Average,9,R,120,2,Boksburg,East Rand,-26.2032935944,28.2592204514,0,0,0
+Two Trees Bakery,"Cafe, Bakery",3.4,Average,21,R,150,2,Mulbarton,Johannesburg South,-26.3008600000,28.0490560000,0,0,0
+Cafe Patisse,"Bakery, Desserts, French",3.4,Average,9,R,100,2,Wynberg,Johannesburg,-26.1113710000,28.0783610000,0,0,0
+The Bakery,"Bakery, Cafe, Deli, Pizza",3.4,Average,16,R,260,3,Boksburg,East Rand,-26.1618080000,28.2206170000,0,0,0
+Joe & Co Coffee And Kitchen,"Bakery, Cafe, American, Deli",3.5,Good,16,R,120,2,Craighall,Johannesburg,-26.1158900000,28.0222930000,0,0,0
+Friends,"Bakery, Mediterranean, Grill, Sushi",3.5,Good,26,R,100,2,Lyndhurst,Johannesburg,-26.1363990000,28.1139820000,0,0,0
+Croydon Bakery,Bakery,3.5,Good,15,R,160,2,Kempton Park,East Rand,-26.1316550000,28.1999940000,0,0,0
+Fournos Bakery,"Cafe, Bakery",3.6,Good,122,R,250,3,"Fourways Crossing,  Fourways",Sandton,-26.0175000000,28.0111666667,0,0,0
+Cafe Tavia,"Cafe, Bakery, Beverages, Burger, Desserts, Pizza, Sandwich, Healthy Food",3.6,Good,40,R,120,2,Rivonia,Sandton,-26.0596481509,28.0601113290,0,0,0
+Not Bread Alone,Bakery,3.6,Good,51,R,100,2,Linden,Randburg,-26.1225175388,27.9888497293,0,0,0
+Knead Bakery & Cafe,"Cafe, Bakery",3.7,Good,58,R,250,3,"Riverside Shopping Center, Bryanston",Sandton,0.0000000000,0.0000000000,0,0,0
+Patachou Patisserie,"Cafe, Bakery, Desserts, Beverages",3.7,Good,50,R,100,2,Parktown North,Johannesburg,-26.1446067799,28.0251266062,0,0,0
+De Backery,Bakery,3.7,Good,53,R,75,1,Edenvale,East Rand,-26.1443683333,28.1547750000,0,0,0
+Cheryl Amy Jones Cakes & Pastry,"Bakery, Desserts, Ice Cream",3.8,Good,30,R,200,3,North Riding,Randburg,-26.0385650000,27.9575710000,0,0,0
+Rather Tart,"Bakery, Desserts, Ice Cream",3.9,Good,26,R,0,1,Morningside,Sandton,0.0000000000,0.0000000000,0,0,0
+Tonka Bean Bakery,"Bakery, Desserts",4.1,Very Good,24,R,120,2,Dainfern,Midrand,-25.9630110000,28.0217330000,0,0,0
+Patachou Patisserie,"Cafe, Bakery, Desserts, Beverages",4.3,Very Good,100,R,100,2,"Rivonia Village Shopping Centre, Rivoina",Sandton,-26.0606390000,28.0596140000,0,0,0
+Broodblik en Koffiepit,"Cafe, Bakery",0,Not rated,1,R,250,3,Benoni,East Rand,-26.0427300000,28.3967080000,0,0,0
+Heart Cupcake Bar,"Bakery, Desserts",0,Not rated,2,R,100,2,City and Suburban,Inner City,-26.2025400000,28.0569410000,0,0,0
+Patachou Patisserie,"Bakery, Desserts",0,Not rated,1,R,100,2,Kyalami,Midrand,0.0000000000,0.0000000000,0,0,0
+Cake And Bake,Bakery,0,Not rated,1,R,100,2,Honeydew,Roodepoort,-26.0784430000,27.9258890000,0,0,0
+Dicky's Cakes,"Desserts, Bakery",0,Not rated,1,R,80,1,Jabulani,Soweto,-26.2784460000,27.8486400000,0,0,0
+The Market Place,"Bakery, Desserts",0,Not rated,1,R,100,2,Victory Park,Randburg,-26.1348620000,28.0292920000,0,0,0
+Janes Delicacies,"Bakery, Cafe",0,Not rated,0,R,100,2,"Trinity Shopping Centre, Randpark Ridge",Randburg,-26.0919410000,27.9377020000,0,0,0
+La Meli,"Bakery, Desserts",0,Not rated,0,R,120,2,Bedfordview,East Rand,-26.1681580000,28.1608610000,0,0,0
+Ajmal and Sons Bakery,"Bakery, Cafe, Deli",0,Not rated,0,R,100,2,Rosettenville,Johannesburg South,-26.2460460000,28.0139120000,0,0,0
+Issy's Coffee & Gift Shop,"Bakery, Cafe",0,Not rated,0,R,200,3,Rosebank,Johannesburg,-26.1717296062,28.0331638756,0,0,0
+The Bread Basket,"Cafe, Bakery",0,Not rated,0,R,180,2,"Newtown Junction, Newtown",Inner City,-26.2003740000,28.0311290000,0,0,0
+Haagen Dazs,"Desserts, Ice Cream",2.5,Average,14,R,100,2,"Mall of Africa, Midrand",Midrand,-26.0172270000,28.1071690000,0,0,0
+Milky Lane,Ice Cream,2.7,Average,18,R,50,1,"The Glen Shopping Centre, Oakdene, Johannesburg South",Johannesburg South,-26.2673333333,28.0511666667,0,0,0
+Milky Lane,Ice Cream,2.7,Average,11,R,50,1,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1280840384,27.9047182202,0,0,0
+Smooch,"Desserts, Ice Cream, Frozen Yogurt",2.9,Average,7,R,100,2,"East Rand Mall, Boksburg",East Rand,-26.1811570000,28.2394750000,0,0,0
+Milky Lane,Ice Cream,3.0,Average,3,R,50,1,"Key West Mall, Krugersdorp",West Rand,-26.0884833333,27.7805416667,0,0,0
+Smooch,"Desserts, Ice Cream, Frozen Yogurt",3.0,Average,7,R,100,2,"The Glen Shopping Centre, Oakdene, Johannesburg South",Johannesburg South,-26.2687210000,28.0513990000,0,0,0
+Milky Lane,Ice Cream,3.0,Average,4,R,50,1,"Carnival City, Brakpan",East Rand,-26.2574740000,28.3157990000,0,0,0
+Sweet Bake Shop,"Bakery, Desserts",3.0,Average,1,R,80,1,"Summerfield Shopping Centre, Atlasville, East Rand",East Rand,-26.1601666667,28.2800000000,0,0,0
+Cups & Cones,"Desserts, Ice Cream, Frozen Yogurt",3.0,Average,4,R,50,1,"Trade Route Mall, Lenasia",Soweto,-26.3260950000,27.8666710000,0,0,0
+Myshake Milkshake Bar,"Ice Cream, Beverages",3.1,Average,5,R,50,1,Rosebank,Johannesburg,-26.1437710000,28.0405650000,0,0,0
+The Knickerbocker Ice Cream Company,"Desserts, Bakery",3.2,Average,6,R,100,2,Fourways,Sandton,-26.0199590000,28.0074290000,0,0,0
+Smooch,"Desserts, Ice Cream, Frozen Yogurt",3.2,Average,12,R,100,2,"Lifestyle Garden Centre, Randpark Ridge",Randburg,-26.0976090000,27.9421670000,0,0,0
+Yogiberry,"Cafe, Desserts, Ice Cream, Frozen Yogurt",3.2,Average,11,R,100,2,"Maboneng Precinct, City & Suburban ",Inner City,-26.2042140000,28.0578990000,0,0,0
+Sno Yo,"Frozen Yogurt, Beverages, Desserts",3.2,Average,6,R,90,1,Bedfordview,East Rand,-26.1843890000,28.1360710000,0,0,0
+Filo Yoghurt,"Desserts, Frozen Yogurt",3.2,Average,7,R,80,1,"Victory Park Shopping Centre, Parkhurst",Johannesburg,-26.1371630000,28.0081570000,0,0,0
+A Slice of Heaven,"Bakery, Desserts",3.3,Average,10,R,60,1,"Linksfield Terrace, Linksfield",Johannesburg,-26.1486666667,28.1286666667,0,0,0
+Haagen Dazs,"Desserts, Ice Cream",3.4,Average,29,R,100,2,"The Zone, Rosebank, Sandton",Johannesburg,-26.1453970000,28.0434240000,0,0,0
+Tart Patisserie,"Patisserie, Desserts, Bakery",3.4,Average,22,R,100,2,"The Leaping Frog Shopping Centre, Fourways, Sandton",Sandton,-26.0098333333,28.0128333333,0,0,0
+Milky Lane,Ice Cream,3.4,Average,25,R,50,1,"Montecasino, Fourways",Sandton,-26.0260000000,28.0103333333,0,0,0
+Milky Lane,Ice Cream,3.4,Average,21,R,50,1,"Cresta Shopping Centre, Cresta",Randburg,-26.1313333333,27.9758333333,0,0,0
+Ice Cream Sunday,"Ice Cream, Desserts",3.4,Average,9,R,80,1,Bramley,Johannesburg,-26.1262470000,28.0812480000,0,0,0
+Brown Sugar,Desserts,3.4,Average,10,R,50,1,"Trade Route Mall, Lenasia",Soweto,-26.3260950000,27.8666710000,0,0,0
+Angel Berry,Desserts,3.4,Average,12,R,0,1,Kyalami,Midrand,-26.0024527894,28.0757392198,0,0,0
+Village Fair,"Bakery, Desserts",3.4,Average,9,R,100,2,Greenside,Johannesburg,-26.1475000000,28.0120000000,0,0,0
+Cupcake Boutique,"Bakery, Desserts",3.5,Good,28,R,50,1,"Lonehill Shopping Centre, Lonehill",Sandton,-26.0136670000,28.0269410000,0,0,0
+Cocobel,Desserts,3.5,Good,17,R,60,1,"Maboneng Precinct, City & Suburban ",Inner City,-26.2035310000,28.0606730000,0,0,0
+Van de Waffle,"Cafe, Desserts, Belgian, Beverages, Ice Cream",3.6,Good,27,R,100,2,"The Zone, Rosebank, Sandton",Johannesburg,0.0000000000,0.0000000000,0,0,0
+Haagen Dazs,"Desserts, Ice Cream",3.6,Good,35,R,100,2,"Melrose Arch, Melrose ",Sandton,-26.1335000000,28.0681666667,0,0,0
+Cinnabon,"Desserts, Bakery",3.6,Good,19,R,100,2,"Mall of Africa, Midrand",Midrand,-26.0159970000,28.1050070000,0,0,0
+Cinnabon,"Desserts, Bakery",3.6,Good,25,R,100,2,Killarney,Sandton,-26.1663333333,28.0548333333,0,0,0
+Marcel's,"Desserts, Ice Cream, Frozen Yogurt",3.6,Good,24,R,100,2,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1280939719,27.9047752172,0,0,0
+Haagen Dazs,"Desserts, Ice Cream",3.6,Good,16,R,100,2,Hyde Park,Sandton,-26.1251666667,28.0335000000,0,0,0
+Patisserie Belle,"Cafe, Desserts, Patisserie",3.7,Good,28,R,300,4,"Randridge Mall, Randpark Ridge, Randburg",Randburg,-26.1008540000,27.9410850000,0,0,0
+Belle's Patisserie,"Cafe, Patisserie, Desserts",3.8,Good,167,R,300,4,"BluBird Shopping Centre, Birnam",Sandton,-26.1295000000,28.0651666667,0,0,0
+The Moody Cow,"Cafe, Desserts",3.8,Good,23,R,100,2,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1272810000,27.9046840000,0,0,0
+Château Gâteaux Patisserie,"Patisserie, Desserts, Bakery",3.8,Good,38,R,150,2,"Riverside Shopping Center, Bryanston",Sandton,-26.0587580000,28.0469420000,0,0,0
+Pureberry Juice Bar,"Frozen Yogurt, Beverages, Juices",3.8,Good,50,R,70,1,"Bryanston Shopping Centre, Bryanston",Sandton,-26.0748570000,28.0278600000,0,0,0
+Von Pickartz Belgian Waffles,"Desserts, Belgian",3.8,Good,31,R,80,1,City and Suburban,Inner City,-26.2070800000,28.0318420000,0,0,0
+La Cremosa,Ice Cream,3.8,Good,23,R,60,1,Dainfern,Midrand,-25.9900000000,28.0100000000,0,0,0
+Melt Chocolaterie,"Bakery, Desserts",4.0,Very Good,103,R,150,2,"Nicolway Shopping Centre, Bryanston",Sandton,-26.0526666667,28.0203333333,0,0,0
+Sally Williams Luxury Ice Cream,Ice Cream,4.0,Very Good,38,R,60,1,"Nelson Mandela Square, Sandown",Sandton,-26.0668560000,28.1141370000,0,0,0
+Fabb Cafe & Gelato,"Cafe, Ice Cream",4.0,Very Good,31,R,0,1,Parkhurst,Johannesburg,-26.1385980000,28.0177970000,0,0,0
+Château Gâteaux Patisserie,"Patisserie, Desserts, Bakery",4.3,Very Good,154,R,150,2,"Thrupps Illovo Centre, Illovo",Sandton,-26.1296666667,28.0495000000,0,0,0
+Paul's Homemade Ice Cream,Desserts,4.4,Very Good,87,R,90,1,"The Zone, Rosebank, Sandton",Johannesburg,-26.1453970000,28.0434240000,0,0,0
+Wakaberry,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,3,R,80,1,"Trinity Shopping Centre, Randpark Ridge",Randburg,-26.0918510000,27.9377000000,0,0,0
+Wakaberry,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,1,R,80,1,"Montecasino, Fourways",Sandton,-26.0265000000,28.0168333333,0,0,0
+Angel Berry,Desserts,0,Not rated,2,R,0,1,"Mall of Africa, Midrand",Midrand,-26.0159780000,28.1071250000,0,0,0
+Smooch,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,2,R,100,2,"Signet Terrace Shopping Center, Lenasia",Soweto,-26.3154400000,27.8295800000,0,0,0
+Bella & Boo Natural Frozen Yoghurt,"Desserts, Ice Cream",0,Not rated,1,R,80,1,Parkview,Johannesburg,-26.1603110000,28.0265220000,0,0,0
+The Knickerbocker Ice Cream Company,"Desserts, Bakery",0,Not rated,1,R,100,2,"The Stables Village Market, Chartwell",Sandton,-25.9952030000,27.9806900000,0,0,0
+Wakaberry,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,1,R,80,1,Parkmore,Sandton,-26.1005640000,28.0378280000,0,0,0
+Lahore Falooda House,Desserts,0,Not rated,1,R,90,1,Fordsburg,Inner City,-26.2054580000,28.0211450000,0,0,0
+Dicky's Cakes,"Desserts, Bakery",0,Not rated,1,R,80,1,Jabulani,Soweto,-26.2784460000,27.8486400000,0,0,0
+Smooch,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,1,R,100,2,"The Square, Benoni",East Rand,-26.1621380000,28.3043400000,0,0,0
+Deli-Cious,"Cafe, Deli, Desserts",0,Not rated,1,R,180,2,Benoni,East Rand,-26.1981430000,28.2835920000,0,0,0
+Milky Lane,Ice Cream,0,Not rated,1,R,50,1,"Cradlestone Mall, Krugersdorp , West Rand",West Rand,-26.0608830000,27.8377130000,0,0,0
+Designer Bites,Desserts,0,Not rated,0,R,90,1,Woodmead,Sandton,-26.0572700000,28.0892580000,0,0,0
+Angel Berry,Desserts,0,Not rated,0,R,0,1,"Mall at Newmarket, Alberton",Johannesburg South,-26.2785110000,28.1260390000,0,0,0
+Milky Treats,Ice Cream,0,Not rated,0,R,0,1,"Boulevard of Melville, Melville",Johannesburg,-26.1757544568,28.0003302544,0,0,0
+Angel Berry,Desserts,0,Not rated,0,R,0,1,Kyalami Corner,Midrand,0.0000000000,0.0000000000,0,0,0
+Dicky's Cakes,"Desserts, Bakery",0,Not rated,0,R,80,1,City and Suburban,Inner City,-26.2046440000,28.0492030000,0,0,0
+La Petit Cherry,Desserts,0,Not rated,0,R,150,2,Krugersdorp,West Rand,-26.1006730000,27.7972060000,0,0,0
+Dicky's Cakes,"Desserts, Bakery",0,Not rated,0,R,80,1,Marshalltown,Inner City,-26.2054290000,28.0421980000,0,0,0
+Dicky's Cakes,"Desserts, Bakery",0,Not rated,0,R,80,1,Marshalltown,Inner City,-26.2045870000,28.0361610000,0,0,0
+Kong,Finger Food,2.6,Average,23,R,250,3,Rosebank,Johannesburg,-26.1460240000,28.0359230000,0,0,0
+Bannister Hotel & Restaurant,"Seafood, Mediterranean, South African, Desserts, Finger Food, Grill",2.7,Average,47,R,0,1,Braamfontein,Inner City,-26.1940100000,28.0345990000,0,0,0
+Mash Braai House,"South African, Grill, Steak",2.7,Average,21,R,250,3,"Comaro Crossing Shopping Centre, Oakdene",Johannesburg South,-26.2656770000,28.0587390000,0,0,0
+Skye Bar - Holiday Inn Sandton,Finger Food,2.8,Average,39,R,400,4,"Holiday Inn Sandton, Sandown",Sandton,-26.1043190000,28.0599270000,0,0,0
+Keg and Eagle,"Finger Food, Burger, Grill",2.8,Average,22,R,380,4,Ruimsig,Roodepoort,-26.1160389094,27.8970538080,0,0,0
+Riccados,"Contemporary, African, Burger, Fish and Chips, Grill, Italian, Pizza, Seafood",2.8,Average,15,R,0,1,Braamfontein,Inner City,-26.1927180000,28.0357170000,0,0,0
+MonkeyBluz Restaurant & Cocktail Bar,Contemporary,2.8,Average,8,R,0,1,Rivonia,Sandton,-26.0524450000,28.0598730000,0,0,0
+Domain,"African, Grill",2.9,Average,7,R,150,2,Fourways,Sandton,-26.0281530000,28.0288730000,0,0,0
+Sankayi,Finger Food,2.9,Average,7,R,400,4,"90 Degrees On Rivonia, Rivonia",Sandton,-26.0710500000,28.0642000000,0,0,0
+Black Cherry,Contemporary,3.0,Average,6,R,300,4,"Silverstar Hotel and Casino, Muldersdrift",West Rand,-26.0674550000,27.8285990000,0,0,0
+VSP Lounge,Drinks Only,3.0,Average,5,R,200,3,Sandown,Sandton,-26.1058333333,28.0633333333,0,0,0
+Bar & Lounge - Radisson Blu Hotel,Finger Food,3.0,Average,9,R,600,4,"Radisson Blu Hotel, Sandown, Sandton",Sandton,-26.1078690000,28.0588190000,0,0,0
+Niche Lounge,"Finger Food, Beverages",3.0,Average,7,R,600,4,Rosebank,Johannesburg,-26.1459640000,28.0371150000,0,0,0
+Grosky's Restaurant,"Seafood, Steak, American, Beverages, Burger, Desserts, Finger Food, Grill",3.1,Average,8,R,0,1,"Noordheuwel Shopping Centre, Krugersdorp",West Rand,-26.0899050000,27.8185766667,0,0,0
+Elevate Roof Top Bar,"Drinks Only, Finger Food",3.1,Average,9,R,300,4,Marshalltown,Inner City,-26.2082530000,28.0410920000,0,0,0
+THE Bar - The Winston Hotel,Finger Food,3.1,Average,6,R,500,4,"The Winston Hotel, Melrose, Sandton",Sandton,-26.1481570000,28.0465020000,0,0,0
+Taste Lounge,South African,3.1,Average,4,R,250,3,Halfway House,Midrand,-25.9943700000,28.1264390000,0,0,0
+The Cocktail Lounge & Terrace - The Airport Grand Hotel & Confer,Finger Food,3.1,Average,4,R,500,4,"The Airport Grand Hotel & Conference Centre, Boksburg, East Rand",East Rand,-26.1777730000,28.2439990000,0,0,0
+The Wine Bar Restaurant,International,3.2,Average,16,R,200,3,Orlando West,Soweto,-26.2379320000,27.9031430000,0,0,0
+Shikisha Um'Zimba,Cafe,3.2,Average,8,R,250,3,Birnam,Sandton,-26.1298310000,28.0676650000,0,0,0
+Cocoon Lounge,Finger Food,3.2,Average,9,R,650,4,"24 Central, Sandown",Sandton,-26.1025560000,28.0559320000,0,0,0
+Ikes Bar - The Reef Hotel,Finger Food,3.2,Average,1,R,500,4,"The Reef Hotel, Marshalltown",Inner City,-26.2082690000,28.0411250000,0,0,0
+Mash Braai House,"South African, Grill, Steak",3.3,Average,47,R,250,3,"The Buzz Shopping Centre, Fourways, Sandton",Sandton,-26.0235060000,27.9901900000,0,0,0
+Arque Champagne Crescent,"Contemporary, Continental",3.3,Average,8,R,950,4,Sandown,Sandton,-26.1090300000,28.0524410000,0,0,0
+Maxim Lounge,Finger Food,3.3,Average,6,R,350,4,"Nelson Mandela Square, Sandown",Sandton,-26.1070410000,28.0542540000,0,0,0
+Zuri Social Lounge,"Beverages, Grill, Mediterranean, Seafood, Sushi, Steak, Tapas",3.4,Average,52,R,200,3,"Mall of Africa, Midrand",Midrand,-26.0125190000,28.1053520000,0,0,0
+Pedro Portia,"Contemporary, Mediterranean, Tapas",3.4,Average,20,R,200,3,"Cedar Square, Fourways, Sandton",Sandton,-26.0183951430,27.9999259415,0,0,0
+Sir James Van Der Merwe,Finger Food,3.4,Average,22,R,180,2,"Katy's Palace Bar, Morningside",Sandton,-26.0888880000,28.0807320000,0,0,0
+Melville Grill Lounge,"South African, Grill, Steak",3.4,Average,22,R,250,3,Melville,Johannesburg,-26.1756181527,28.0081274360,0,0,0
+The Orbit,"Italian, Spanish",3.5,Good,100,R,0,1,Braamfontein,Inner City,-26.1934790000,28.0354990000,0,0,0
+The Bar - Fairlawns Boutique Hotel & Spa,"European, Continental",3.6,Good,10,R,450,4,"Fairlawns Boutique Hotel & Spa, Morningside, Sandton",Sandton,-26.0796110000,28.0747920000,0,0,0
+Metro,"European, African, Burger, Contemporary, Desserts, Fish and Chips, Grill, Italian",3.6,Good,44,R,450,4,Bryanston,Sandton,-26.0590580000,28.0227290000,0,0,0
+Circle Bar - Crowne Plaza Johannesburg The Rosebank,Finger Food,3.6,Good,25,R,600,4,"Crowne Plaza Johannesburg The Rosebank, Rosebank",Johannesburg,-26.1454340000,28.0391990000,0,0,0
+3Sixty Degree Liquid Lounge,Finger Food,3.7,Good,170,R,250,3,Fourways,Sandton,-26.0275450000,28.0105440000,0,0,0
+L'Opulence,Tapas,3.7,Good,52,R,300,4,"Nelson Mandela Square, Sandown",Sandton,-26.1061380000,28.0552720000,0,0,0
+4 PM at MESH,"Finger Food, Contemporary",3.7,Good,27,R,300,4,Rosebank,Johannesburg,-26.1435510000,28.0364920000,0,0,0
+Roxannes Rum Eatery,Continental,3.9,Good,77,R,0,1,Fourways,Sandton,-26.0216900000,28.0138390000,0,0,0
+Cloud 9,Middle Eastern,0,Not rated,2,R,250,3,Weltevreden Park,Roodepoort,0.0000000000,0.0000000000,0,0,0
+African Vibes Cocktail Lounge,African,0,Not rated,0,R,200,3,Rosettenville,Johannesburg South,-26.2534000000,28.0510210000,0,0,0
+Zuccos Cafe - Bar & Lounge,"Contemporary, Burger, Beverages, Cafe, Desserts, African, Finger Food, Fish and Chips",0,Not rated,2,R,250,3,City and Suburban,Inner City,-26.2015510000,28.0583300000,0,0,0
+Urban Energy,"African, Burger, Cafe, Desserts, Finger Food, Grill, Indian, South African",0,Not rated,1,R,300,4,Marshalltown,Inner City,-26.2057560000,28.0446650000,0,0,0
+Revere Lounge,Contemporary,0,Not rated,1,R,260,3,Boksburg,East Rand,-26.1802340000,28.2288370000,0,0,0
+Edamini Braai Lounge,"African, Grill",0,Not rated,2,R,0,1,Halfway House,Midrand,-26.0053770000,28.1215390000,0,0,0
+Platinum Lounge,"Contemporary, African",0,Not rated,1,R,300,4,North Riding,Randburg,-26.0164230000,27.9412020000,0,0,0
+Gushima Lifestyle Cafe,"African, Contemporary",0,Not rated,2,R,0,1,Halfway House,Midrand,-25.9880590000,28.1317130000,0,0,0
+La Cueva Cocktail Lounge,Finger Food,0,Not rated,1,R,200,3,Bryanston,Sandton,-26.0488370000,28.0202960000,0,0,0
+Industry Bar - Lounge,Finger Food,0,Not rated,1,R,380,4,City and Suburban,Inner City,-26.2038580000,28.0613910000,0,0,0
+White City Restaurant & Lounge,Contemporary,0,Not rated,0,R,120,2,Jabulani,Soweto,-26.2453430000,27.8714500000,0,0,0
+h Lounge Bar,Contemporary,0,Not rated,1,R,100,2,Highlands,Johannesburg,-26.1487390000,28.0776410000,0,0,0
+La Musa,"African, Grill",0,Not rated,2,R,260,3,City and Suburban,Inner City,-26.2025730000,28.0603660000,0,0,0
+Danish Lounge,"African, South African, Cafe",0,Not rated,1,R,140,2,Klipspruit,Soweto,-26.2443070000,27.9449470000,0,0,0
+One Up,Finger Food,0,Not rated,0,R,300,4,"Design Quarter, Fourways",Sandton,-26.0306070000,28.0111240000,0,0,0
+Ditsaleng,African,0,Not rated,0,R,300,4,Klipspruit,Soweto,-26.2902660000,27.8537990000,0,0,0
+Chill-in-out Malume,South African,0,Not rated,0,R,250,3,Klipspruit,Soweto,-26.2651620000,27.8018240000,0,0,0
+Options Lounge,African,0,Not rated,0,R,200,3,Krugersdorp,West Rand,-26.1021330000,27.7757160000,0,0,0
+Meat and Mingle,African,0,Not rated,0,R,90,1,Klipspruit,Soweto,-26.2682910000,27.8656300000,0,0,0
+NM DK Lounge,South African,0,Not rated,0,R,160,2,Klipspruit,Soweto,-26.2434810000,27.9448040000,0,0,0
+Stones Fourways,Drinks Only,2.8,Average,15,R,250,3,"Pineslopes Shopping Centre, Fourways",Sandton,-26.0216940000,28.0156670000,0,0,0
+Nicci Beach,Finger Food,2.8,Average,11,R,600,4,Boksburg,East Rand,-26.1748420000,28.2437780000,0,0,0
+New York Club,Drinks Only,3.0,Average,6,R,500,4,Fourways,Sandton,-26.0247350000,27.9893200000,0,0,0
+Taboo Night Club,Drinks Only,3.1,Average,27,R,650,4,"24 Central, Sandown",Sandton,-26.1015910000,28.0564280000,0,0,0
+Harem,Drinks Only,3.1,Average,7,R,700,4,"Design District Centre, Rosebank",Johannesburg,-26.1503620000,28.0337510000,0,0,0
+The Basement Lounge,Drinks Only,3.1,Average,4,R,250,3,Mulbarton,Johannesburg South,-26.3104240000,28.0494360000,0,0,0
+Stones Bedfordview,Drinks Only,3.2,Average,14,R,250,3,"Key West Shopping Centre, Bedfordview",East Rand,-26.1806160000,28.1350720000,0,0,0
+Randlords,Contemporary,3.3,Average,11,R,0,1,Braamfontein,Inner City,-26.1938950000,28.0318470000,0,0,0
+Babylon,Drinks Only,3.4,Average,13,R,350,4,"Illovo Muse Centre, Illovo",Sandton,-26.1305000000,28.0501666667,0,0,0
+Movida,"Finger Food, Beverages",3.5,Good,53,R,350,4,Sunninghill,Sandton,-26.0368511245,28.0587760450,0,0,0
+Madison Avenue,Drinks Only,0,Not rated,3,R,200,3,Rivonia,Sandton,-26.0556570000,28.0612420000,0,0,0
+The Q - Club,Contemporary,0,Not rated,2,R,300,4,City and Suburban,Inner City,-26.2014850000,28.0587600000,0,0,0
+Presleys,Drinks Only,0,Not rated,2,R,200,3,Boksburg,East Rand,0.0000000000,28.2310450000,0,0,0
+707 Panyaza,"African, South African",0,Not rated,2,R,300,4,Jabulani,Soweto,-26.2554000000,27.8746900000,0,0,0
+And,Finger Food,0,Not rated,2,R,300,4,Newtown,Inner City,-26.2012290000,28.0290610000,0,0,0
+De New Cafe,African,0,Not rated,1,R,200,3,Rosettenville,Johannesburg South,-26.2503900000,28.0517780000,0,0,0
+ONYX,Finger Food,0,Not rated,1,R,350,4,Fourways,Sandton,-26.1067051000,28.0536449000,0,0,0
+Addictshun,Drinks Only,0,Not rated,2,R,0,1,Braamfontein,Inner City,-26.1922620000,28.0350440000,0,0,0
+DeCalabash Restaurant & Sports Bar,South African,0,Not rated,0,R,140,2,Germiston,East Rand,-26.2171340000,28.1658310000,0,0,0
+Nextasy Underground,Drinks Only,0,Not rated,0,R,150,2,Germiston,East Rand,-26.2097170000,28.1589990000,0,0,0
+Apache's Bar & Night Club,"Finger Food, American",0,Not rated,0,R,300,4,Alberton,Johannesburg South,-26.3257840000,28.1272750000,0,0,0
+Underground Dance Cafe,Pizza,0,Not rated,0,R,300,4,Marshalltown,Inner City,-26.2050490000,28.0451320000,0,0,0
+Club Africa,"African, Finger Food",0,Not rated,0,R,200,3,Benoni,East Rand,-26.1872480000,28.3225530000,0,0,0
+Victoria Lake Club ,"Burger, Fast Food",0,Not rated,0,R,200,3,Germiston,East Rand,-26.2268800000,28.1635780000,0,0,0
+Truth,Drinks Only,0,Not rated,0,R,0,1,Halfway House,Midrand,-26.0041010000,28.1241010000,0,0,0
+Clockwise Lounge LTD,Drinks Only,0,Not rated,0,R,200,3,Germiston,East Rand,-26.3233000000,28.2066760000,0,0,0
+The Woods,Finger Food,0,Not rated,0,R,300,4,Newtown,Inner City,-26.2003250000,28.0277500000,0,0,0
+Snack Cafe,Beverages,3.0,Average,4,R,80,1,"Trade Route Mall, Lenasia",Soweto,-26.3260950000,27.8666710000,0,0,0
+Smooch,"Desserts, Ice Cream, Frozen Yogurt",3.1,Average,9,R,100,2,"Green Valley Shopping Centre, Edenvale",East Rand,-26.1183730000,28.1567030000,0,0,0
+Paul's Homemade Ice Cream,Desserts,3.1,Average,4,R,90,1,Sandown,Sandton,-26.1090074698,28.0571199954,0,0,0
+Coco,Beverages,3.2,Average,11,R,0,1,"The Zone, Rosebank, Sandton",Johannesburg,-26.1450000000,28.0426666667,0,0,0
+Coco,Beverages,3.3,Average,11,R,0,1,Rivonia,Sandton,-26.0579420000,28.0601280000,0,0,0
+Coco,Beverages,3.3,Average,10,R,0,1,"Clearwater Mall, Strubens Valley, Roodeport",Roodepoort,-26.1281117318,27.9047554359,0,0,0
+Coco,Beverages,3.4,Average,9,R,60,1,Cyrildene,Inner City,-26.1766600000,28.1006300000,0,0,0
+Paul's Homemade Ice Cream,Desserts,3.5,Good,9,R,110,2,"Hyde Park Corner, Hyde Park",Sandton,0.0000000000,0.0000000000,0,0,0
+The Deli Counter,"Mediterranean, Deli",3.6,Good,17,R,120,2,Bedfordview,East Rand,-26.1776161487,28.1366256184,0,0,0
+Crumbs and Cream ,Ice Cream,3.8,Good,74,R,80,1,Illovo,Sandton,0.0000000000,0.0000000000,0,0,0
+Coco,Beverages,0,Not rated,1,R,0,1,"Cresta Shopping Centre, Cresta",Randburg,-26.1345415319,27.9736033827,0,0,0
+Gourmet Samosserie ,Fast Food,0,Not rated,1,R,0,1,"Morningview Shopping Centre, Morningside",Sandton,-26.1075663000,28.0567007000,0,0,0
+Ice Cream I Love You,Ice Cream,0,Not rated,0,R,0,1,Mayfair,Inner City,0.0000000000,0.0000000000,0,0,0
+Marcel's,"Desserts, Ice Cream, Frozen Yogurt",0,Not rated,0,R,100,2,"Fourways Mall, Fourways",Sandton,-26.0187130618,28.0079078302,0,0,0
+One-Juice,Juices,0,Not rated,0,R,90,1,Parkhurst,Johannesburg,-26.1403274776,28.0174011737,0,0,0
+Coco,Beverages,0,Not rated,0,R,0,1,"Cradlestone Mall, Krugersdorp , West Rand",West Rand,-26.0609980000,27.8370690000,0,0,0
+Gilroy's Brewery,Steak,3.8,Good,172,R,300,4,Muldersdrift,West Rand,-26.0226700000,27.8688010000,0,0,0
+The Soul Shack,"South African, Contemporary, Pizza",2.8,Average,13,R,300,4,Boksburg,East Rand,-26.1925590000,28.2536910000,0,0,0
+Burlesque Dinner Theatre,"Continental, Finger Food",3.0,Average,4,R,300,4,Bedfordview,East Rand,-26.1827000000,28.1198380000,0,0,0
+Sin & Taxes,Drinks Only,4.4,Very Good,61,R,300,4,Rosebank,Johannesburg,-26.1489980000,28.0345700000,0,0,0
+Liquor On The Run,Drinks Only,0,Not rated,1,R,0,1,"Mexican Food & Tequila Festival, Parktown North ",Johannesburg,-26.1436390000,28.0138530000,0,0,0
+Blomplek Premium Lifestyle,"African, Finger Food",0,Not rated,1,R,300,4,Orlando West,Soweto,-26.2428780000,27.9330200000,0,0,0
+The Vault - Faircity Mapungubwe Hotel,Finger Food,0,Not rated,0,R,400,4,Marshalltown,Inner City,-26.2080500000,28.0368380000,0,0,0
+Day Of The Dead Bar,Drinks Only,0,Not rated,0,R,100,2,"Mexican Food & Tequila Festival, Parktown North ",Johannesburg,-26.1436390000,28.0138530000,0,0,0
+Matlombe Lounge,African,0,Not rated,0,R,260,3,Newtown,Inner City,-26.2029970000,28.0302470000,0,0,0
+High End Brands,Drinks Only,0,Not rated,0,R,0,1,"Mexican Food & Tequila Festival, Parktown North ",Johannesburg,-26.1436390000,28.0138530000,0,0,0
+Oh My Cake!,"Patisserie, Bakery, Desserts",3.2,Average,4,R,100,2,Fourways,Sandton,-26.0233080000,28.0163050000,0,0,0
+Oregano,Patisserie,3.8,Good,21,R,100,2,Linden,Randburg,-26.1372900000,27.9945690000,0,0,0
+Patisserie de Paris,"Bakery, Desserts, Patisserie, Cafe",3.9,Good,114,R,80,1,Blairgowrie,Randburg,-26.1131580000,28.0141680000,0,0,0
+The Victorian Secret,"Patisserie, Cafe",3.9,Good,68,R,190,2,Benoni,East Rand,-26.1948600000,28.3052540000,0,0,0
+XO Patisserie,Patisserie,4.0,Very Good,66,R,82,1,Melville,Johannesburg,-26.1758060000,28.0080680000,0,0,0
+B-Tempted Home Industry,Bakery,0,Not rated,1,R,180,2,"Glenvista Shopping Centre, Glenvista",Johannesburg South,-26.2866200000,28.0528850000,0,0,0
+Wiesenhof,"Cafe, Pizza",2.9,Average,6,R,300,4,Benoni,East Rand,-26.1471660000,28.3523170000,0,0,0
+Wiesenhof,"Cafe, Pizza",0,Not rated,3,R,300,4,Benoni,East Rand,-26.1951050000,28.3080800000,0,0,0
+Designer Bites,Desserts,0,Not rated,0,R,90,1,Woodmead,Sandton,-26.0572700000,28.0892580000,0,0,0
+Fujifilm cooking experience with Izelle Hoffman,"Healthy Food, Bakery",3.2,Average,6,R,2400,4,Bryanston,Sandton,-26.0814780000,28.0271990000,0,0,0
+Parsley on Thyme,South African,0,Not rated,1,R,100,2,Orlando West,Soweto,0.0000000000,0.0000000000,0,0,0
+Wine Not,Contemporary,0,Not rated,1,R,300,4,Sandown,Sandton,-26.0895180000,28.0846750000,0,0,0
+GoGourmet,Contemporary,0,Not rated,0,R,250,3,Halfway Gardens,Midrand,-25.9460100000,28.1216810000,0,0,0

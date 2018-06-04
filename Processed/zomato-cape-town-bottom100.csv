@@ -1,0 +1,986 @@
+﻿name,cuisines,aggregate_rating,rating_text,votes,currency,average_cost_for_two,price_range,locality,city,latitude,longitude,has_online_delivery,is_delivering_now,has_table_booking
+KFC,Desserts,2.4,Poor,6,R,80,1,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+Milky Lane,"Desserts, Ice Cream",2.6,Average,15,R,80,1,"Cavendish Square, Claremont",Cape Town,-33.9801200000,18.4631560000,0,0,0
+Wakaberry,Desserts,2.6,Average,10,R,80,1,"Somerset Mall, Somerset West",Cape Town,-34.0822190000,18.8236540000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,2.6,Average,16,R,100,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8881988281,18.6339091882,0,0,0
+Waffle Mania,Desserts,2.6,Average,5,R,120,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5106666667,0,0,0
+Dunkin Donuts,"Bakery, Desserts",2.7,Average,12,R,120,2,Kenilworth,Cape Town,-33.9883433148,18.4843864292,0,0,0
+Milky Lane,"Desserts, Ice Cream",2.7,Average,15,R,80,1,Table View,Cape Town,-33.8219310000,18.4771230000,0,0,0
+Milky Lane,"Desserts, Ice Cream",2.7,Average,12,R,80,1,Sea Point,Cape Town,-33.9133333333,18.3916666667,0,0,0
+The Donut Centre,Desserts,2.7,Average,4,R,70,1,"Bayside Mall, Table View",Cape Town,-33.8235000000,18.4890000000,0,0,0
+Milky Lane,"Desserts, Ice Cream",2.7,Average,7,R,80,1,"Grandwest Casino, Goodwood",Cape Town,-33.9169532509,18.5475745797,0,0,0
+Sirocco Ice Cream,"Desserts, Ice Cream",2.8,Average,7,R,80,1,"Surfers Corner, Muizenberg",Cape Town,-34.1058080000,18.4730910000,0,0,0
+Icezeit Gelateria and Espresso Bar,"Desserts, Ice Cream",2.8,Average,5,R,75,1,Sea Point,Cape Town,-33.9186150000,18.3843980000,0,0,0
+Gelato Mania,"Desserts, Ice Cream",2.8,Average,4,R,100,2,"Village Square, Hermanus",Cape Town,-34.4200220000,19.2435350000,0,0,0
+Cookies Bakery and Takeaways,"Bakery, Desserts, Fast Food",2.9,Average,6,R,150,2,Ottery,Cape Town,-33.9906910000,18.5067990000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,2.9,Average,5,R,100,2,"Eikestad Mall, Stellenbosch",Cape Town,-33.9353850000,18.8602520000,0,0,0
+Milky Lane,"Desserts, Ice Cream",2.9,Average,3,R,80,1,"Vangate Mall, Athlone",Cape Town,-33.9611170000,18.5395840000,0,0,0
+Addictions,"Desserts, Ice Cream",2.9,Average,2,R,120,2,"Mainstream Shopping Centre, Hout Bay",Cape Town,-34.0426660000,18.3586300000,0,0,0
+Milky Lane,"Desserts, Ice Cream",3.0,Average,5,R,80,1,"Kenilworth Center, Kenilworth",Cape Town,-33.9877903816,18.4842120856,0,0,0
+Wakaberry,Desserts,3.0,Average,5,R,80,1,Stellenbosch,Cape Town,-33.9380483868,18.8609766215,0,0,0
+Met Eish,Ice Cream,3.0,Average,7,R,80,1,"Eden On The Bay Centre, Blouberg",Cape Town,-33.7919560000,18.4571620000,0,0,0
+Uncle Barry's Ice-Cream,"Desserts, Ice Cream",3.0,Average,5,R,70,1,Gordons Bay,Cape Town,-34.1566880000,18.8684470000,0,0,0
+Sweet Dreams,Desserts,3.0,Average,4,R,40,1,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9064010000,18.4198230000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.0,Average,4,R,100,2,Somerset West,Cape Town,-34.0827300000,18.8244100000,0,0,0
+Jessy's Waffles,Desserts,3.1,Average,10,R,100,2,Gardens,Cape Town,0.0000000000,0.0000000000,0,0,0
+Wicked Treats,"Cafe, Bakery, Desserts",3.1,Average,9,R,100,2,Riebeek Kasteel,Cape Town,-33.3857120000,18.8965510000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.1,Average,5,R,100,2,Kenilworth,Cape Town,-33.9897296628,18.4841765463,0,0,0
+CocoaFair,Desserts,3.2,Average,6,R,120,2,"Old Biscuit Mill, Woodstock",Cape Town,-33.9277270000,18.4576270000,0,0,0
+Cold Gold Artisan Ice Cream & Sorbet,"Desserts, Ice Cream",3.1,Average,8,R,90,1,Stellenbosch,Cape Town,-33.9407570000,18.8464440000,0,0,0
+N' Ice,"Ice Cream, Desserts",3.1,Average,6,R,70,1,Strand,Cape Town,-34.1114590000,18.8222590000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.1,Average,9,R,100,2,"Blue Route Mall, Tokai",Cape Town,-34.0640210000,18.4543590000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.1,Average,5,R,100,2,"Bayside Mall, Table View",Cape Town,-33.8236104209,18.4890279919,0,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.2,Average,15,R,80,1,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8779373207,18.6602736264,0,0,0
+Denise's Delights,"Cafe, Bakery, Desserts",3.2,Average,13,R,150,2,Sea Point,Cape Town,-33.9188330000,18.3867810000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.2,Average,7,R,100,2,"N1 City Mall, Goodwood",Cape Town,-33.8919780763,18.5598346218,0,0,0
+Venezia Ice Cream Parlour,"Ice Cream, Desserts",3.3,Average,23,R,120,2,Sea Point,Cape Town,-33.9169587000,18.3887067000,0,0,0
+Myshake Milkshake Bars,"Ice Cream, Desserts, International",3.3,Average,12,R,100,2,"Canal Walk Mall, Century City",Cape Town,-33.8931280000,18.5116430000,0,0,0
+Haagen Dazs,"Desserts, Ice Cream",3.3,Average,12,R,120,2,Century City,Cape Town,-33.8923507319,18.5104065388,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.4,Average,25,R,100,2,"Canal Walk Mall, Century City",Cape Town,-33.8930000000,18.5105000000,0,0,0
+Gelato Mania,"Desserts, Ice Cream",3.4,Average,14,R,100,2,"Cavendish Square, Claremont",Cape Town,-33.9806130000,18.4636580000,0,0,0
+Addictions,"Desserts, Ice Cream",3.4,Average,22,R,80,1,"The Promenade, Camps Bay",Cape Town,-33.9531666667,18.3775000000,0,0,0
+Gelato Mania,"Desserts, Ice Cream",3.4,Average,20,R,100,2,"The Promenade, Camps Bay",Cape Town,-33.9526666667,18.3775000000,0,0,0
+Jean-Pierre Fortain Chocolatier,Desserts,3.4,Average,10,R,50,1,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9064010000,18.4198230000,0,0,0
+De Villiers Chocolate Cafe,"Cafe, Desserts",3.4,Average,13,R,180,2,Franschhoek,Cape Town,-33.9129914708,19.1218244657,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.5,Good,43,R,100,2,"Fountain Square, Rondebosch",Cape Town,-33.9598333333,18.4705000000,0,0,0
+Marcel's Frozen Yoghurt,Desserts,3.5,Good,34,R,100,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9046079386,18.4200529754,0,0,0
+Gelato Mania,"Desserts, Ice Cream",3.5,Good,30,R,100,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9043333333,18.4203333333,0,0,0
+For the Love of Yummyness,Desserts,3.5,Good,25,R,100,2,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9064010000,18.4198230000,0,0,0
+The Donut Centre,Desserts,3.5,Good,31,R,70,1,"Canal Walk Mall, Century City",Cape Town,-33.8928333333,18.5106666667,0,0,0
+Sinnfull Ice Cream,Desserts,3.5,Good,26,R,50,1,Hout Bay,Cape Town,-34.0548250000,18.3472110000,0,0,0
+Myog,Desserts,3.5,Good,18,R,100,2,Stellenbosch,Cape Town,-33.9373050000,18.8599030000,0,0,0
+IceDream,"Desserts, Ice Cream",3.5,Good,19,R,60,1,"Mainstream Shopping Centre, Hout Bay",Cape Town,-34.0426660000,18.3586300000,0,0,0
+Gelato Mania,"Desserts, Ice Cream",3.6,Good,56,R,100,2,Green Point,Cape Town,-33.9085175180,18.4113870934,0,0,0
+The Dairy Den,Ice Cream,3.6,Good,27,R,70,1,Sea Point,Cape Town,-33.9145060000,18.3906000000,0,0,0
+Haagen Dazs,"Desserts, Ice Cream",3.7,Good,63,R,120,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9043333333,18.4200000000,0,0,0
+Asara Deli,"Desserts, Deli",3.7,Good,25,R,80,1,"Asara Wine Estate, Stellenbosch",Cape Town,-33.9435000000,18.8085000000,0,0,0
+The Creamery,"Desserts, Ice Cream",3.7,Good,38,R,75,1,V & A Waterfront,Cape Town,-33.9053510000,18.4195710000,0,0,0
+Cookies and Cream ,"Ice Cream, Desserts",3.7,Good,20,R,50,1,CBD,Cape Town,-33.9221930000,18.4159220000,0,0,0
+The Ice Cafe,Desserts,3.7,Good,41,R,45,1,"Kalk Bay, Bay Area",Cape Town,-34.1260000000,18.4498333333,0,0,0
+Le Delizie,"Ice Cream, Desserts",3.6,Good,17,R,50,1,"Dean Street Arcade, Newlands",Cape Town,-33.9713770000,18.4641800000,0,0,0
+Myog,Desserts,3.8,Good,35,R,100,2,Sea Point,Cape Town,-33.9207670000,18.3835440000,0,0,0
+Baskin Robbins,"Ice Cream, Desserts",3.9,Good,38,R,80,1,"Canal Walk Mall, Century City",Cape Town,-33.8939850000,18.5092750000,0,0,0
+DV Artisan Chocolate,Desserts,3.9,Good,23,R,70,1,"Spice Route Farm, Paarl",Cape Town,-33.7608640000,18.9167030000,0,0,0
+Myog,Desserts,4.1,Very Good,86,R,100,2,Gardens,Cape Town,-33.9315000000,18.4093333333,0,0,0
+The Creamery,"Desserts, Ice Cream",4.1,Very Good,44,R,75,1,Claremont,Cape Town,-33.9812780000,18.4674220000,0,0,0
+The Creamery,"Desserts, Ice Cream",4.2,Very Good,110,R,110,2,Green Point,Cape Town,-33.9040931407,18.3990827948,0,0,0
+The Velvet Cake Co.,"Cafe, Desserts, Bakery",4.4,Very Good,126,R,160,2,Bellville,Cape Town,-33.8683006732,18.6411799863,0,0,0
+My Sugar,"Cafe, Patisserie, Bakery, Desserts",4.5,Excellent,195,R,125,2,Sea Point,Cape Town,-33.9216920000,18.3827590000,0,0,0
+The Creamery,"Desserts, Ice Cream",4.5,Excellent,388,R,110,2,Newlands,Cape Town,-33.9702860000,18.4619500000,0,0,0
+The Velvet Cake Co.,"Bakery, Desserts",4.6,Excellent,87,R,165,2,CBD,Cape Town,-33.9192997932,18.4215120971,0,0,0
+Unframed Ice Cream,Ice Cream,4.7,Excellent,103,R,40,1,Gardens,Cape Town,-33.9286914060,18.4120974874,0,0,0
+Moro Gelato,"Desserts, Ice Cream",4.8,Excellent,67,R,80,1,CBD,Cape Town,-33.9241081389,18.4173174575,0,0,0
+Angel Berry,Desserts,3.1,Average,4,R,100,2,Foreshore,Cape Town,-33.9197674802,18.4278712794,0,0,0
+Ice Cream & Fresh Juice,Desserts,0,Not rated,1,R,0,1,Sea Point,Cape Town,-33.9128031015,18.3923249692,0,0,0
+Wakaberry,Desserts,0,Not rated,3,R,80,1,Strand,Cape Town,-34.1170780000,18.8253750000,0,0,0
+For The Love Of Yummyness,Desserts,0,Not rated,3,R,100,2,Stellenbosch,Cape Town,-33.9371790000,18.8630870000,0,0,0
+Sorbetiere,Ice Cream,0,Not rated,2,R,60,1,Woodstock,Cape Town,-33.9267000000,18.4452400000,0,0,0
+Bonjour Bakery,"Bakery, Desserts",0,Not rated,3,R,120,2,Sea Point,Cape Town,-33.9145490000,18.3910310000,0,0,0
+Cinnabon,Desserts,0,Not rated,3,R,100,2,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8521201392,18.6971975863,0,0,0
+Gelato Mania,"Desserts, Ice Cream",0,Not rated,2,R,100,2,Somerset West,Cape Town,-34.0827300000,18.8244100000,0,0,0
+SoYogi,Frozen Yogurt,0,Not rated,1,R,120,2,Franschhoek,Cape Town,-33.9083989811,19.1174916923,0,0,0
+Smooch,"Ice Cream, Desserts",0,Not rated,1,R,80,1,Athlone,Cape Town,-33.9674890000,18.5288620000,0,0,0
+Filo Yoghurt,"Ice Cream, Desserts",0,Not rated,3,R,100,2,Sea Point,Cape Town,-33.9221690000,18.3812810000,0,0,0
+Ice Rock Cafe,Desserts,0,Not rated,2,R,90,1,"Sun Valley Mall, Noordhoek",Cape Town,-34.1203230000,18.3900330000,0,0,0
+Daniela's Deliciously Decadent,"Bakery, Desserts",0,Not rated,1,R,100,2,"Cape Quarter Lifestyle Center, Green Point",Cape Town,-33.9156216414,18.4178683162,0,0,0
+Milky Lane,Desserts,0,Not rated,1,R,80,1,"N1 City Mall, Goodwood",Cape Town,-33.8918642477,18.5596140102,0,0,0
+Smooch,"Ice Cream, Desserts",0,Not rated,2,R,80,1,"Canal Walk Mall, Century City",Cape Town,-33.8936666667,18.5093333333,0,0,0
+Marcel's Frozen Yoghurt,Desserts,0,Not rated,1,R,100,2,"Grandwest Casino, Goodwood",Cape Town,-33.9169326620,18.5473586619,0,0,0
+N' Ice,"Ice Cream, Desserts",0,Not rated,1,R,70,1,Strand,Cape Town,-34.1142650000,18.8225270000,0,0,0
+Beijo,"Brazilian, Desserts",0,Not rated,0,R,60,1,Woodstock,Cape Town,-33.9308710000,18.4432850000,0,0,0
+Caldo & Freddo,Desserts,0,Not rated,0,R,80,1,Sea Point,Cape Town,-33.9194440000,18.3827010000,0,0,0
+Doughnut Hive,"Bakery, Desserts",0,Not rated,0,R,50,1,"Grandwest Casino, Goodwood",Cape Town,-33.9168416814,18.5475799441,0,0,0
+DV Café,"Desserts, Cafe, Ice Cream",0,Not rated,0,R,50,1,"Spice Route Farm, Paarl",Cape Town,0.0000000000,0.0000000000,0,0,0
+Yogi Bar,Desserts,0,Not rated,0,R,120,2,"Sandown Retail Crossing Center, Parklands",Cape Town,-33.8016311145,18.4949744493,0,0,0
+Marcel's Frozen Yoghurt,Desserts,0,Not rated,0,R,100,2,"Zevenwacht Mall, Kuilsriver",Cape Town,-33.9483400000,18.6970300000,0,0,0
+Gelato,Ice Cream,0,Not rated,0,R,80,1,Simon's Town,Cape Town,-34.1947520000,18.4475110000,0,0,0
+Lili's Ice Cream Parlor,"Desserts, Ice Cream",0,Not rated,0,R,60,1,Plumstead,Cape Town,-34.0210800491,18.4677905962,0,0,0
+Marcel's Frozen Yoghurt,Desserts,0,Not rated,0,R,100,2,"Mountain Mill Centre, Worcester",Cape Town,-33.6318070000,19.4343530000,0,0,0
+Ice Rock Cafe,Desserts,0,Not rated,0,R,90,1,Fish Hoek,Cape Town,-34.1405488463,18.4298624843,0,0,0
+IceDream,"Desserts, Ice Cream",0,Not rated,0,R,60,1,"Bay Habour Market, Hout Bay",Cape Town,-34.0550900000,18.3471680000,0,0,0
+Bollywood Cafe,"Fast Food, Indian",2.0,Poor,37,R,160,2,CBD,Cape Town,-33.9252120476,18.4162278101,0,0,0
+Kauai,"Cafe, Healthy Food",2.1,Poor,29,R,220,3,"Cavendish Square, Claremont",Cape Town,-33.9802680000,18.4636730000,0,0,0
+KFC,Fast Food,2.1,Poor,15,R,150,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9043333333,18.4200000000,0,0,0
+Steers,Fast Food,2.2,Poor,22,R,135,2,Rondebosch,Cape Town,-33.9600850000,18.4700260000,0,0,0
+KFC,Fast Food,2.2,Poor,24,R,150,2,Observatory,Cape Town,-33.9423333333,18.4685000000,0,0,0
+Debonairs Pizza,Pizza,2.2,Poor,20,R,150,2,Rondebosch,Cape Town,-33.9600000000,18.4701666667,0,0,0
+Food Inn India,"Indian, Chinese, Lebanese",2.3,Poor,92,R,180,2,CBD,Cape Town,-33.9244928950,18.4168349952,0,0,0
+Food Inn India,"Indian, Chinese, Lebanese",2.3,Poor,84,R,180,2,"Riverside Mall, Rondebosch",Cape Town,-33.9618600000,18.4701420000,0,0,0
+McDonalds,Fast Food,2.3,Poor,19,R,100,2,Observatory,Cape Town,-33.9421666667,18.4683333333,0,0,0
+KFC,Fast Food,2.3,Poor,16,R,150,2,Durbanville,Cape Town,-33.8301609729,18.6494012922,0,0,0
+KFC,Fast Food,2.3,Poor,9,R,150,2,Sea Point,Cape Town,-33.9100000000,18.3946666667,0,0,0
+Burger King,"Burger, Fast Food",2.4,Poor,35,R,140,2,"Cavendish Square, Claremont",Cape Town,-33.9799710000,18.4630850000,0,0,0
+Domino's Pizza,Pizza,2.4,Poor,28,R,180,2,"Flamingo Square Centre, Table View",Cape Town,-33.8298110000,18.5069310000,0,0,0
+Vida E Caffe,"Cafe, Desserts",2.4,Poor,20,R,150,2,"Cavendish Square, Claremont",Cape Town,-33.9799710000,18.4630850000,0,0,0
+McDonalds,Fast Food,2.4,Poor,17,R,100,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9035220000,18.4204590000,0,0,0
+Bella Pizza,"Fast Food, Pizza",2.4,Poor,13,R,220,3,Bergvliet,Cape Town,-34.0519100000,18.4615670000,0,0,0
+McDonalds,Fast Food,2.4,Poor,18,R,100,2,Milnerton,Cape Town,-33.8795000000,18.4986666667,0,0,0
+Snoekies,"Fast Food, Seafood",2.4,Poor,14,R,140,2,Sea Point,Cape Town,-33.9131666667,18.3918333333,0,0,0
+McDonalds,Fast Food,2.4,Poor,16,R,100,2,Durbanville,Cape Town,-33.8280306154,18.6521475390,0,0,0
+Domino's Pizza,Pizza,2.4,Poor,13,R,180,2,Tokai,Cape Town,-34.0663333333,18.4588333333,0,0,0
+Steers,Fast Food,2.4,Poor,13,R,135,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+McDonalds,Fast Food,2.4,Poor,8,R,100,2,Tokai,Cape Town,-34.0658333333,18.4588333333,0,0,0
+Barcelos,"Fast Food, Portuguese",2.5,Average,8,R,140,2,CBD,Cape Town,-33.9258886297,18.4154925495,0,0,0
+Kauai,"Healthy Food, Fast Food",2.5,Average,23,R,200,3,V & A Waterfront,Cape Town,-33.9057460000,18.4199860000,0,0,0
+McDonalds,Fast Food,2.5,Average,13,R,100,2,Kenilworth,Cape Town,-34.0018238736,18.4789391980,0,0,0
+Lucky Fish & Chips,"Fast Food, Seafood",2.5,Average,38,R,150,2,Sea Point,Cape Town,-33.9210550000,18.3833830000,0,0,0
+Crave,"Healthy Food, Fast Food",2.5,Average,20,R,160,2,Century City,Cape Town,-33.8851510000,18.5214470000,0,0,0
+McDonalds,Fast Food,2.5,Average,12,R,100,2,Rondebosch,Cape Town,-33.9598333333,18.4705000000,0,0,0
+Domino's Pizza,Pizza,2.5,Average,19,R,180,2,Goodwood,Cape Town,-33.8921060000,18.5569990000,0,0,0
+Burger King,"Burger, Fast Food",2.5,Average,19,R,140,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8785346691,18.6571552232,0,0,0
+McDonalds,Fast Food,2.5,Average,11,R,100,2,"Vangate Mall, Athlone",Cape Town,-33.9611100000,18.5395780000,0,0,0
+Anat,"Lebanese, Fast Food",2.5,Average,13,R,120,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9043333333,18.4200000000,0,0,0
+Kauai,"Healthy Food, Fast Food",2.5,Average,9,R,200,3,"Portside Building, De Waterkant",Cape Town,-33.9167273295,18.4224937856,0,0,0
+Calamari Fisheries,Fish and Chips,2.5,Average,14,R,100,2,"Westcoast Village, Sunningdale",Cape Town,-33.8044093079,18.4854522720,0,0,0
+Anat,"Lebanese, Fast Food",2.5,Average,16,R,120,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8730865636,18.6348214746,0,0,0
+KFC,Fast Food,2.5,Average,16,R,150,2,"Plattekloof Village, Plattekloof",Cape Town,-33.8656666667,18.5718333333,0,0,0
+McDonalds,Fast Food,2.5,Average,13,R,100,2,Plumstead,Cape Town,-34.0209560000,18.4660250000,0,0,0
+Kauai,"Healthy Food, Fast Food",2.5,Average,13,R,200,3,"Somerset Mall, Somerset West",Cape Town,-34.0819970000,18.8218270000,0,0,0
+Domino's Pizza,Pizza,2.5,Average,14,R,180,2,Gardens,Cape Town,-33.9322480000,18.4086990000,0,0,0
+McDonalds,Fast Food,2.5,Average,7,R,100,2,"Tyger Manor, Bellville",Cape Town,-33.8761087852,18.6366038024,0,0,0
+Southern Fried Chicken,"Burger, Fast Food, Grill",2.5,Average,9,R,140,2,CBD,Cape Town,-33.9198562320,18.4218899533,0,0,0
+McDonalds,Fast Food,2.5,Average,11,R,100,2,CBD,Cape Town,-33.9226433791,18.4229145572,0,0,0
+McDonalds,Fast Food,2.5,Average,13,R,100,2,"Sandown Retail Crossing Center, Parklands",Cape Town,-33.8004233579,18.5015059635,0,0,0
+Tao Yuan,Chinese,2.5,Average,7,R,300,4,Sea Point,Cape Town,-33.9183333333,18.3856666667,0,0,0
+McDonalds,Fast Food,2.5,Average,8,R,100,2,Table View,Cape Town,-33.8241939443,18.4896975383,0,0,0
+KFC,Fast Food,2.5,Average,9,R,150,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+Fisherman's Lane,Fast Food,2.5,Average,6,R,75,1,Kenilworth,Cape Town,-34.0016512661,18.4789526090,0,0,0
+McDonalds,Fast Food,2.5,Average,9,R,100,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8881988281,18.6339091882,0,0,0
+Yusra's Kitchen,Fast Food,2.5,Average,4,R,120,2,Sea Point,Cape Town,-33.9086666667,18.3965000000,0,0,0
+The Galley,Seafood,2.6,Average,25,R,200,3,"Bayside on Fish Hoek Beach, Fish Hoek",Cape Town,-34.1410980000,18.4319360000,0,0,0
+Pizza Hut,Pizza,2.6,Average,16,R,180,2,Durbanville,Cape Town,-33.8301999644,18.6491069198,0,0,0
+Burger King,"Burger, Fast Food",2.6,Average,13,R,140,2,Kenilworth,Cape Town,-33.9883155153,18.4843465313,0,0,0
+McDonalds,Fast Food,2.6,Average,12,R,100,2,Sea Point,Cape Town,-33.9158160000,18.3897210000,0,0,0
+Mumbai Cafe,"Indian, Durban",2.6,Average,23,R,100,2,"Rawoot Square, Rylands",Cape Town,-33.9674900000,18.5288580000,0,0,0
+Adega Express,"Portuguese, Pizza",2.6,Average,15,R,220,3,"Cavendish Square, Claremont",Cape Town,-33.9802700000,18.4635740000,0,0,0
+Tai Chung,Chinese,2.6,Average,16,R,180,2,Athlone,Cape Town,-33.9645000000,18.5143333333,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,14,R,150,2,"Westcoast Village, Sunningdale",Cape Town,-33.8049765253,18.4845007583,0,0,0
+McDonalds,Fast Food,2.6,Average,11,R,100,2,"Cavendish Square, Claremont",Cape Town,-33.9799710000,18.4630850000,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,15,R,150,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+Burger King,"Burger, Fast Food",2.6,Average,15,R,140,2,Crawford,Cape Town,-33.9892720000,18.5100820000,0,0,0
+Cinnabon,Desserts,2.6,Average,12,R,100,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8730848933,18.6349133402,0,0,0
+Steers,Fast Food,2.6,Average,7,R,135,2,"Cavendish Square, Claremont",Cape Town,-33.9799710000,18.4630850000,0,0,0
+Domino's Pizza,Pizza,2.6,Average,12,R,180,2,Sea Point,Cape Town,-33.9093650000,18.3954200000,0,0,0
+Hot Fusion,"Indian, Pakistani",2.6,Average,12,R,105,2,Rondebosch,Cape Town,-33.9606560000,18.4705750000,0,0,0
+Debonairs Pizza,Pizza,2.6,Average,9,R,150,2,Gardens,Cape Town,-33.9318333333,18.4090000000,0,0,0
+Lua,Asian,2.6,Average,8,R,150,2,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9064149935,18.4194360673,0,0,0
+McDonalds,Fast Food,2.6,Average,14,R,100,2,"Eikestad Mall, Stellenbosch",Cape Town,-33.9353400000,18.8602630000,0,0,0
+Calamari King,"Fish and Chips, Fast Food",2.6,Average,11,R,100,2,"Canal Walk Mall, Century City",Cape Town,-33.8928333333,18.5106666667,0,0,0
+McDonalds,Fast Food,2.6,Average,8,R,100,2,Pinelands,Cape Town,-33.9329059049,18.5096699372,0,0,0
+Fishaways,"Fast Food, Seafood",2.6,Average,7,R,200,3,"Bayside Mall, Table View",Cape Town,-33.8235000000,18.4890000000,0,0,0
+KFC,Fast Food,2.6,Average,7,R,150,2,Noordhoek,Cape Town,-34.1223820000,18.3899840000,0,0,0
+Sausage Saloon,Fast Food,2.6,Average,8,R,100,2,"Canal Walk Mall, Century City",Cape Town,-33.8936666667,18.5093333333,0,0,0
+KFC,Fast Food,2.6,Average,10,R,150,2,"Sandown Retail Crossing Center, Parklands",Cape Town,-33.8001285902,18.5014529899,0,0,0
+Chicken Tikka Inn,"Indian, Grill",2.6,Average,5,R,130,2,Crawford,Cape Town,-33.9735007189,18.5022123903,0,0,0
+Steers,Fast Food,2.6,Average,6,R,135,2,Bellville,Cape Town,-33.8691703489,18.6390167847,0,0,0
+KFC,Fast Food,2.6,Average,7,R,150,2,Hout Bay,Cape Town,-34.0416666667,18.3510000000,0,0,0
+McDonalds,Fast Food,2.6,Average,6,R,100,2,Hannover,Cape Town,-34.0008888428,18.5233461857,0,0,0
+KFC,Fast Food,2.6,Average,5,R,150,2,Parow,Cape Town,-33.9050810000,18.5908580000,0,0,0
+KFC,Fast Food,2.6,Average,4,R,150,2,Woodstock,Cape Town,-33.9306666667,18.4535000000,0,0,0
+Vida E Caffe,"Cafe, Desserts",2.7,Average,29,R,150,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5106666667,0,0,0
+Aneesa's Foods,Fast Food,2.7,Average,23,R,100,2,Athlone,Cape Town,-33.9641666667,18.5178333333,0,0,0
+Roman's Pizza,Pizza,2.8,Average,8,R,150,2,Rylands,Cape Town,-33.9673333333,18.5290000000,0,0,0
+Anat,"Lebanese, Fast Food",2.7,Average,27,R,120,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+McDonalds,Fast Food,2.6,Average,9,R,100,2,Claremont,Cape Town,-33.9808333333,18.4651666667,0,0,0
+The Rib Cage,Grill,2.7,Average,13,R,200,3,Plumstead,Cape Town,-34.0228333333,18.4670000000,0,0,0
+McDonalds,Fast Food,2.7,Average,18,R,100,2,Gardens,Cape Town,-33.9273333333,18.4131666667,0,0,0
+Sunrise Chip 'n Ranch,"Cape Malay, Durban, Fast Food",2.7,Average,19,R,150,2,Mowbray,Cape Town,-33.9480430000,18.4713400000,0,0,0
+Steers,Fast Food,2.7,Average,19,R,135,2,"Westcoast Village, Sunningdale",Cape Town,-33.8048219060,18.4861204773,0,0,0
+Cape to India,"Fast Food, Indian, Durban",2.7,Average,8,R,180,2,Athlone,Cape Town,-33.9646666667,18.5143333333,0,0,0
+Burger King,"Burger, Fast Food",2.7,Average,19,R,140,2,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8523877191,18.6973575130,0,0,0
+Burger King,"Burger, Fast Food",2.7,Average,10,R,140,2,"Grandwest Casino, Goodwood",Cape Town,-33.9169179159,18.5475454107,0,0,0
+Roman's Pizza,Pizza,2.7,Average,12,R,150,2,Plattekloof,Cape Town,-33.8741450000,18.5784470000,0,0,0
+Roman's Pizza,Pizza,2.7,Average,16,R,150,2,"Parklands Junction, Parklands",Cape Town,-33.8133333333,18.5076666667,0,0,0
+Kfc,Fast Food,2.7,Average,7,R,150,2,Rondebosch,Cape Town,-33.9602737320,18.4701901674,0,0,0
+Bello Pizza,Pizza,2.7,Average,13,R,170,2,Kuilsriver,Cape Town,-33.9352828845,18.6977001652,0,0,0
+St. Elmo's Pizzaway,"Pizza, Italian",2.7,Average,9,R,150,2,Claremont,Cape Town,-33.9837180000,18.4805220000,0,0,0
+Barcelos,"Fast Food, Portuguese",2.7,Average,6,R,140,2,Cape Town International Airport,Cape Town,-33.9692160000,18.5972280000,0,0,0
+Pizza Delish,"Italian, Pizza",2.8,Average,11,R,130,2,Durbanville,Cape Town,-33.8300000000,18.6900000000,0,0,0
+Metro Sandwiches & Juices,"Fast Food, Beverages",2.7,Average,8,R,160,2,Crawford,Cape Town,-33.9736694909,18.5018640384,0,0,0
+Snoekies,"Fast Food, Seafood",2.7,Average,8,R,140,2,"Tokai Junction, Tokai",Cape Town,-34.0698333333,18.4581666667,0,0,0
+Dros,"South African, Grill, Seafood, Burger, Pizza",1.8,Poor,76,R,350,4,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+Mugg & Bean,Cafe,1.9,Poor,74,R,350,4,Cape Town International Airport,Cape Town,-33.9701370000,18.5975150000,0,0,0
+Casa Bella,"Italian, Grill, Pizza",2.1,Poor,35,R,350,4,"Grandwest Casino, Goodwood",Cape Town,-33.9183229561,18.5480503365,0,0,0
+Surfside Restaurant,"South African, Burger, Grill, Sushi",2.0,Poor,31,R,320,4,Strand,Cape Town,-34.1188260000,18.8279350000,0,0,0
+Cape Town Fish Market,"Seafood, Japanese, Sushi",2.1,Poor,57,R,350,4,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8782724598,18.6585231498,0,0,0
+Starlite Diner,"American, Pizza",2.1,Poor,56,R,280,3,Bellville,Cape Town,-33.8832746165,18.6322029680,0,0,0
+Mugg & Bean,Cafe,2.1,Poor,38,R,350,4,"Bayside Mall, Table View",Cape Town,-33.8235000000,18.4891666667,0,0,0
+Cafe Alfredo,Italian,2.0,Poor,26,R,200,3,V & A Waterfront,Cape Town,-33.9041666667,18.4210000000,0,0,0
+Thorfynns - Monkey Valley Resort,"African, Mediterranean",2.1,Poor,23,R,300,4,Noordhoek,Cape Town,-34.0976530000,18.3616840000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.2,Poor,136,R,473,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9035220000,18.4204590000,0,0,0
+Sakura Restaurant,"Chinese, Sushi",2.2,Poor,61,R,200,3,Rondebosch,Cape Town,-33.9597440000,18.4700720000,0,0,0
+Sakura Restaurant,"Chinese, Sushi",2.3,Poor,71,R,200,3,"Harfield Village, Claremont",Cape Town,-33.9904200000,18.4740790000,0,0,0
+Eagle Eye Spur,"Grill, Steak, Burger",2.2,Poor,25,R,330,4,"St Peters Square, Observatory",Cape Town,-33.9423580000,18.4666380000,0,0,0
+El Mariachi,Mexican,2.2,Poor,29,R,280,3,Sea Point,Cape Town,-33.9171430000,18.3885570000,0,0,0
+Jimmy's Killer Prawns,"Seafood, Sushi",2.2,Poor,31,R,300,4,"Canal Walk Mall, Century City",Cape Town,-33.8936666667,18.5093333333,0,0,0
+Mugg & Bean,Cafe,2.2,Poor,22,R,350,4,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8520909030,18.6972860992,0,0,0
+Mugg & Bean,Cafe,2.3,Poor,95,R,350,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9038090000,18.4213220000,0,0,0
+JIAH Restaurant,"Grill, Seafood, Burger, Cape Malay, Desserts, Mediterranean, Pizza, Steak",2.3,Poor,72,R,300,4,Gardens,Cape Town,-33.9268910000,18.4110700000,0,0,0
+Bertha's Restaurant,"European, Seafood, Fast Food",2.3,Poor,74,R,300,4,Simon's Town,Cape Town,-34.1929060000,18.4321860000,0,0,0
+Mugg & Bean,Cafe,2.3,Poor,107,R,350,4,"Canal Walk Mall, Century City",Cape Town,-33.8936666667,18.5106666667,0,0,0
+Nando's,"African, Portuguese",2.3,Poor,32,R,180,2,Rondebosch,Cape Town,-33.9600000000,18.4703333333,0,0,0
+MAReSOL,"Portuguese, Seafood",2.3,Poor,50,R,400,4,V & A Waterfront,Cape Town,-33.9057370000,18.4212370000,0,0,0
+Cape Town Fish Market,"Seafood, Japanese, Sushi",2.4,Poor,47,R,350,4,"Seaside Village, Blouberg",Cape Town,-33.7885540000,18.4573850000,0,0,0
+Silver Dollar Spur,"Grill, Steak, Burger",2.3,Poor,22,R,330,4,"Grandwest Casino, Goodwood",Cape Town,-33.9159911331,18.5474880785,0,0,0
+Saul's Grill,"Grill, Steak",2.3,Poor,29,R,200,3,Sea Point,Cape Town,-33.9150000000,18.3905000000,0,0,0
+Bellini Restaurant,"Burger, Contemporary, Italian, Pizza",2.3,Poor,23,R,442,4,CBD,Cape Town,-33.9226848323,18.4202997386,0,0,0
+Simply Asia,"Thai, Asian",2.3,Poor,23,R,270,3,Kenilworth,Cape Town,-33.9891464375,18.4789556265,0,0,0
+Dros,"South African, Grill, Seafood, Burger, Pizza",2.2,Poor,33,R,350,4,"Willowbridge Lifestyle Centre, Bellvile",Cape Town,-33.8684309581,18.6328909546,0,0,0
+Tokyo,"Japanese, Sushi",2.3,Poor,16,R,220,3,Gardens,Cape Town,-33.9315000000,18.4073333333,0,0,0
+Gourmet India,Indian,2.3,Poor,57,R,200,3,"Cavendish Square, Claremont",Cape Town,-33.9802800000,18.4632640000,0,0,0
+Cubana,"Cuban, Mexican",2.4,Poor,110,R,270,3,Green Point,Cape Town,-33.9160609691,18.4182706475,0,0,0
+The Beachcomber Bistro,"Cafe, Burger, Pizza",2.4,Poor,28,R,120,2,"Bayside on Fish Hoek Beach, Fish Hoek",Cape Town,-34.1410980000,18.4319360000,0,0,0
+Ottawa Spur,"Grill, Steak, Burger",2.4,Poor,23,R,330,4,"Cavendish Square, Claremont",Cape Town,-33.9799710000,18.4630850000,0,0,0
+Ciao Bella,Italian,2.4,Poor,14,R,250,3,Strand,Cape Town,-34.1169700000,18.8279900000,0,0,0
+Cubana,"Cuban, Mexican",2.4,Poor,33,R,270,3,Table View,Cape Town,-33.8202810000,18.4777590000,0,0,0
+Slaley Bistro,Contemporary,2.4,Poor,22,R,220,3,Stellenbosch,Cape Town,-33.8652531194,18.8476470485,0,0,0
+Panarottis,"Pizza, Italian",2.4,Poor,18,R,280,3,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8881988281,18.6339091882,0,0,0
+Jakura Sushi Express,"Japanese, Sushi",2.4,Poor,27,R,150,2,"Blue Route Mall, Tokai",Cape Town,-34.0640370000,18.4543730000,0,0,0
+Cappucinno,"Italian, Burger",2.4,Poor,24,R,220,3,Somerset West,Cape Town,-34.0827300000,18.8244100000,0,0,0
+Pizza Time Centre,Pizza,2.4,Poor,30,R,220,3,"Gatesville Center, Rylands",Cape Town,-33.9683333333,18.5333333333,0,0,0
+The Crypt Jazz Restaurant,European,2.4,Poor,18,R,300,4,CBD,Cape Town,-33.9248003091,18.4194974229,0,0,0
+Boulders Beach Restaurant,"Continental, American, African",2.4,Poor,17,R,420,4,Simon's Town,Cape Town,-34.1984790000,18.4530980000,0,0,0
+Tony's Roma,"Grill, Pizza",2.4,Poor,22,R,280,3,"Flamingo Square Centre, Table View",Cape Town,-33.8297980000,18.5069170000,0,0,0
+Jackson Hall,Finger Food,2.5,Average,19,R,250,3,"Grandwest Casino, Goodwood",Cape Town,-33.9182962467,18.5484654084,0,0,0
+Cincinnati Spur,"Grill, Steak, Burger",2.4,Poor,17,R,330,4,Pinelands,Cape Town,-33.9333712919,18.5102114081,0,0,0
+Ocean Basket,"Seafood, Sushi",2.4,Poor,13,R,473,4,"Vangate Mall, Athlone",Cape Town,-33.9611150000,18.5395780000,0,0,0
+Life Grand Cafe,"Mediterranean, European",2.5,Average,147,R,400,4,V & A Waterfront,Cape Town,-33.9060418429,18.4214755520,0,0,0
+Simply Asia,"Thai, Asian",2.5,Average,47,R,270,3,"Cavendish Square, Claremont",Cape Town,-33.9799710000,18.4630850000,0,0,0
+Curry & Craft,Indian,2.5,Average,28,R,0,1,Observatory,Cape Town,-33.9426294723,18.4689100146,0,0,0
+Eaglevlei,African,2.4,Poor,53,R,350,4,Stellenbosch,Cape Town,-33.8258670000,18.8142380000,0,0,0
+Zenith Sky Bar,"Mediterranean, Sushi, Burger",2.5,Average,43,R,350,4,Green Point,Cape Town,-33.9090460000,18.4120250000,0,0,0
+Thai Cafe,Thai,2.5,Average,38,R,200,3,Rondebosch,Cape Town,-33.9595310000,18.4702720000,0,0,0
+Buena Vista,"Mexican, Cuban",2.5,Average,43,R,300,4,"Eden On The Bay Centre, Blouberg",Cape Town,-33.7923440000,18.4576230000,0,0,0
+Best Of Asia,"Japanese, Asian, Chinese, Sushi",2.5,Average,25,R,200,3,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8527714066,18.6972223967,0,0,0
+Active Sushi On Bree,Sushi,2.5,Average,21,R,200,3,Foreshore,Cape Town,-33.9172784987,18.4222004190,0,0,0
+Asian Asia,"Chinese, Sushi, Asian",2.5,Average,29,R,300,4,Bellville,Cape Town,-33.8775490142,18.6300551891,0,0,0
+Tashreeqas,Contemporary,2.5,Average,32,R,200,3,"Kromboom Garden Center, Crawford",Cape Town,-33.9739400260,18.5053519160,0,0,0
+The Village Buffet,"Pizza, Indian, Sushi, Seafood",2.5,Average,18,R,380,4,CBD,Cape Town,-33.9230178481,18.4186565503,0,0,0
+Nando's,"African, Portuguese",2.5,Average,24,R,180,2,Sea Point,Cape Town,-33.9487780000,18.4717000000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,29,R,473,4,Plumstead,Cape Town,-34.0217140000,18.4671770000,0,0,0
+Schoongezicht Restaurant,Continental,2.5,Average,25,R,350,4,Brackenfell,Cape Town,-33.8926940000,18.7130840000,0,0,0
+Tokyo,"Sushi, Chinese",2.5,Average,20,R,150,2,Brackenfell,Cape Town,-33.8738050364,18.6844366416,0,0,0
+Nando's,"African, Portuguese",2.5,Average,13,R,180,2,Brackenfell,Cape Town,-33.8804416465,18.6858642474,0,0,0
+Mugg & Bean,Cafe,2.6,Average,13,R,350,4,"Waterstone Village, Somerset West",Cape Town,-34.0697780000,18.8226470000,0,0,0
+Camel Rock Restaurant,Fast Food,2.5,Average,13,R,250,3,Scarborough,Cape Town,-34.1971190000,18.3751300000,0,0,0
+Ocean Basket,"Seafood, Sushi",2.5,Average,12,R,473,4,Cape Town International Airport,Cape Town,-33.9699290000,18.5974970000,0,0,0
+Little Creek Spur,"Grill, Steak, Burger",2.5,Average,16,R,330,4,Tokai,Cape Town,-34.0621666667,18.4586666667,0,0,0
+Tikka Palace,"Indian, Pakistani",2.5,Average,11,R,200,3,Hermanus,Cape Town,-34.4191460000,19.2435160000,0,0,0
+Red Hawk Spur,"Grill, Steak, Burger",2.5,Average,13,R,330,4,Plumstead,Cape Town,-34.0222580000,18.4673310000,0,0,0
+Beijing Orchid,"Chinese, Sushi",2.5,Average,8,R,360,4,"Grandwest Casino, Goodwood",Cape Town,-33.9182909604,18.5484727845,0,0,0
+Quay 4 Tavern,"Seafood, Burger, South African, Desserts, Grill, Fish and Chips, Steak",2.6,Average,284,R,300,4,V & A Waterfront,Cape Town,-33.9052170000,18.4192300000,0,0,0
+Mugg & Bean,Cafe,2.6,Average,80,R,350,4,"Cavendish Square, Claremont",Cape Town,-33.9809450000,18.4627280000,0,0,0
+Bella Bellota,"Steak, Seafood, American, Sushi",2.6,Average,66,R,320,4,Durbanville,Cape Town,-33.8294953289,18.6494589597,0,0,0
+Blue Marlin Asian Cuisine,"Japanese, Chinese, Sushi",2.6,Average,92,R,200,3,Observatory,Cape Town,-33.9398333333,18.4690000000,0,0,0
+Bossa Social Cafe and Bar,"Grill, Burger, Pizza",2.6,Average,100,R,320,4,Bellville,Cape Town,-33.8763005759,18.6292518675,0,0,0
+Lemon Butta,"Seafood, Sushi, Steak",2.6,Average,78,R,350,4,"Willowbridge Lifestyle Centre, Bellvile",Cape Town,-33.8702819285,18.6316899955,0,0,0
+Down South Foodbar,"Grill, Mexican, American",2.6,Average,99,R,250,3,Rondebosch,Cape Town,-33.9604920000,18.4700930000,0,0,0
+Captain's Kitchen,"Seafood, Steak, Pizza, Burger",2.6,Average,55,R,280,3,"Eden On The Bay Centre, Blouberg",Cape Town,-33.7919560000,18.4571620000,0,0,0
+John Dory's,"Seafood, Grill, Sushi",2.6,Average,61,R,330,4,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+Golden Fish,"Asian, Japanese",2.6,Average,48,R,260,3,"Horizon Bay, Table View",Cape Town,-33.8220430000,18.4776030000,0,0,0
+De Kelder,"Grill, Italian",2.6,Average,51,R,270,3,"Plattekloof Center, Plattekloof",Cape Town,-33.8741450000,18.5784470000,0,0,0
+Tai Ping,Chinese,2.6,Average,40,R,250,3,Newlands,Cape Town,-33.9713333333,18.4643333333,0,0,0
+Mugg & Bean,Cafe,2.6,Average,25,R,350,4,"N1 City Mall, Goodwood",Cape Town,-33.8918756584,18.5599003360,0,0,0
+Pakalolo,Mexican,2.6,Average,58,R,250,3,Table View,Cape Town,-33.8206670000,18.4761630000,0,0,0
+Santa Ana Spur,"Grill, Steak, Burger",2.5,Average,32,R,330,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9035220000,18.4204590000,0,0,0
+PRIMI Piatti,Italian,2.6,Average,24,R,360,4,Blouberg,Cape Town,-33.7919600000,18.4576020000,0,0,0
+Alhambra Restaurant,"Seafood, Burger, Durban, Grill, Cape Malay, Italian, Steak, Indian",2.6,Average,30,R,250,3,Crawford,Cape Town,-33.9868988423,18.4982457384,0,0,0
+Simply Asia,"Thai, Asian",2.6,Average,25,R,270,3,CBD,Cape Town,-33.9209053874,18.4179192781,0,0,0
+Mario's Italian Restaurant,"Italian, Continental, European, Ice Cream, Pizza",2.6,Average,26,R,385,4,Green Point,Cape Town,-33.9082247928,18.4104674309,0,0,0
+Deez Mexican Bistro,Mexican,2.6,Average,23,R,310,4,Hout Bay,Cape Town,-34.0453210000,18.3590390000,0,0,0
+John Dory's,"Seafood, Grill, Sushi",2.6,Average,19,R,330,4,"Somerset Mall, Somerset West",Cape Town,-34.0827300000,18.8244100000,0,0,0
+Chinook Spur,"Grill, Steak, Burger",2.6,Average,24,R,330,4,"Plattekloof Village, Plattekloof",Cape Town,-33.8656666667,18.5718333333,0,0,0
+Quarterdeck,"Mediterranean, European, Continental",2.6,Average,31,R,400,4,"Grandwest Casino, Goodwood",Cape Town,-33.9183034805,18.5485136881,0,0,0
+San Miguel Spur,"Grill, Steak, Burger",2.6,Average,29,R,330,4,"Westcoast Village, Sunningdale",Cape Town,-33.8043967712,18.4856232628,0,0,0
+Alba Easy Lounge,"Burger, Tapas, South African, Contemporary, Desserts, Finger Food, Grill",2.6,Average,18,R,250,3,Cape Town International Airport,Cape Town,-33.9701370000,18.5975150000,0,0,0
+Quarterdeck Restaurant,"Cape Malay, Malaysian",2.7,Average,11,R,400,4,V & A Waterfront,Cape Town,-33.9061920000,18.4178010000,0,0,0
+Nando's,"African, Portuguese",2.6,Average,22,R,180,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5106666667,0,0,0
+PRIMI Piatti,Italian,2.6,Average,23,R,360,4,"Blue Route Mall, Tokai",Cape Town,-34.0640370000,18.4543730000,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.6,Average,13,R,200,3,Cape Town International Airport,Cape Town,-33.9695750000,18.5972520000,0,0,0
+Phuket Restaurant,"Thai, Seafood, Sushi",2.6,Average,20,R,270,3,"The Promenade, Camps Bay",Cape Town,-33.9529900000,18.3773830000,0,0,0
+Jackson Hall,Finger Food,2.5,Average,19,R,250,3,"Grandwest Casino, Goodwood",Cape Town,-33.9182962467,18.5484654084,0,0,0
+Trenchtown,"Burger, Pizza, Mexican, Finger Food",2.5,Average,108,R,250,3,Observatory,Cape Town,-33.9383333333,18.4685000000,0,0,0
+Pakalolo,"Mexican, Burger, Finger Food, Grill",2.5,Average,40,R,280,3,Hout Bay,Cape Town,-34.0455000000,18.3608333333,0,0,0
+Pakalolo,Mexican,2.6,Average,58,R,250,3,Table View,Cape Town,-33.8206670000,18.4761630000,0,0,0
+Bob's Bar,Burger,2.6,Average,25,R,150,2,CBD,Cape Town,-33.9246300491,18.4165949374,0,0,0
+The Honey Badger,Steak,2.6,Average,18,R,180,2,CBD,Cape Town,-33.9214993745,18.4188610688,0,0,0
+Wild Clover Restaurant & Bar,"Indian, Healthy Food, Burger, Cape Malay, Grill, Pizza, German, French",2.6,Average,21,R,450,4,Stellenbosch,Cape Town,-33.8478880000,18.8009870000,0,0,0
+The Scrumpy Jack,"Finger Food, Burger",2.6,Average,5,R,250,3,Observatory,Cape Town,-33.9385000000,18.4688333333,0,0,0
+Pete's Post,Finger Food,2.6,Average,3,R,120,2,Plattekloof,Cape Town,-33.8790000000,18.5593333333,0,0,0
+Tallas Tavern,"Burger, Grill, Pizza",2.7,Average,16,R,180,2,Gordons Bay,Cape Town,-34.1599800000,18.8689690000,0,0,0
+The Tavern 'n Ale,Grill,2.7,Average,9,R,250,3,Diep River,Cape Town,-34.0385000000,18.4643333333,0,0,0
+Hobnobs Wine Tavern,South African,2.7,Average,12,R,250,3,Kenilworth,Cape Town,-33.9945846213,18.4740116447,0,0,0
+Pitch & Putter,"Grill, Finger Food",2.7,Average,10,R,235,3,Bellville,Cape Town,-33.8852200000,18.6298480000,0,0,0
+Mambos Pub & Bistro,"Burger, Mediterranean",2.7,Average,6,R,200,3,Plumstead,Cape Town,-34.0220190000,18.4662510000,0,0,0
+Two And Sixpence Tavern,Drinks Only,2.7,Average,8,R,120,2,Simon's Town,Cape Town,-34.1931666667,18.4310000000,0,0,0
+Castle Bar,Steak,2.7,Average,2,R,180,2,CBD,Cape Town,-33.9316666667,18.4246666667,0,0,0
+Bok Lounge,"Pizza, Finger Food",2.9,Average,9,R,200,3,Brackenfell,Cape Town,-33.8736154670,18.6888455227,0,0,0
+The Flaming Fox,Finger Food,2.8,Average,13,R,300,4,"Parklands Center, Tableview",Cape Town,-33.8147317407,18.4949979186,0,0,0
+Buckley's Pub & Pool Bar,Finger Food,2.8,Average,6,R,150,2,Bellville,Cape Town,-33.8821712780,18.6353589222,0,0,0
+Banned Rock Lounge,Drinks Only,2.8,Average,10,R,150,2,Table View,Cape Town,-33.8199360000,18.4781670000,0,0,0
+Big Barrel,Burger,2.9,Average,12,R,250,3,Durbanville,Cape Town,-33.8243230000,18.5543540000,0,0,0
+Helga's Dros,"Grill, Pizza",2.9,Average,11,R,300,4,Somerset West,Cape Town,-34.0783850000,18.8179810000,0,0,0
+The Crazy Horse ,European,2.9,Average,4,R,300,4,CBD,Cape Town,-33.9237775000,18.4153789062,0,0,0
+Kimbo Pub,Contemporary,2.8,Average,5,R,250,3,CBD,Cape Town,-33.9289615580,18.4214735404,0,0,0
+Pleasant Pheasant,"Steak, Grill, Burger, Seafood",2.8,Average,5,R,300,4,Riebeek Kasteel,Cape Town,-33.3566670000,18.8735450000,0,0,0
+Stones,Drinks Only,2.9,Average,5,R,150,2,"Palm Grove Center, Durbanville",Cape Town,-33.8341129531,18.6478459463,0,0,0
+Fat Cats,Drinks Only,2.9,Average,5,R,120,2,Strand,Cape Town,-34.1188260000,18.8279350000,0,0,0
+Barts Tavern,Drinks Only,2.9,Average,4,R,100,2,Strand,Cape Town,-34.1188260000,18.8279350000,0,0,0
+The Nameless Pub,Drinks Only,2.9,Average,4,R,120,2,Somerset West,Cape Town,-34.0857384367,18.8527918607,0,0,0
+Camelot Restaurant,"South African, Pizza, Seafood, Steak",2.9,Average,4,R,285,3,Hermanus,Cape Town,-34.3574060000,18.8984250000,0,0,0
+Alibama Sports Bar,Finger Food,2.9,Average,2,R,250,3,"Grandwest Casino, Goodwood",Cape Town,-33.9183541171,18.5484838486,0,0,0
+Vadi's Sports Bar & Grill,Finger Food,2.9,Average,4,R,100,2,Diep River,Cape Town,-34.0300000000,18.4655000000,0,0,0
+Tango Lounge,African,2.9,Average,4,R,150,2,CBD,Cape Town,-33.9217631201,18.4194541723,0,0,0
+Winners Sports Pub,Drinks Only,2.9,Average,4,R,150,2,"Parklands Center, Tableview",Cape Town,-33.8147537470,18.4950596094,0,0,0
+Long Street Cafe,"Finger Food, Burger, Grill, Mediterranean",3.0,Average,41,R,300,4,CBD,Cape Town,-33.9262046630,18.4151059762,0,0,0
+Mixa's Schwarma,Mediterranean,3.0,Average,22,R,220,3,Gardens,Cape Town,-33.9316666667,18.4091666667,0,0,0
+The Vic Bar ,"American, Italian",3.0,Average,4,R,0,1,Gardens,Cape Town,0.0000000000,0.0000000000,0,0,0
+aMadoda Braai,African,3.0,Average,9,R,130,2,Woodstock,Cape Town,-33.9263505000,18.4519496000,0,0,0
+Victorian Times Pub & Restaurant,American,3.0,Average,11,R,220,3,Fish Hoek,Cape Town,-34.1405410000,18.4296800000,0,0,0
+The Whaling Station,"Greek, Mediterranean",3.0,Average,6,R,255,3,Hermanus,Cape Town,-34.3563500000,18.8994150000,0,0,0
+Drummond Arms,"Pizza, Burger, Steak",3.0,Average,4,R,275,3,Hermanus,Cape Town,-34.3010140000,18.8188080000,0,0,0
+Lighthouse on Loxton,"Grill, Burger",3.0,Average,4,R,150,2,Milnerton,Cape Town,-33.8828620000,18.4954920000,0,0,0
+Van Hunks,"Steak, Burger",3.1,Average,137,R,350,4,Gardens,Cape Town,-33.9321666667,18.4086666667,0,0,0
+Mexican On Long,Mexican,3.1,Average,104,R,360,4,CBD,Cape Town,-33.9246445157,18.4165818617,0,0,0
+Home Bar and Restaurant,Grill,3.2,Average,25,R,150,2,"Harfield Village, Claremont",Cape Town,-33.9917450000,18.4740040000,0,0,0
+Old Bridge Restaurant & Bar,"Burger, Finger Food, Grill, Pizza",3.1,Average,24,R,300,4,Somerset West,Cape Town,-34.0869910222,18.8556309789,0,0,0
+The Slug & Lettuce,"Finger Food, Burger, Steak, Grill",3.1,Average,14,R,250,3,Paarl,Cape Town,-33.7520320000,18.9618040000,0,0,0
+Springbok Pub,"Pizza, Grill, Burger",3.1,Average,13,R,195,2,Newlands,Cape Town,-33.9733598000,18.4676283000,0,0,0
+Gecko Lounge,"Burger, Steak, Seafood, Mexican",3.1,Average,9,R,200,3,Wellington,Cape Town,-33.6355660000,18.9974880000,0,0,0
+Saggy Stone Restaurant & Pub,"South African, Pizza",3.1,Average,10,R,350,4,Robertson,Cape Town,-33.6932190000,19.7182240000,0,0,0
+Stellenbrau Brewery,South African,3.1,Average,5,R,180,2,Stellenbosch,Cape Town,-33.9300000000,18.8600000000,0,0,0
+The Slug & Lettuce,"Grill, Burger, Pizza, Finger Food",3.2,Average,50,R,200,3,Observatory,Cape Town,-33.9340270000,18.4748330000,0,0,0
+The Dubliner,"Irish, European",3.2,Average,79,R,300,4,CBD,Cape Town,-33.9259659690,18.4154811502,0,0,0
+The Red Herring,"Seafood, Burger, Pizza",3.2,Average,50,R,250,3,Noordhoek,Cape Town,-34.0982780000,18.3630590000,0,0,0
+Bossa Nova,"Steak, Italian",3.2,Average,65,R,280,3,Durbanville,Cape Town,-33.8292867223,18.6492708698,0,0,0
+Elephant & Barrel Village Pub,"European, Finger Food",3.2,Average,27,R,240,3,Franschhoek,Cape Town,-33.9101992777,19.1186799109,0,0,0
+The Shack,"Finger Food, Pizza",3.2,Average,35,R,250,3,Zonnebloem,Cape Town,-33.9319490000,18.4257720000,0,0,0
+Wagon Trail,"Grill, Burger, Pizza, South African",3.2,Average,16,R,280,3,Anura ,Cape Town,-33.8119810000,18.8885430000,0,0,0
+Skelligs Pub - Erinvale Estate Hotel,"American, Mediterranean, Burger, Finger Food",3.2,Average,4,R,400,4,"Erinvale Estate Hotel & Spa, Somerset West",Cape Town,-34.0757700000,18.8818440000,0,0,0
+De Akker,"Burger, Fish and Chips, Steak",3.1,Average,21,R,200,3,Stellenbosch,Cape Town,-33.9394884041,18.8561828434,0,0,0
+Guzzlers,"Seafood, Drinks Only, Mediterranean, Burger, Beverages, Finger Food, Portuguese, Steak",3.2,Average,10,R,200,3,Table View,Cape Town,-33.8324940000,18.5152290000,0,0,0
+Obviouzly Armchair,Finger Food,3.2,Average,17,R,200,3,Observatory,Cape Town,-33.9385000000,18.4688333333,0,0,0
+Melts Tavern,"Grill, Burger",3.2,Average,18,R,250,3,Gordons Bay,Cape Town,-34.1547120000,18.8681350000,0,0,0
+Fergies Pub & Restaurant,"Healthy Food, European, Burger, Beverages, Desserts, British, Grill, Fish and Chips",3.2,Average,11,R,220,3,Table View,Cape Town,-33.8202080000,18.4787710000,0,0,0
+The Gecko Bar,Grill,3.2,Average,10,R,200,3,Hermanus,Cape Town,-34.4348400000,19.2251510000,0,0,0
+The Mash Tun,"Burger, Beverages, African, Fast Food, Finger Food, Grill, Healthy Food, Seafood",3.3,Average,68,R,150,2,Woodstock,Cape Town,-33.9300364000,18.4431252000,0,0,0
+The Slug & Lettuce,"Burger, Grill, Steak, Finger Food",3.3,Average,75,R,280,3,Century City,Cape Town,-33.8935060000,18.5056530000,0,0,0
+JC Brasserie & Pub,"Continental, Burger, Tapas, Finger Food",3.3,Average,68,R,250,3,Zonnebloem,Cape Town,-33.9316060000,18.4272850000,0,0,0
+The Brazen Head,"Irish, Finger Food",3.3,Average,40,R,300,4,"Seaside Village, Blouberg",Cape Town,-33.7885540000,18.4573850000,0,0,0
+The Great Wizoo,Contemporary,3.3,Average,38,R,200,3,Rondebosch,Cape Town,-33.9578830000,18.4760870000,0,0,0
+The Sneaky Sausage,German,3.3,Average,12,R,160,2,CBD,Cape Town,-33.9212167095,18.4187956899,0,0,0
+Woodcutters Arms,British,3.3,Average,17,R,260,3,Hout Bay,Cape Town,-34.0344980000,18.3564640000,0,0,0
+The Royal Oak Pub,"European, Burger",3.3,Average,16,R,150,2,Table View,Cape Town,-33.8188750000,18.4770910000,0,0,0
+Doodles Beachfront,"Grill, Seafood",3.4,Average,193,R,300,4,Blouberg,Cape Town,-33.8095690000,18.4690660000,0,0,0
+"SGT. PEPPER - Eatery, Bar, Events","Finger Food, Burger, Pizza, Beverages, Healthy Food",3.4,Average,134,R,320,4,CBD,Cape Town,-33.9253241625,18.4159320965,0,0,0
+Tapas,"Seafood, Mediterranean, Grill",3.4,Average,40,R,250,3,Hermanus,Cape Town,-34.4198830000,19.2433790000,0,0,0
+Bohemia,"Pizza, Grill, Beverages",3.4,Average,63,R,200,3,Stellenbosch,Cape Town,-33.9346070000,18.8607850000,0,0,0
+The Bay Sports Bar And Restaurant,"South African, Grill, Steak, Bar Food, Beverages, Burger, Pizza, Pub Food",3.4,Average,27,R,260,3,Constantia,Cape Town,-34.0190258798,18.4478705004,0,0,0
+Rascals,"South African, Italian",3.4,Average,40,R,250,3,Kenilworth,Cape Town,-33.9887616957,18.4789861366,0,0,0
+Roxy's,"American, Burger, Finger Food",3.4,Average,30,R,200,3,"Dunkley Square, Gardens",Cape Town,-33.9315000000,18.4171666667,0,0,0
+The Happy Oak,"Grill, Burger, Finger Food",3.4,Average,34,R,350,4,Stellenbosch,Cape Town,-33.9348090000,18.8607940000,0,0,0
+The Slug & Lettuce,"Grill, Burger, Pizza, Finger Food",3.4,Average,24,R,220,3,CBD,Cape Town,-33.9259523372,18.4153762087,0,0,0
+The Slug & Lettuce,"Finger Food, Burger, Steak, Grill",3.5,Good,103,R,250,3,Durbanville,Cape Town,-33.8330412855,18.6463486031,0,0,0
+The Toad in the Village,"Burger, Steak, Pizza",3.5,Good,39,R,280,3,Noordhoek,Cape Town,-34.0970430000,18.3767680000,0,0,0
+Barristers,"Seafood, Grill, Steak",3.6,Good,229,R,320,4,Newlands,Cape Town,-33.9760000000,18.4593333333,0,0,0
+Mitchell's Scottish Ale House,"Mediterranean, Pizza, Finger Food",3.6,Good,157,R,300,4,V & A Waterfront,Cape Town,-33.9051666667,18.4195000000,0,0,0
+The Slug & Lettuce,"Burger, Grill, Steak, Finger Food",3.6,Good,121,R,280,3,"Ashley Cooper House, Newlands",Cape Town,-33.9716666667,18.4650000000,0,0,0
+The Fireman's Arms,"Finger Food, British, European",3.6,Good,100,R,0,1,Green Point,Cape Town,-33.9166778047,18.4208539501,0,0,0
+La Parada,"Spanish, Tapas",3.7,Good,287,R,360,4,CBD,Cape Town,-33.9215433321,18.4178931266,0,0,0
+Hudsons The Burger Joint,"Burger, Finger Food",3.7,Good,439,R,350,4,Green Point,Cape Town,-33.9091051916,18.4126758948,0,0,0
+Foresters Arms,"Pizza, Grill",3.7,Good,238,R,300,4,Newlands,Cape Town,-33.9716100000,18.4540910000,0,0,0
+The Fat Cactus,"Mexican, Finger Food",3.7,Good,174,R,350,4,Mowbray,Cape Town,-33.9493333333,18.4795000000,0,0,0
+Beefcakes,"American, Burger",3.7,Good,100,R,300,4,Green Point,Cape Town,-33.9142496669,18.4177717566,0,0,0
+Pirates Steakhouse & Pub,"Steak, Grill",3.7,Good,65,R,350,4,Plumstead,Cape Town,-34.0211666667,18.4675000000,0,0,0
+The Slug & Lettuce,"Finger Food, Burger, Steak, Grill",3.7,Good,41,R,300,4,Gardens,Cape Town,-33.9321666667,18.4086666667,0,0,0
+Jack Black Brewing Company,"Burger, Deli",3.7,Good,26,R,180,2,Diep River,Cape Town,-34.0396486128,18.4797971010,0,0,0
+Vasco da Gama,"Portuguese, Steak, Seafood",3.8,Good,87,R,250,3,Green Point,Cape Town,-33.9154839163,18.4189522639,0,0,0
+Rick's Cafe Americain,"Moroccan, Grill, Seafood, Burger, Finger Food",3.9,Good,267,R,320,4,Gardens,Cape Town,-33.9283720000,18.4104810000,0,0,0
+Bombay Bicycle Club,"Mediterranean, Steak, Finger Food",3.9,Good,277,R,450,4,Gardens,Cape Town,-33.9366260000,18.4047380000,0,0,0
+Beerhouse on Long,"Grill, German",3.9,Good,301,R,300,4,CBD,Cape Town,-33.9255116695,18.4159361199,0,0,0
+Bloemendal Restaurant,"Grill, Cape Malay",2.2,Poor,58,R,550,4,"Bloemendal Wine Farm, Durbanville",Cape Town,-33.8289638889,18.5985083333,0,0,0
+San Marco,Italian,2.4,Poor,115,R,420,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9043333333,18.4205000000,0,0,0
+Mezbaan - Hilton Cape Town City Centre,"Indian, Burger, Cape Malay, Grill, Healthy Food, Seafood, South African",2.5,Average,15,R,500,4,"Hilton Cape Town, CBD",Cape Town,-33.9215903501,18.4158982337,0,0,0
+On the Square,"European, African",2.6,Average,6,R,450,4,Foreshore,Cape Town,-33.9187269357,18.4256108478,0,0,0
+Poplars Restaurant,"European, Contemporary",2.6,Average,116,R,560,4,Durbanville,Cape Town,-33.8408800000,18.6093040000,0,0,0
+Bukhara,Indian,2.7,Average,40,R,601,4,Stellenbosch,Cape Town,-33.9388250000,18.8602660000,0,0,0
+Sinatra Restaurant - Pepper Club Hotel,"Italian, Beverages, Burger, Contemporary, European, Grill, Seafood, Tapas",2.7,Average,13,R,470,4,CBD,Cape Town,-33.9248631828,18.4156571701,0,0,0
+Quay 4 Upstairs,"Seafood, Burger, South African, Sushi, Grill, African, Fish and Chips, Steak",2.8,Average,90,R,400,4,V & A Waterfront,Cape Town,-33.9052170000,18.4192300000,0,0,0
+Stella Café and Bar - The Cullinan,"South African, Steak",2.8,Average,12,R,235,3,Foreshore,Cape Town,-33.9158152909,18.4248514473,0,0,0
+Louis B's & Terrace - The Westin Cape Town,Grill,2.7,Average,6,R,400,4,"The Westin, Foreshore",Cape Town,-33.9157357166,18.4260933101,0,0,0
+The George Restaurant - Romney Park Hotel,"European, Continental",2.8,Average,4,R,530,4,Green Point,Cape Town,-33.9097870000,18.4022410000,0,0,0
+Clipper - Commodore Hotel,"Italian, Asian",2.9,Average,5,R,630,4,V & A Waterfront,Cape Town,-33.9051700000,18.4181520000,0,0,0
+D'vine Restaurant,"African, Mediterranean",2.9,Average,4,R,450,4,Somerset West,Cape Town,-34.0784070000,18.8770100000,0,0,0
+Jamani Restaurant,South African,3.0,Average,5,R,450,4,Hermanus,Cape Town,-34.3172090000,19.1347100000,0,0,0
+Rockafellas - The Rockwell Hotel,"Mediterranean, American",3.0,Average,4,R,380,4,Green Point,Cape Town,-33.9147983481,18.4192389250,0,0,0
+Old Dalby Restaurant,"Steak, Grill, Seafood",3.0,Average,4,R,450,4,Riebeek Kasteel,Cape Town,-33.3500630000,18.8692050000,0,0,0
+North Wharf Restaurant - Protea Hotel,"American, African, Italian",3.0,Average,4,R,450,4,Foreshore,Cape Town,-33.9168210925,18.4235965088,0,0,0
+Raleigh's Cigar Bar - The Westin Cape Town,Drinks Only,3.0,Average,1,R,0,1,"The Westin, Foreshore",Cape Town,-33.9156561422,18.4260168672,0,0,0
+Decameron,"Italian, Pizza",3.1,Average,27,R,350,4,Stellenbosch,Cape Town,-33.9367529902,18.8633681461,0,0,0
+Bistro At The Bay - The Bay Hotel,"South African, Contemporary, Cafe",3.1,Average,6,R,500,4,"The Bay Hotel, Camps Bay",Cape Town,-33.9524800000,18.3781870000,0,0,0
+La Vigna - NH The Lord Charles,"Seafood, Burger, Beverages, Contemporary, Desserts, Grill, Fish and Chips, Pizza",3.1,Average,6,R,450,4,NH The Lord Charles Hotel,Cape Town,-34.0665700000,18.8245340000,0,0,0
+The Garden Terrace - NH The Lord Charles,"European, Contemporary, Italian",3.1,Average,4,R,460,4,NH The Lord Charles Hotel,Cape Town,-34.0665700000,18.8245340000,0,0,0
+Moody Lagoon,"Contemporary, French",3.1,Average,4,R,800,4,Hermanus,Cape Town,-34.3457140000,19.1350220000,0,0,0
+The Pavilion at The Marine,European,3.1,Average,5,R,500,4,"The Marine Hotel, Hermanus",Cape Town,-34.4177360000,19.2447840000,0,0,0
+Bukhara,Indian,3.2,Average,140,R,601,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9035220000,18.4204590000,0,0,0
+The Restaurant At Neethlingshof,"Continental, European, Grill",3.2,Average,21,R,420,4,Stellenbosch,Cape Town,-33.9420000000,18.8015000000,0,0,0
+Peach Tree - The Cullinan,Continental,3.2,Average,19,R,500,4,"The Cullinan, Foreshore",Cape Town,-33.9158189079,18.4248135611,0,0,0
+Dish,"Italian, Mediterranean",3.2,Average,7,R,350,4,Franschhoek,Cape Town,-33.9226694444,19.1174222222,0,0,0
+FABER,Tapas,3.2,Average,7,R,800,4,"Avondale Wines, Paarl",Cape Town,-33.7648740000,19.0009450000,0,0,0
+The Union Bar - The Table Bay Hotel,European,3.2,Average,5,R,450,4,"The Table Bay Hotel, V & A Waterfront",Cape Town,-33.9028890000,18.4223660000,0,0,0
+Seventeen07 - Erinvale Estate Hotel,South African,3.2,Average,4,R,489,4,"Erinvale Estate Hotel & Spa, Somerset West",Cape Town,-34.0757700000,18.8818440000,0,0,0
+Riempies - Southern Sun Cape Sun,"European, Cape Malay",3.2,Average,7,R,519,4,CBD,Cape Town,-33.9217556084,18.4218949825,0,0,0
+The Cafe Grill - 12 Apostles Hotel & Spa,"Grill, Seafood",3.2,Average,7,R,565,4,"12 Apostles Hotel & Spa, Camps Bay",Cape Town,-33.9834960000,18.3586150000,0,0,0
+The Dining Room,South African,3.2,Average,13,R,680,4,Woodstock,Cape Town,-33.9280850000,18.4432090000,0,0,0
+Yizani - Southern Sun,African,3.2,Average,5,R,470,4,Foreshore,Cape Town,-33.9158170000,18.4235040000,0,0,0
+The Famous Butcher's Grill - Cape Town Lodge,Steak,3.3,Average,52,R,498,4,CBD,Cape Town,-33.9223187082,18.4155760333,0,0,0
+Duchess of Wisbeach,"Continental, Mediterranean",3.3,Average,58,R,400,4,Sea Point,Cape Town,-33.9107920000,18.3913750000,0,0,0
+Bukhara,Indian,3.3,Average,55,R,601,4,"Grandwest Casino, Goodwood",Cape Town,-33.9184459308,18.5483540967,0,0,0
+Paulina's,"European, African",3.3,Average,14,R,400,4,Franschhoek,Cape Town,-33.8991750000,19.0914805556,0,0,0
+Jardine Restaurant,International,3.3,Average,9,R,550,4,Stellenbosch,Cape Town,-33.9385630000,18.8611640000,0,0,0
+Harvest At Laborie,French,3.3,Average,18,R,510,4,Paarl,Cape Town,-33.7663944444,18.9579583333,0,0,0
+Spier Hotel Restaurant,"Mediterranean, Contemporary",3.3,Average,24,R,535,4,"Spier Wine Estate, Stellenbosch",Cape Town,-33.9760000000,18.7805000000,0,0,0
+Restaurant at La Residence,"South African, French",3.3,Average,6,R,700,4,Franschhoek,Cape Town,-33.8978070000,19.1229520000,0,0,0
+Haiku,"Japanese, Seafood, Sushi",3.3,Average,12,R,550,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9039320000,18.4209380000,0,0,0
+Reuben's at the Robertson,South African,3.3,Average,8,R,550,4,Robertson,Cape Town,-33.8004860000,19.8798290000,0,0,0
+The Newlands Cafe - Southern Sun Newlands,"Cafe, Grill, African",3.3,Average,8,R,350,4,"Southern Sun Newlands, Newlands",Cape Town,-33.9753110000,18.4646830000,0,0,0
+Splash Cafe - Vineyard Hotel,"Mediterranean, African",3.3,Average,10,R,350,4,"Vineyard Hotel & Spa, Newlands",Cape Town,-33.9782850000,18.4599970000,0,0,0
+Thirty7 - The Westin Cape Town,"Continental, Mediterranean, French",3.3,Average,10,R,450,4,"The Westin, Foreshore",Cape Town,-33.9157412813,18.4260983393,0,0,0
+La Perla,"Italian, Seafood",3.4,Average,125,R,400,4,Sea Point,Cape Town,-33.9186666667,18.3856666667,0,0,0
+Moyo,African,3.4,Average,83,R,561,4,Newlands,Cape Town,-33.9886690000,18.4334890000,0,0,0
+The Restaurant at Grande Provence,"Mediterranean, European",3.4,Average,23,R,700,4,Franschhoek,Cape Town,-33.9044111111,19.1026388889,0,0,0
+2 On Milner - The Cape Milner,"Continental, European, African",3.4,Average,16,R,450,4,Tamboerskloof,Cape Town,-33.9281520000,18.4095150000,0,0,0
+Bosman's,"European, South African",3.4,Average,14,R,970,4,Paarl,Cape Town,-33.7518710000,18.9609640000,0,0,0
+Pure Restaurant,"Mediterranean, Grill, Italian, American",3.4,Average,23,R,465,4,Hout Bay,Cape Town,-34.0431830000,18.3605810000,0,0,0
+Seelan,"Seafood, Mediterranean, Grill",3.5,Good,132,R,400,4,V & A Waterfront,Cape Town,-33.9034560000,18.4206220000,0,0,0
+Reuben's - One&Only,"African, Seafood",3.5,Good,103,R,700,4,"One and Only Hotel, V & A Waterfront",Cape Town,-33.9086020000,18.4164570000,0,0,1
+Bukhara,Indian,3.5,Good,136,R,601,4,CBD,Cape Town,-33.9232949430,18.4190045670,0,0,0
+CinCin - Colosseum Luxury Hotel,"African, Grill, Seafood",3.5,Good,33,R,465,4,Century City,Cape Town,-33.8935760000,18.5057420000,0,0,0
+Franschhoek Kitchen,African,3.5,Good,24,R,420,4,Franschhoek,Cape Town,-33.9376805556,19.1144138889,0,0,0
+Terrace Restaurant- Lanzerac Wine Estate,"Mediterranean, Seafood, African",3.5,Good,20,R,450,4,"Lanzerac Wine Estate, Stellenbosch",Cape Town,-33.9381190392,18.8941585645,0,0,0
+Moyo,African,3.6,Good,175,R,574,4,Blouberg,Cape Town,-33.7925140000,18.4583280000,0,0,0
+Den Anker,Belgian,3.6,Good,126,R,500,4,V & A Waterfront,Cape Town,-33.9060000000,18.4211666667,0,0,0
+Eighty-Ate Restaurant,"European, Contemporary, Mediterranean",3.6,Good,93,R,495,4,Gardens,Cape Town,-33.9283140000,18.4146890000,0,0,0
+Karibu,"Steak, African, Cape Malay",3.6,Good,107,R,550,4,V & A Waterfront,Cape Town,-33.9035220000,18.4204590000,0,0,0
+Chapmans Peak Restaurant,"African, Seafood, Portuguese",3.6,Good,99,R,400,4,"Chapmans Peak Beach Hotel, Hout Bay",Cape Town,-34.0472120000,18.3615360000,0,0,0
+Wang Thai - Lagoon Beach Hotel,"Sushi, Thai, Seafood",3.6,Good,102,R,450,4,"Lagoon Beach Hotel, Milnerton",Cape Town,-33.8920600000,18.4832250000,0,0,0
+Sansibar,"American, European",3.6,Good,21,R,300,4,"Asara Wine Estate, Stellenbosch",Cape Town,-33.9435000000,18.8085000000,0,0,0
+The Governors Hall Restaurant - Lanzerac Wine Estate,"Mediterranean, Seafood, African",3.6,Good,18,R,450,4,"Lanzerac Wine Estate, Stellenbosch",Cape Town,-33.9375600000,18.8932770000,0,0,0
+95 at Parks,"Italian, Grill",3.6,Good,38,R,500,4,Constantia,Cape Town,-34.0135360000,18.4581070000,0,0,0
+Liberty's - Double Tree by Hilton,"Burger, European, Asian, Contemporary, Desserts, Grill, Mediterranean, Seafood",3.6,Good,21,R,469,4,"Double Tree by Hilton, Woodstock",Cape Town,-33.9356625831,18.4575720504,0,0,0
+The Restaurant at Newton Johnson,"French, Contemporary",3.6,Good,25,R,450,4,Hermanus,Cape Town,-34.3677180000,19.2596270000,0,0,0
+The Country Kitchen at Mont Rochelle,"South African, Contemporary",3.6,Good,17,R,600,4,Franschhoek,Cape Town,-33.9187227105,19.1090109946,0,0,0
+The Red Table at Nederburg,European,3.5,Good,22,R,480,4,"Nederburg Wines, Paarl",Cape Town,-33.7210194444,19.0021444444,0,0,0
+Quentin at Oakhurst,"Contemporary, South African",3.6,Good,20,R,550,4,Hout Bay,Cape Town,-34.0193810000,18.3764300000,0,0,0
+Shimmy Beach Club,"Seafood, Grill, Pizza",3.7,Good,284,R,450,4,V & A Waterfront,Cape Town,-33.9038030000,18.4294340000,0,0,0
+Open Door,Contemporary,3.7,Good,67,R,450,4,Constantia,Cape Town,-34.0478950000,18.4241520000,0,0,0
+95 Keerom,"Steak, Grill, Italian",3.7,Good,97,R,520,4,CBD,Cape Town,-33.9264770181,18.4158677235,0,0,0
+Bertus Basson at Spice Route,South African,3.7,Good,60,R,450,4,"Spice Route Farm, Paarl",Cape Town,-33.7608640000,18.9167030000,0,0,0
+Garden Lounge - Vineyard Hotel,European,3.7,Good,54,R,350,4,"Vineyard Hotel & Spa, Newlands",Cape Town,-33.9782850000,18.4599970000,0,0,0
+Live Bait,"Seafood, Sushi, European",3.7,Good,76,R,500,4,"Kalk Bay, Bay Area",Cape Town,-34.1320440000,18.4464470000,0,0,0
+Glen Carlou,"European, Contemporary, French",3.7,Good,30,R,580,4,Paarl,Cape Town,-33.8123550000,18.9035230000,0,0,0
+Savour - African Pride 15 on Orange Hotel,"Asian, Mediterranean",3.7,Good,33,R,500,4,"African Pride 15 on Orange Hotel, CBD",Cape Town,-33.9284080000,18.4142040000,0,0,0
+Indochine Restaurant,"Thai, Asian",3.7,Good,26,R,500,4,"Delaire Graff  Estate, Stellenbosch",Cape Town,-33.9216400000,18.9233430000,0,0,0
+The Granary Cafe,"International, French",3.7,Good,25,R,500,4,"The Silo Hotel, V&A Waterfront",Cape Town,-33.9085830000,18.4227140000,0,0,0
+Blanko,Italian,3.7,Good,24,R,500,4,"Alphen 5 Star Boutique Hotel, Constantia",Cape Town,-34.0108040000,18.4514790000,0,0,0
+Racine,African,3.7,Good,26,R,350,4,Franschhoek,Cape Town,-33.8992805556,19.1278055556,0,0,0
+Fire & Ice! Restaurant,"American, Italian, Seafood, African",3.8,Good,195,R,555,4,Gardens,Cape Town,-33.9264720000,18.4115240000,0,0,0
+Pepenero,"Seafood, Italian",3.8,Good,171,R,500,4,Two Oceans Beach,Cape Town,-33.8999754809,18.4056733176,0,0,0
+Belthazar,"Grill, Steak, Seafood",3.8,Good,142,R,550,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9043333333,18.4205000000,0,0,0
+Simon's Restaurant,Contemporary,3.8,Good,136,R,380,4,"Groot Constantia Wine Estate, Constantia",Cape Town,-34.0312120000,18.4174760000,0,0,0
+Reuben's,"South African, Seafood",3.8,Good,99,R,500,4,Franschhoek,Cape Town,-33.9120055556,19.1208000000,0,0,0
+Greek Fisherman,"Greek, Seafood",3.8,Good,134,R,460,4,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9035220000,18.4204590000,0,0,0
+Paranga,"Seafood, African, Sushi",3.8,Good,137,R,650,4,"The Promenade, Camps Bay",Cape Town,-33.9526666667,18.3773333333,0,0,0
+La Belle Bistro & Bakery,"South African, Cafe",3.8,Good,94,R,545,4,"Alphen 5 Star Boutique Hotel, Constantia",Cape Town,-34.0117070000,18.4513610000,0,0,0
+Cassia,"European, Contemporary",3.8,Good,121,R,545,4,"Nitida Wine Farm, Durbanville",Cape Town,-33.8347444444,18.5937055556,0,0,0
+Zenzero,"Italian, Seafood",3.8,Good,125,R,550,4,"The Promenade, Camps Bay",Cape Town,-33.9536666667,18.3776666667,0,0,0
+The Roundhouse,"European, African",3.8,Good,69,R,1500,4,Camps Bay,Cape Town,-33.9436010000,18.3849380000,0,0,0
+Catharina's Restaurant - Steenberg Hotel,European,3.8,Good,67,R,550,4,"Steenberg Hotel, Constantia",Cape Town,-34.0713910000,18.4252310000,0,0,0
+Arugula Bistro & Bread,"French, Italian, Mediterranean",3.8,Good,84,R,350,4,Bellville,Cape Town,-33.8741922464,18.6182346940,0,0,0
+French Connection Bistro,"French, Grill, Burger, European, Steak",3.8,Good,56,R,464,4,Franschhoek,Cape Town,-33.9102650000,19.1188960000,0,0,0
+Mugg & Bean,Cafe,1.9,Poor,74,R,350,4,Cape Town International Airport,Cape Town,-33.9701370000,18.5975150000,0,0,0
+La Rocca,Cafe,2.3,Poor,115,R,360,4,"Canal Walk Mall, Century City",Cape Town,-33.8940860000,18.5099230000,0,0,0
+Mugg & Bean,Cafe,2.2,Poor,22,R,350,4,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8520909030,18.6972860992,0,0,0
+PRIMI Cafe,Cafe,2.2,Poor,19,R,180,2,Cape Town International Airport,Cape Town,-33.9699340000,18.5971430000,0,0,0
+Charly's Bakery,"Cafe, Desserts, Bakery",2.3,Poor,297,R,130,2,CBD,Cape Town,-33.9282913987,18.4245366231,0,0,0
+Mugg & Bean,Cafe,2.3,Poor,107,R,350,4,"Canal Walk Mall, Century City",Cape Town,-33.8936666667,18.5106666667,0,0,0
+Tribakery,Cafe,2.3,Poor,34,R,200,3,V & A Waterfront,Cape Town,-33.9063333333,18.4218333333,0,0,0
+Fabio's,"Cafe, Desserts",2.3,Poor,25,R,150,2,Stellenbosch,Cape Town,-33.9381574251,18.8612200320,0,0,0
+Nino's,"Cafe, Italian",2.3,Poor,12,R,350,4,Kenilworth,Cape Town,-33.9878670000,18.4891050000,0,0,0
+Sacred Ground,Cafe,2.4,Poor,45,R,260,3,Franschhoek,Cape Town,-33.9111186108,19.1195942089,0,0,0
+Cafe Rousse,Cafe,2.4,Poor,45,R,450,4,Bellville,Cape Town,-33.8881988281,18.6339091882,0,0,0
+The Rusty Oak Bistro,"Cafe, South African",2.4,Poor,31,R,350,4,Durbanville,Cape Town,-33.8290970000,18.6642790000,0,0,0
+Nino's,"Cafe, Italian",2.4,Poor,29,R,350,4,Rondebosch,Cape Town,-33.9525000000,18.4881666667,0,0,0
+The Beachcomber Bistro,"Cafe, Burger, Pizza",2.4,Poor,28,R,120,2,"Bayside on Fish Hoek Beach, Fish Hoek",Cape Town,-34.1410980000,18.4319360000,0,0,0
+Melissa's The Food Shop,Cafe,2.4,Poor,31,R,250,3,Constantia,Cape Town,-34.0213460000,18.4428450000,0,0,0
+Fego Caffe,Cafe,2.4,Poor,13,R,250,3,Brackenfell,Cape Town,-33.8523526358,18.6973591894,0,0,0
+Green Leaf Cafè,Cafe,2.4,Poor,9,R,150,2,Bellville,Cape Town,-33.8727085347,18.6625069007,0,0,0
+Cafe Bagaso,"Cafe, Pizza",2.5,Average,29,R,180,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8774649505,18.6627382413,0,0,0
+Melissa's The Food Shop,Cafe,2.5,Average,58,R,250,3,Table View,Cape Town,-33.8224270000,18.4782680000,0,0,0
+Melissa's The Food Shop,Cafe,2.5,Average,18,R,250,3,Bellville,Cape Town,-33.8756394668,18.6328517273,0,0,0
+Arts Cafe,Cafe,2.5,Average,13,R,180,2,Foreshore,Cape Town,-33.9199038073,18.4296365082,0,0,0
+Mugg & Bean,Cafe,2.6,Average,13,R,350,4,"Waterstone Village, Somerset West",Cape Town,-34.0697780000,18.8226470000,0,0,0
+Exclusive Books Café,Cafe,2.5,Average,10,R,150,2,Century City,Cape Town,-33.8923200000,18.5116140000,0,0,0
+Cafe Sofia,Cafe,2.5,Average,9,R,200,3,Sea Point,Cape Town,-33.9096666667,18.3950000000,0,0,0
+Mugg & Bean,Cafe,2.6,Average,80,R,350,4,"Cavendish Square, Claremont",Cape Town,-33.9809450000,18.4627280000,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.7,Average,25,R,150,2,Green Point,Cape Town,-33.9136419956,18.4176141769,0,0,0
+Mugg & Bean,Cafe,2.6,Average,25,R,350,4,"N1 City Mall, Goodwood",Cape Town,-33.8918756584,18.5599003360,0,0,0
+Timeless Cafe,Cafe,2.6,Average,16,R,200,3,Strand,Cape Town,-34.1134480000,18.8223070000,0,0,0
+Food Lovers Market Cafe,Cafe,2.6,Average,16,R,160,2,Tokai,Cape Town,-34.0638333333,18.4550000000,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.6,Average,12,R,200,3,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8881988281,18.6339091882,0,0,0
+The Coffee Shop,Cafe,2.6,Average,7,R,200,3,"Grandwest Casino, Goodwood",Cape Town,-33.9173424909,18.5481683537,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.7,Average,46,R,150,2,Claremont,Cape Town,-33.9797650000,18.4639960000,0,0,0
+The Street Kitchen,"Cafe, Street Food, Burger",2.7,Average,18,R,180,2,Durbanville,Cape Town,-33.8304553585,18.6490432173,0,0,0
+Ginja,Cafe,2.7,Average,15,R,400,4,V & A Waterfront,Cape Town,-33.9059850000,18.4201000000,0,0,0
+Oppiekoffie,Cafe,2.7,Average,30,R,250,3,"Glengarry Shopping Center, Brackenfell",Cape Town,-33.8566569115,18.6696315184,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.7,Average,5,R,200,3,Kenilworth,Cape Town,-33.9898953447,18.4842124209,0,0,0
+Social Bean Cafe,Cafe,2.7,Average,25,R,180,2,"Riverside Mall, Rondebosch",Cape Town,-33.9618600000,18.4701420000,0,0,0
+The Pink Olive Restaurant,Cafe,2.7,Average,7,R,200,3,Sunningdale,Cape Town,-33.8043290000,18.4865290000,0,0,0
+Java Bistro,"Burger, Cafe",2.7,Average,16,R,220,3,"The Sanctuary Shopping Centre, Somerset West",Cape Town,-34.0894870000,18.8197540000,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.7,Average,19,R,150,2,Brackenfell,Cape Town,-33.8521426928,18.6971851811,0,0,0
+Mugg & Bean,Cafe,2.7,Average,12,R,350,4,"Palm Grove Center, Durbanville",Cape Town,-33.8337120000,18.6476780000,0,0,0
+Woolworths Cafe,Cafe,2.7,Average,16,R,230,3,"Blue Route Mall, Tokai",Cape Town,-34.0639880000,18.4543830000,0,0,0
+Bakoven,"Cafe, Fast Food",2.7,Average,13,R,160,2,De Waterkant,Cape Town,-33.9198281319,18.4230513498,0,0,0
+The Kitchen Cafe,Cafe,2.7,Average,6,R,150,2,Claremont,Cape Town,-33.9773333333,18.4653333333,0,0,0
+Savannah Cafe,"Cafe, Desserts",2.7,Average,16,R,200,3,Hermanus,Cape Town,-34.4175970000,19.2435290000,0,0,0
+Food Lovers Market Cafe,Cafe,2.7,Average,5,R,150,2,Parklands,Cape Town,-33.8015684286,18.4945402667,0,0,0
+Pulp Kitchen & Deli,"Cafe, Deli",2.8,Average,63,R,220,3,Gardens,Cape Town,-33.9343333333,18.4176666667,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.8,Average,30,R,150,2,Bellville,Cape Town,-33.8829269717,18.6351704970,0,0,0
+The Daily Coffee Café,Cafe,2.8,Average,16,R,170,2,"Okavango Crossing Shopping Centre, Durbanville",Cape Town,-33.8394360000,18.6954410000,0,0,0
+Julian's,Cafe,2.8,Average,25,R,200,3,"Eikestad Mall, Stellenbosch",Cape Town,-33.9353400000,18.8602630000,0,0,0
+The Village Tart,"Cafe, Desserts",2.8,Average,11,R,180,2,Franschhoek,Cape Town,-33.9090180000,19.1177920000,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.8,Average,11,R,200,3,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8527697360,18.6972317845,0,0,0
+Mugg & Bean,Cafe,2.8,Average,20,R,350,4,Stellenbosch,Cape Town,-33.9383580000,18.8594710000,0,0,0
+Nitro House,"Cafe, South African",2.8,Average,6,R,250,3,CBD,Cape Town,-33.9226990000,18.4162850000,0,0,0
+Vida E Caffe,"Cafe, Desserts",2.8,Average,4,R,150,2,De Waterkant,Cape Town,-33.9199780916,18.4237939864,0,0,0
+La Bella Rosa Bistro & Coffee,"Cafe, Burger, Bakery",2.8,Average,4,R,160,2,Durbanville,Cape Town,0.0000000000,0.0000000000,0,0,0
+Cafe Lacomia,Cafe,2.8,Average,8,R,200,3,Lakeside,Cape Town,-34.0730000000,18.4578333333,0,0,0
+Vetkoek Paleis,"Cafe, South African",2.8,Average,7,R,120,2,Strand,Cape Town,-34.1135030000,18.8415140000,0,0,0
+God's Army,Cafe,2.8,Average,8,R,140,2,CBD,Cape Town,-33.9215836730,18.4175759554,0,0,0
+Tea In The Park,Cafe,2.8,Average,10,R,160,2,Green Point,Cape Town,-33.9046466179,18.4006783739,0,0,0
+Coffee Zone,Cafe,2.8,Average,6,R,120,2,CBD,Cape Town,-33.9256285135,18.4219865128,0,0,0
+Frater House,Cafe,2.8,Average,4,R,20,1,CBD,Cape Town,-33.9252338000,18.4150416000,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.8,Average,7,R,200,3,"Glengarry Shopping Center, Brackenfell",Cape Town,-33.8565483258,18.6698041856,0,0,0
+Mugg & Bean,Cafe,2.8,Average,8,R,350,4,"Zevenwacht Mall, Kuilsriver",Cape Town,-33.9483400000,18.6970300000,0,0,0
+Soet Treat Eatery,Cafe,2.8,Average,5,R,220,3,Bellville,Cape Town,-33.8682216114,18.6403997988,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.8,Average,6,R,200,3,Fairbridge Mall,Cape Town,-33.8837475112,18.6815458909,0,0,0
+Food Lovers Market Cafe,Cafe,2.8,Average,7,R,160,2,"Willowbridge Lifestyle Centre, Bellvile",Cape Town,-33.8673413472,18.6325885355,0,0,0
+Torrador,Cafe,2.8,Average,4,R,100,2,Gardens,Cape Town,-33.9327940000,18.4214920000,0,0,0
+Nutmeg Farmstall,Cafe,2.8,Average,4,R,120,2,Hout Bay,Cape Town,-34.0297930000,18.3525370000,0,0,0
+Advocado,Cafe,2.8,Average,3,R,200,3,CBD,Cape Town,-33.9257584326,18.4167907387,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.8,Average,4,R,200,3,"Zevenwacht Mall, Kuilsriver",Cape Town,-33.9483400000,18.6970300000,0,0,0
+Illy Cafe,"Cafe, Pizza",2.8,Average,2,R,150,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8775170032,18.6624676734,0,0,0
+Rubix Cube,"Cafe, Fast Food",2.8,Average,1,R,100,2,Sea Point,Cape Town,-33.9091666667,18.3960000000,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.9,Average,53,R,150,2,"Canal Walk Mall, Century City",Cape Town,-33.8933333333,18.5108333333,0,0,0
+Bootlegger Coffee Company,Cafe,2.9,Average,27,R,150,2,Sea Point,Cape Town,-33.9208910000,18.3831930000,0,0,0
+Katjiepiering,"Cafe, Sandwich, Salad, Coffee and Tea",2.9,Average,7,R,250,3,Stellenbosch,Cape Town,-33.9360909590,18.8659474254,0,0,0
+Geno's,"Cafe, Italian",2.9,Average,15,R,180,2,"Cobble Walk Center, Durbanville",Cape Town,-33.8439640000,18.6772170000,0,0,0
+The Daily Coffee Café,Cafe,3.0,Average,5,R,200,3,Stellenbosch,Cape Town,-33.9776970000,18.8423860000,0,0,0
+Mugg & Bean,Cafe,2.9,Average,17,R,350,4,Somerset West,Cape Town,-34.0820720000,18.8220290000,0,0,0
+Vida E Caffe,"Cafe, Desserts",2.9,Average,13,R,150,2,Claremont,Cape Town,-33.9810000000,18.4673333333,0,0,0
+The Farmyard Farmstall,Cafe,2.9,Average,10,R,195,2,Melkbosstrand,Cape Town,-33.7354750000,18.4565930000,0,0,0
+Vida E Caffe,"Cafe, Desserts",2.9,Average,16,R,150,2,CBD,Cape Town,-33.9297713616,18.4223650396,0,0,0
+Woolworths Cafe,Cafe,2.9,Average,12,R,230,3,"Somerset Mall, Somerset West",Cape Town,-34.0827300000,18.8244100000,0,0,0
+The Vineyard Deli Cafe,Cafe,2.9,Average,8,R,150,2,Bellville,Cape Town,-33.8624696643,18.6333469301,0,0,0
+Jenny Bean Cafe,"Cafe, Coffee and Tea, Healthy Food, Juices, Sandwich, Tea, Vegetarian",2.9,Average,9,R,150,2,De Waterkant,Cape Town,-33.9191473283,18.4243267402,0,0,0
+Ambeans,Cafe,2.9,Average,5,R,120,2,Durbanville,Cape Town,-33.8310293659,18.6469061673,0,0,0
+Mugg & Bean,Cafe,2.9,Average,5,R,350,4,Stellenbosch,Cape Town,-33.9778450000,18.8424010000,0,0,0
+Mondeor  Restaurant,"Burger, Pizza, Cafe",2.9,Average,8,R,230,3,Somerset West,Cape Town,-34.1175473120,18.8780822074,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.9,Average,5,R,200,3,CBD,Cape Town,-33.9226584024,18.4228692949,0,0,0
+Love Revenge Cappuccino,"Cafe, Desserts",2.9,Average,4,R,150,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9042460000,18.4201800000,0,0,0
+Dulce Cafe,Cafe,2.9,Average,7,R,220,3,Plumstead,Cape Town,-34.0184620000,18.4647140000,0,0,0
+Ecco Il Cafe,Cafe,2.9,Average,4,R,150,2,Foreshore,Cape Town,-33.9178160314,18.4289428219,0,0,0
+Caffe Blu,Cafe,2.9,Average,5,R,200,3,Hermanus,Cape Town,-34.4169300000,19.2432740000,0,0,0
+The Coffee Corner,Cafe,2.9,Average,5,R,165,2,Bellville,Cape Town,-33.8788990328,18.6356600001,0,0,0
+Kitch Kombuis,Cafe,2.9,Average,4,R,145,2,Muizenberg,Cape Town,-34.1054610000,18.4696600000,0,0,0
+Bean Tree Cafe,Cafe,2.9,Average,4,R,160,2,Bellville,Cape Town,-33.8800000000,18.6600000000,0,0,0
+Fleetway Cafe,"Cafe, Burger",2.9,Average,5,R,150,2,Foreshore,Cape Town,-33.9219600000,18.4351410000,0,0,0
+Wimpy,"Cafe, South African, Burger, Fast Food",2.9,Average,4,R,200,3,Durbanville,Cape Town,-33.8318696210,18.6466694623,0,0,0
+Cafe Mojo,"Cafe, Fast Food",2.9,Average,2,R,140,2,Foreshore,Cape Town,-33.9188017774,18.4245859087,0,0,0
+Ellies Deli @ Bettys,Cafe,2.9,Average,3,R,150,2,"Town Square, Fish Hoek",Cape Town,-34.1381666667,18.4311666667,0,0,0
+Cubana,"Cuban, Mexican",2.4,Poor,110,R,270,3,Green Point,Cape Town,-33.9160609691,18.4182706475,0,0,0
+Cubana,"Cuban, Mexican",2.4,Poor,33,R,270,3,Table View,Cape Town,-33.8202810000,18.4777590000,0,0,0
+Tony's Roma,"Grill, Pizza",2.4,Poor,22,R,280,3,"Flamingo Square Centre, Table View",Cape Town,-33.8297980000,18.5069170000,0,0,0
+Tin Roof,Drinks Only,2.4,Poor,26,R,180,2,Claremont,Cape Town,-33.9791810000,18.4652430000,0,0,0
+Stones,Drinks Only,2.5,Average,24,R,150,2,Observatory,Cape Town,-33.9385000000,18.4688333333,0,0,0
+Bossa Social Cafe and Bar,"Grill, Burger, Pizza",2.6,Average,100,R,320,4,Bellville,Cape Town,-33.8763005759,18.6292518675,0,0,0
+Cloud 9 Rooftop Bar and Venue,Italian,2.6,Average,12,R,200,3,Tamboerskloof,Cape Town,-33.9300386270,18.4084932565,0,0,0
+Cappello,Italian,2.6,Average,20,R,250,3,CBD,Cape Town,-33.9255144515,18.4156038612,0,0,0
+The Cue Inn,Drinks Only,2.6,Average,10,R,200,3,Plattekloof,Cape Town,-33.8795000000,18.5590000000,0,0,0
+Zevolis,Drinks Only,2.6,Average,7,R,200,3,Rondebosch,Cape Town,-33.9605000000,18.4701666667,0,0,0
+Cubana,"Cuban, Mexican",2.6,Average,51,R,270,3,Newlands,Cape Town,-33.9762280000,18.4648280000,0,0,0
+Bossa Social Cafe and Bar,"Grill, Burger, Pizza",2.7,Average,19,R,320,4,Kraaifontein,Cape Town,-33.8230564182,18.7178224325,0,0,0
+The Palms,"Italian, Burger, Grill, Seafood",2.6,Average,22,R,250,3,Kraaifontein,Cape Town,-33.8907550000,18.7412930000,0,0,0
+5th Avenue Bar & Restaurant,Tapas,2.7,Average,8,R,80,1,Bellville,Cape Town,-33.8770870000,18.6340838000,0,0,0
+Abantu,Drinks Only,2.7,Average,9,R,150,2,CBD,Cape Town,-33.9246294927,18.4172366560,0,0,0
+Jo'burg,Drinks Only,2.7,Average,5,R,200,3,CBD,Cape Town,-33.9258480127,18.4153701738,0,0,0
+Marvel Bar,Drinks Only,2.7,Average,4,R,150,2,CBD,Cape Town,-33.9262616935,18.4148501605,0,0,0
+The Crowbar,Drinks Only,2.7,Average,1,R,200,3,De Waterkant,Cape Town,-33.9193604452,18.4210577980,0,0,0
+Heartache & Vine,"Steak, Fast Food",2.7,Average,1,R,200,3,Sea Point,Cape Town,-33.9085000000,18.3970000000,0,0,0
+Bang Bar,Drinks Only,2.7,Average,1,R,250,3,Kenilworth,Cape Town,-34.0005180000,18.5054500000,0,0,0
+Cantina Tequila,Mexican,2.8,Average,38,R,260,3,"Tyger Manor, Bellville",Cape Town,-33.8763774034,18.6371023581,0,0,0
+Easy Tiger,"Burger, Grill",2.8,Average,33,R,180,2,Muizenberg,Cape Town,-34.1077360000,18.4705760000,0,0,0
+Newton Johnson Wines,Drinks Only,2.8,Average,7,R,60,1,Hermanus,Cape Town,-34.3677180000,19.2596500000,0,0,0
+Nu'Bar,Drinks Only,2.8,Average,13,R,160,2,Stellenbosch,Cape Town,-33.9370940177,18.8620109484,0,0,0
+Casa Nostra,Drinks Only,2.8,Average,2,R,100,2,Sea Point,Cape Town,-33.9278190292,18.4566657990,0,0,0
+Meraki,Drinks Only,2.8,Average,5,R,180,2,Durbanville,Cape Town,-33.8291892424,18.6505258083,0,0,0
+Papa Jo's,European,2.8,Average,3,R,150,2,Fish Hoek,Cape Town,-34.1380000000,18.4310000000,0,0,0
+Space Bar,Drinks Only,2.8,Average,5,R,200,3,CBD,Cape Town,-33.9248815442,18.4165329114,0,0,0
+Blue Whistle,"Pizza, Burger",2.8,Average,4,R,250,3,Claremont,Cape Town,-33.9797530000,18.4652860000,0,0,0
+Legends Bar,Drinks Only,2.8,Average,1,R,200,3,Claremont,Cape Town,-33.9788333333,18.4650000000,0,0,0
+Lido Bar,Drinks Only,2.8,Average,1,R,150,2,De Waterkant,Cape Town,-33.9181396066,18.4218731895,0,0,0
+58,Drinks Only,2.8,Average,1,R,200,3,Observatory,Cape Town,-33.9394550000,18.4692800000,0,0,0
+Mezani,Finger Food,2.8,Average,1,R,200,3,Observatory,Cape Town,-33.9410010000,18.4669920000,0,0,0
+V Bar,Drinks Only,2.8,Average,0,R,120,2,De Waterkant,Cape Town,-33.9201666667,18.4221666667,0,0,0
+Yummies Tavern,Drinks Only,2.8,Average,0,R,200,3,CBD,Cape Town,-33.9270336882,18.4255360812,0,0,0
+Nitida Tasting Room,Drinks Only,2.9,Average,11,R,60,1,Durbanville,Cape Town,-33.8351720000,18.5946120000,0,0,0
+Viper Lounge,Drinks Only,2.9,Average,3,R,180,2,Simon's Town,Cape Town,-34.1605000000,18.4298333333,0,0,0
+Robertson Winery,Drinks Only,2.9,Average,6,R,20,1,Robertson,Cape Town,-33.8102140000,19.8806630000,0,0,0
+Stones,Drinks Only,2.9,Average,9,R,150,2,CBD,Cape Town,-33.9247168484,18.4164614975,0,0,0
+Tulbagh Tavern,Drinks Only,2.9,Average,1,R,200,3,Foreshore,Cape Town,-33.9183360326,18.4251220152,0,0,0
+Gringo's,"Pizza, Grill, Burger",2.9,Average,5,R,290,3,Hermanus,Cape Town,-34.3445440000,19.0137770000,0,0,0
+Adriatic,Thai,2.9,Average,5,R,180,2,Sea Point,Cape Town,-33.9136550000,18.3915000000,0,0,0
+Stones,Drinks Only,2.9,Average,5,R,150,2,"Palm Grove Center, Durbanville",Cape Town,-33.8341129531,18.6478459463,0,0,0
+Molteno's,"Pizza, Italian",2.9,Average,4,R,220,3,Hermanus,Cape Town,-34.4129523000,19.1745499000,0,0,0
+The Lava Lounge,Drinks Only,2.9,Average,2,R,200,3,Sea Point,Cape Town,-33.9096666667,18.3950000000,0,0,0
+Zer021 Lounge,Drinks Only,2.9,Average,1,R,150,2,Green Point,Cape Town,-33.9170820000,18.4182780000,0,0,0
+Pig & Swizzle,Drinks Only,2.9,Average,5,R,120,2,Rondebosch,Cape Town,-33.9598840000,18.4702510000,0,0,0
+Stones,Drinks Only,2.9,Average,3,R,150,2,Bellville,Cape Town,-33.8835496139,18.6349264160,0,0,0
+Julep Cocktail Bar,"Caribbean, Cuban, Latin American",2.9,Average,4,R,150,2,CBD,Cape Town,-33.9268740000,18.4147430000,0,0,0
+Masa Buca,Finger Food,2.9,Average,4,R,200,3,Observatory,Cape Town,-33.9371666667,18.4681666667,0,0,0
+The Concept,Drinks Only,2.9,Average,1,R,300,4,CBD,Cape Town,-33.9248648521,18.4159217030,0,0,0
+Illusions,Drinks Only,2.9,Average,4,R,200,3,Observatory,Cape Town,-33.9393333333,18.4691666667,0,0,0
+Olimp,Drinks Only,2.9,Average,4,R,140,2,CBD,Cape Town,-33.9228614950,18.4169429541,0,0,0
+Moreson Winery,Drinks Only,3.0,Average,4,R,80,1,Franschhoek,Cape Town,-33.8865730000,19.0585210000,0,0,0
+Vredenheim Winery,Drinks Only,3.0,Average,7,R,50,1,Stellenbosch,Cape Town,-33.9610170000,18.8069220000,0,0,0
+Rustenberg Wines,Drinks Only,3.0,Average,4,R,60,1,Stellenbosch,Cape Town,-33.8955010000,18.8925490000,0,0,0
+Simonsvlei,Drinks Only,3.0,Average,7,R,40,1,Paarl,Cape Town,-33.7891506000,18.9294841000,0,0,0
+Ridgeback Wines Tasting Room,Drinks Only,3.0,Average,9,R,60,1,Ridgeback Wine Farm,Cape Town,-33.6700000000,18.9100000000,0,0,0
+Stoep & Swing,Drinks Only,3.0,Average,6,R,250,3,Simon's Town,Cape Town,-34.1603230000,18.4295430000,0,0,0
+Nuy Winery,Drinks Only,3.0,Average,4,R,60,1,Worcester,Cape Town,-33.6615440000,19.4550290000,0,0,0
+Vergelegen Wine Tasting Centre,Drinks Only,3.0,Average,4,R,60,1,Somerset West,Cape Town,-34.0761620000,18.8896790000,0,0,0
+Windmeul Cellars,Drinks Only,3.0,Average,5,R,20,1,Paarl,Cape Town,-33.6716590000,18.9084580000,0,0,0
+Doolhof Tasting Room,Drinks Only,3.0,Average,4,R,40,1,Wellington,Cape Town,-33.6261070000,19.0838790000,0,0,0
+Jordan Tasting Room,Drinks Only,3.0,Average,6,R,30,1,"Jordan Wine Farm, Stellenbosch",Cape Town,-33.9429920000,18.7451050000,0,0,0
+Meerlust Estate,Drinks Only,3.0,Average,5,R,60,1,Stellenbosch,Cape Town,-34.0171400000,18.7572310000,0,0,0
+The Dock,"Grill, Seafood, Burger",3.0,Average,7,R,300,4,Gordons Bay,Cape Town,-34.1566790000,18.8681680000,0,0,0
+Amics Restaurant & Bar,South African,3.0,Average,6,R,200,3,Somerset West,Cape Town,-34.0818398000,18.8496633000,0,0,0
+Brewers Co-op,Drinks Only,3.0,Average,6,R,250,3,Woodstock,Cape Town,-33.9264310000,18.4478730000,0,0,0
+Forex Bar & Restaurant,"Grill, Finger Food",3.0,Average,6,R,250,3,Observatory,Cape Town,-33.9381600000,18.4684910000,0,0,0
+Hank's Olde Irish,Drinks Only,3.0,Average,5,R,180,2,CBD,Cape Town,-33.9216657458,18.4174817428,0,0,0
+Tipples Bar & Grill,"Grill, Pizza, Seafood",3.0,Average,6,R,300,4,Hermanus,Cape Town,-34.4110450000,19.1752660000,0,0,0
+Bon Courage,Drinks Only,3.0,Average,4,R,40,1,Robertson,Cape Town,-33.8456320000,19.9605460000,0,0,0
+Ché Latino Cafe & Havana Lounge,Drinks Only,2.9,Average,5,R,150,2,Brackenfell,Cape Town,-33.8825680000,18.7138980000,0,0,0
+Raleigh's Cigar Bar - The Westin Cape Town,Drinks Only,3.0,Average,1,R,0,1,"The Westin, Foreshore",Cape Town,-33.9156561422,18.4260168672,0,0,0
+Sangrita Tequila Bar,"Mexican, Tapas",3.1,Average,38,R,250,3,Woodstock,Cape Town,-33.9272640000,18.4537360000,0,0,0
+Bossa Social Cafe and Bar,"Grill, Burger, Pizza",3.2,Average,47,R,320,4,Somerset West,Cape Town,-34.0775700000,18.8466320000,0,0,0
+Nederburg Tasting Room,Drinks Only,3.1,Average,7,R,120,2,"Nederburg Wines, Paarl",Cape Town,-33.7200000000,19.0000000000,0,0,0
+Company Social Brasserie,Contemporary,3.1,Average,8,R,0,1,Stellenbosch,Cape Town,0.0000000000,0.0000000000,0,0,0
+Hard Rock Cafe,American,3.2,Average,15,R,450,4,Camps Bay,Cape Town,-33.9533598080,18.3772287116,0,0,0
+Chamonix Tasting Room,Drinks Only,3.1,Average,6,R,80,1,Franschhoek,Cape Town,-33.9011860000,19.1256330000,0,0,0
+Die Stal Tasting Room @ Signal Gun,"Drinks Only, Finger Food",3.2,Average,8,R,180,2,"Signal Gun, Durbanville",Cape Town,-33.8214320000,18.6115310000,0,0,0
+Tasting Room at Glenelly,Drinks Only,3.1,Average,4,R,50,1,"Glenelly Estate, Stellenbosch",Cape Town,-33.9208500000,18.8786800000,0,0,0
+Die Mystic Boer,Finger Food,3.1,Average,28,R,200,3,Stellenbosch,Cape Town,-33.9345300000,18.8608320000,0,0,0
+Anura Tasting Room,Drinks Only,3.1,Average,5,R,100,2,Anura ,Cape Town,33.8041095000,18.8841103000,0,0,0
+Bloemendal Tasting Room,Drinks Only,3.1,Average,4,R,20,1,"Bloemendal Wine Farm, Durbanville",Cape Town,-33.8392944444,18.6005166667,0,0,0
+Stellenrust Tasting Room,Drinks Only,3.1,Average,4,R,100,2,Stellenbosch,Cape Town,-33.9886480000,18.8499560000,0,0,0
+Glenwood Tasting Room,Drinks Only,3.1,Average,5,R,120,2,Franschhoek,Cape Town,-33.9162980000,19.0815970000,0,0,0
+Groote Post Vineyards,Drinks Only,3.1,Average,9,R,0,1,Darling,Cape Town,-33.4834000000,18.4097860000,0,0,0
+Bilton Wines,Drinks Only,3.1,Average,4,R,100,2,Stellenbosch,Cape Town,-33.9977130000,18.8496690000,0,0,0
+Woodstock Gin Co,Drinks Only,3.1,Average,7,R,60,1,Woodstock,Cape Town,-33.9281294914,18.4578875452,0,0,0
+Sir Thomas Brewing Co.,Finger Food,3.1,Average,6,R,100,2,Stellenbosch,Cape Town,-33.8837345857,18.8463881005,0,0,0
+Eikendal Vineyards,Drinks Only,3.1,Average,8,R,250,3,Stellenbosch,Cape Town,-34.0120680000,18.8232970000,0,0,0
+Chello's Pizzeria & Bar,Pizza,3.1,Average,4,R,280,3,Gordons Bay,Cape Town,-34.1542450000,18.8681040000,0,0,0
+La Bourgogne Tasting Room,Drinks Only,3.1,Average,4,R,120,2,Franschhoek,Cape Town,-33.9257140000,19.1199890000,0,0,0
+The BoardHouse,Drinks Only,3.1,Average,11,R,120,2,Table View,Cape Town,-33.8137560000,18.4716070000,0,0,0
+Graham Beck Tasting Room,Drinks Only,3.1,Average,6,R,100,2,Robertson,Cape Town,-33.8040720000,19.8001080000,0,0,0
+Slaley Tasting Room,Drinks Only,3.1,Average,9,R,150,2,Stellenbosch,Cape Town,-33.8651570000,18.8473400000,0,0,0
+Solms Delta Tasting Room,Drinks Only,3.1,Average,10,R,80,1,Franschhoek,Cape Town,-33.8639710000,18.9897380000,0,0,0
+DeMorgenzon,Drinks Only,3.0,Average,4,R,100,2,Stellenbosch,Cape Town,-33.9425000000,18.7710450000,0,0,0
+Domaine des Dieux,Drinks Only,3.1,Average,6,R,60,1,Hermanus,Cape Town,-34.3333140000,19.3309120000,0,0,0
+Crew Bar,Drinks Only,2.8,Average,4,R,200,3,Green Point,Cape Town,-33.9148620639,18.4183316678,0,0,0
+Hanover Street,Drinks Only,2.8,Average,3,R,200,3,"Grandwest Casino, Goodwood",Cape Town,-33.9183683065,18.5484573618,0,0,0
+Dragon Room,Drinks Only,2.9,Average,9,R,150,2,Zonnebloem,Cape Town,-33.9288810000,18.4231210000,0,0,0
+ThirtyOne,Drinks Only,3.1,Average,32,R,200,3,CBD,Cape Town,-33.9204370000,18.4242720000,0,0,0
+Chez Ntemba Night Club,Drinks Only,3.1,Average,16,R,200,3,CBD,Cape Town,-33.9259743149,18.4148099273,0,0,0
+COCO,Drinks Only,3.3,Average,21,R,300,4,CBD,Cape Town,-33.9211783159,18.4195121750,0,0,0
+Aces 'n Spades,Drinks Only,3.3,Average,25,R,200,3,CBD,Cape Town,-33.9217083123,18.4195936471,0,0,0
+ERA Night Club,Drinks Only,3.4,Average,28,R,180,2,CBD,Cape Town,-33.9212286727,18.4191929922,0,0,0
+Deco Dance,Drinks Only,3.5,Good,28,R,200,3,Sea Point,Cape Town,-33.9125329000,18.3924894000,0,0,0
+Living Room,Drinks Only,0,Not rated,3,R,120,2,Bellville,Cape Town,-33.8987000000,18.6260020000,0,0,0
+District Club,Drinks Only,0,Not rated,2,R,250,3,CBD,Cape Town,-33.9285040000,18.4241630000,0,0,0
+Saint Champagne Bar & Lounge,Drinks Only,0,Not rated,1,R,200,3,Zonnebloem,Cape Town,-33.9273980000,18.4251570000,0,0,0
+Mercury,Drinks Only,0,Not rated,3,R,200,3,Zonnebloem,Cape Town,-33.9318540000,18.4262490000,0,0,0
+Club Eighty-Nine,Drinks Only,0,Not rated,1,R,200,3,CBD,Cape Town,-33.9222238383,18.4192701057,0,0,0
+Club Lenin,Drinks Only,0,Not rated,0,R,200,3,Table View,Cape Town,-33.8201019552,18.4780135006,0,0,0
+The Bank,Drinks Only,0,Not rated,0,R,400,4,CBD,Cape Town,-33.9265510000,18.4164350000,0,0,0
+Charly's Bakery,"Cafe, Desserts, Bakery",2.3,Poor,297,R,130,2,CBD,Cape Town,-33.9282913987,18.4245366231,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.7,Average,25,R,150,2,Green Point,Cape Town,-33.9136419956,18.4176141769,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.7,Average,46,R,150,2,Claremont,Cape Town,-33.9797650000,18.4639960000,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.7,Average,19,R,150,2,Brackenfell,Cape Town,-33.8521426928,18.6971851811,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.8,Average,30,R,150,2,Bellville,Cape Town,-33.8829269717,18.6351704970,0,0,0
+Dunkin Donuts,"Bakery, Desserts",2.8,Average,12,R,120,2,CBD,Cape Town,-33.9199672411,18.4218410030,0,0,0
+La Bella Rosa Bistro & Coffee,"Cafe, Burger, Bakery",2.8,Average,4,R,160,2,Durbanville,Cape Town,0.0000000000,0.0000000000,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",2.9,Average,53,R,150,2,"Canal Walk Mall, Century City",Cape Town,-33.8933333333,18.5108333333,0,0,0
+Dunkin Donuts,"Bakery, Desserts",2.9,Average,10,R,120,2,"Tygervalley Shopping Centre, Bellvile",Cape Town,-33.8784442042,18.6576262861,0,0,0
+Wembley Bakery,Bakery,3.0,Average,5,R,0,1,Athlone,Cape Town,-33.9650900000,18.5144480000,0,0,0
+Cookies Bakery and Takeaways,"Bakery, Desserts, Fast Food",2.9,Average,6,R,150,2,Ottery,Cape Town,-33.9906910000,18.5067990000,0,0,0
+Francor Bakery,"Bakery, Desserts",2.9,Average,3,R,70,1,Bellville,Cape Town,-33.8773388547,18.6633973941,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",3.0,Average,11,R,150,2,Somerset West,Cape Town,-34.0827300000,18.8244100000,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",3.0,Average,17,R,150,2,"Eikestad Mall, Stellenbosch",Cape Town,-33.9353850000,18.8602520000,0,0,0
+Everyway Coffee - Market on the Wharf,"Bakery, Cafe, Beverages",3.0,Average,4,R,120,2,V & A Waterfront,Cape Town,-33.9066070000,18.4192450000,0,0,0
+Francor Bakery,"Bakery, Desserts",3.0,Average,8,R,70,1,"N1 City Mall, Goodwood",Cape Town,-33.8919939400,18.5589082539,0,0,0
+Limnos Bakers,"Cafe, Bakery, Desserts",3.0,Average,6,R,150,2,Kuilsriver,Cape Town,-33.9227477076,18.6767262965,0,0,0
+Trecastelli Bakery,Bakery,3.0,Average,4,R,150,2,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9064810000,18.4193380000,0,0,0
+Dunkin Donuts,"Bakery, Desserts",3.1,Average,48,R,120,2,Goodwood,Cape Town,-33.8947975831,18.5581498593,0,0,0
+Aegean Cafe And Bakery,"Cafe, Bakery",3.1,Average,5,R,200,3,Gardens,Cape Town,-33.9320320000,18.4089920000,0,0,0
+The Aviary Café,"Cafe, Bakery",3.1,Average,6,R,0,1,Woodstock,Cape Town,-33.9281510000,18.4432950000,0,0,0
+Francor Bakery,"Bakery, Desserts",3.1,Average,3,R,70,1,Table View,Cape Town,-33.8233333333,18.4891666667,0,0,0
+Francor Bakery,"Bakery, Desserts",3.1,Average,5,R,70,1,"Parow Centre, Parow",Cape Town,-33.9047420000,18.5985200000,0,0,0
+Knead,"Cafe, Bakery",3.3,Average,135,R,250,3,Claremont,Cape Town,-33.9812780000,18.4674220000,0,0,0
+Martin's Bakery,"Cafe, Bakery",3.4,Average,29,R,200,3,Diep River,Cape Town,-34.0152800000,18.4685450000,0,0,0
+Ons Plaaskombuis,"Bakery, Patisserie, South African, Desserts, Deli",3.2,Average,5,R,200,3,Brackenfell,Cape Town,-33.8568543144,18.6819767207,0,0,0
+Quality Bake Express,"Bakery, Desserts",3.2,Average,12,R,35,1,Diep River,Cape Town,-34.0365000000,18.4650000000,0,0,0
+Rosa's Bakery,"Cafe, Bakery",3.2,Average,9,R,200,3,CBD,Cape Town,-33.9217497659,18.4193830937,0,0,0
+Nibbly Bits,Bakery,3.2,Average,6,R,150,2,Bellville,Cape Town,-33.8675353847,18.6415457726,0,0,0
+Dunkin Donuts,"Bakery, Desserts",3.3,Average,48,R,120,2,"Canal Walk Mall, Century City",Cape Town,-33.8925520000,18.5103270000,0,0,0
+Cassis Salon De The,"Bakery, Cafe",3.3,Average,46,R,200,3,Gardens,Cape Town,-33.9343333333,18.4176666667,0,0,0
+Knead,"Cafe, Bakery",3.3,Average,44,R,250,3,Newlands,Cape Town,-33.9711770000,18.4640680000,0,0,0
+Jason Bakery,"Cafe, Bakery",3.4,Average,14,R,180,2,Green Point,Cape Town,-33.9083020000,18.4108290000,0,0,0
+Taste Bud Eatery,"Cafe, Bakery",3.3,Average,28,R,250,3,Stellenbosch,Cape Town,-33.9358620000,18.8628310000,0,0,0
+Oumeul Bakkery,"Cafe, Bakery",3.3,Average,17,R,180,2,"Somerset Mall, Somerset West",Cape Town,-34.0826560000,18.8241050000,0,0,0
+knead,"Cafe, Bakery",3.4,Average,54,R,250,3,Plattekloof,Cape Town,-33.8757270000,18.5758180000,0,0,0
+Knead,"Cafe, Bakery",3.4,Average,64,R,250,3,"Wembley Square, Gardens",Cape Town,-33.9330490000,18.4233770000,0,0,0
+Hmmm Bakery,"Bakery, Cafe",3.4,Average,19,R,100,2,Gardens,Cape Town,-33.9323790000,18.4212560000,0,0,0
+Knead,"Cafe, Bakery",3.5,Good,42,R,250,3,Kenilworth,Cape Town,-33.9955077687,18.4689446166,0,0,0
+Euro Haus Bakery,"Cafe, Bakery",3.5,Good,42,R,200,3,CBD,Cape Town,-33.9260140973,18.4140391275,0,0,0
+New Brighton Bakery,"Cafe, Bakery",3.5,Good,30,R,180,2,Woodstock,Cape Town,-33.9287650000,18.4461759000,0,0,0
+Queen of Tarts,"Cafe, Bakery",3.5,Good,37,R,180,2,Observatory,Cape Town,-33.9357720000,18.4677730000,0,0,0
+Oumeul Bakkery,"Cafe, Bakery",3.5,Good,22,R,180,2,Bellville,Cape Town,-33.8740781157,18.6180640385,0,0,0
+Trecastelli Bakery,Bakery,3.6,Good,18,R,150,2,Parklands,Cape Town,-33.8151950000,18.4991410000,0,0,0
+Vovo Telo,"Cafe, Bakery",3.6,Good,176,R,220,3,V & A Waterfront,Cape Town,-33.9051666667,18.4196666667,0,0,0
+Knead,"Cafe, Bakery",3.6,Good,107,R,250,3,"Surfers Corner, Muizenberg",Cape Town,-34.1081360000,18.4696910000,0,0,0
+The Bakery @ Jordan,"Cafe, Bakery",3.6,Good,32,R,250,3,"Jordan Wine Farm, Stellenbosch",Cape Town,-33.9429920000,18.7451050000,0,0,0
+Oumeul Bakkery,"Cafe, Bakery",3.6,Good,50,R,180,2,De Waterkant,Cape Town,-33.9195151354,18.4224793687,0,0,0
+The Larder,"Cafe, Deli, Bakery",3.6,Good,41,R,150,2,Diep River,Cape Town,-34.0349250000,18.4652650000,0,0,0
+Frozen Yo,"Healthy Food, Bakery, Juices, Beverages, Belgian, Cafe, Desserts, Frozen Yogurt",3.6,Good,23,R,150,2,Table View,Cape Town,-33.8205930000,18.4765950000,0,0,0
+Knead,"Cafe, Bakery",3.6,Good,107,R,250,3,Sea Point,Cape Town,-33.9209030000,18.3832520000,0,0,0
+Oumeul Bakkery,"Cafe, Bakery",3.7,Good,110,R,180,2,Bellville,Cape Town,-33.8702632770,18.6311719939,0,0,0
+Knead,"Cafe, Bakery",3.7,Good,209,R,250,3,Gardens,Cape Town,-33.9295000000,18.4111666667,0,0,0
+Vovo Telo,"Cafe, Bakery",3.6,Good,38,R,220,3,"Steenberg Village, Tokai",Cape Town,-34.0753350000,18.4315470000,0,0,0
+Lust,"Cafe, Bakery",3.7,Good,56,R,350,4,Franschhoek,Cape Town,-33.8374090000,18.9532280000,0,0,0
+Dolce Bakery,"Cafe, Bakery",3.7,Good,46,R,140,2,Observatory,Cape Town,-33.9348920000,18.4671850000,0,0,0
+Coimbra Bakery,"Healthy Food, Bakery, Burger, Cafe, Finger Food, Portuguese, German, Deli",3.7,Good,31,R,150,2,Claremont,Cape Town,-33.9835990000,18.4801270000,0,0,0
+Billy Boo's Cakery,"Cafe, Patisserie, Bakery",3.7,Good,26,R,130,2,Observatory,Cape Town,-33.9382000000,18.4691910000,0,0,0
+Max Bagels,"Cafe, Bakery",4.0,Very Good,66,R,0,1,CBD,Cape Town,-33.9222691867,18.4169268608,0,0,0
+Tessa's Bakery,"Bakery, Desserts",4.1,Very Good,41,R,120,2,Montague Gardens,Cape Town,-33.8694253482,18.5045029968,0,0,0
+The Larder,"Cafe, Deli, Bakery, Burger, Desserts, Healthy Food, Juices",4.2,Very Good,164,R,150,2,Claremont,Cape Town,-33.9818220000,18.4645010000,0,0,0
+Jason Bakery,"Cafe, Bakery",4.2,Very Good,322,R,180,2,CBD,Cape Town,-33.9245151513,18.4145708755,0,0,0
+New York Bagels,"Cafe, Bakery, Deli, Coffee and Tea, Sandwich",4.4,Very Good,136,R,150,2,Zonnebloem,Cape Town,-33.9284210000,18.4238940000,0,0,0
+The Velvet Cake Co.,"Bakery, Desserts",4.6,Excellent,87,R,165,2,CBD,Cape Town,-33.9192997932,18.4215120971,0,0,0
+Fria's Superfoods,"Cafe, Deli, Bakery, Healthy Food",0,Not rated,0,R,160,2,Woodstock,Cape Town,-33.9307151708,18.4403793573,0,0,0
+Sweet Cillie's Cakery & Deli,Bakery,0,Not rated,2,R,150,2,Tokai,Cape Town,-34.0656298000,18.4550364000,0,0,0
+Oakhurst Farmstall,"Cafe, Bakery, Deli",0,Not rated,2,R,180,2,Kenilworth,Cape Town,-33.9963620000,18.4685380000,0,0,0
+localli,"Bakery, Desserts",0,Not rated,1,R,140,2,CBD,Cape Town,-33.9235522342,18.4190711508,0,0,0
+Bonjour Bakery,"Bakery, Desserts",0,Not rated,3,R,120,2,Sea Point,Cape Town,-33.9145490000,18.3910310000,0,0,0
+Gourmet Pantry,Bakery,0,Not rated,1,R,100,2,V & A Waterfront,Cape Town,-33.9063970000,18.4192190000,0,0,0
+At the Village Stall,"Cafe, Bakery",0,Not rated,3,R,200,3,Hermanus,Cape Town,-34.4113170000,19.1994020000,0,0,0
+Everyway Coffee - V&A Mall,"Bakery, Cafe, Beverages",0,Not rated,2,R,120,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9066120000,18.4193620000,0,0,0
+Craft + Graft,"Cafe, Bakery",0,Not rated,1,R,150,2,CBD,Cape Town,-33.9321850000,18.4156940000,0,0,0
+Daniela's Deliciously Decadent,"Bakery, Desserts",0,Not rated,1,R,100,2,"Cape Quarter Lifestyle Center, Green Point",Cape Town,-33.9156216414,18.4178683162,0,0,0
+The Pantry,"Cafe, Bakery",0,Not rated,1,R,0,1,Bergvliet,Cape Town,-34.0482500000,18.4540010000,0,0,0
+Le Petit Four Bakery and Cafe,"Cafe, Bakery, Desserts",0,Not rated,0,R,160,2,Somerset West,Cape Town,-34.0799740000,18.8474390000,0,0,0
+Nibbly Bits,Bakery,0,Not rated,1,R,150,2,"Capegate Lifestyle Center, Brackenfell",Cape Town,-33.8544047045,18.6935672164,0,0,0
+Classic Bakery,"Bakery, Cafe",0,Not rated,1,R,180,2,Crawford,Cape Town,-33.9801709913,18.5117171332,0,0,0
+The Gourmet Bakery,Bakery,0,Not rated,1,R,50,1,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9054000000,18.4196810000,0,0,0
+Compass Bakery,"Cafe, Bakery",0,Not rated,0,R,180,2,Diep River,Cape Town,-34.0331434000,18.4656035900,0,0,0
+Baker's Buzz,Bakery,0,Not rated,0,R,120,2,Malmesbury,Cape Town,-33.4613610000,18.7303670000,0,0,0
+Dunkin Donuts,"Cafe, Bakery",0,Not rated,0,R,120,2,CBD,Cape Town,-33.9259089382,18.4216224030,0,0,0
+Cloud 9 Rooftop Bar and Venue,Italian,2.6,Average,12,R,200,3,Tamboerskloof,Cape Town,-33.9300386270,18.4084932565,0,0,0
+Praia Morena Restaurant & Lounge,"Portuguese, African",2.7,Average,16,R,300,4,De Waterkant,Cape Town,-33.9191573443,18.4209025651,0,0,0
+Sunset Cafe,"Contemporary, Seafood",2.8,Average,7,R,220,3,Camps Bay,Cape Town,-33.9531450000,18.3772450000,0,0,0
+Cpoint. Bar & Lounge - Radisson Blu Le Vendome Hotel,Finger Food,2.8,Average,9,R,180,2,"Radisson Blu Le Vendome Hotel, Sea Point",Cape Town,-33.9122790000,18.3904480000,0,0,0
+Traders - The Bay Hotel,Drinks Only,2.8,Average,6,R,300,4,"The Bay Hotel, Camps Bay",Cape Town,-33.9525400000,18.3782030000,0,0,0
+Murano Bar - African Pride 15 on Orange Hotel,Drinks Only,3.0,Average,3,R,300,4,"African Pride 15 on Orange Hotel, CBD",Cape Town,-33.9284080000,18.4142040000,0,0,0
+Cigar Bar,"African, Seafood, Portuguese",3.0,Average,1,R,400,4,"Chapmans Peak Beach Hotel, Hout Bay",Cape Town,-34.0472120000,18.3615360000,0,0,0
+Signal Hill Lounge & Terrace - Hilton Cape Town City Centre,Mediterranean,3.1,Average,8,R,320,4,"Hilton Cape Town, CBD",Cape Town,-33.9215856205,18.4158643708,0,0,0
+La Mizu - Lagoon Beach Hotel,Finger Food,3.3,Average,15,R,400,4,"Lagoon Beach Hotel, Milnerton",Cape Town,-33.8920600000,18.4832250000,0,0,0
+The Martini - The Cellars Hohenort,Drinks Only,3.3,Average,8,R,200,3,"The Cellars-Hohenhort, Constantia",Cape Town,-34.0022230000,18.4343470000,0,0,0
+Sky Bar,Finger Food,3.4,Average,44,R,300,4,"The Village Lodge, Greenpoint",Cape Town,-33.9154836381,18.4169459715,0,0,0
+Twankey Bar - The Taj,Finger Food,3.4,Average,17,R,400,4,"Taj Cape Town, CBD",Cape Town,-33.9248044822,18.4200569987,0,0,0
+The Rose Bar - Alphen Boutique Hotel,Finger Food,3.4,Average,18,R,350,4,"Alphen 5 Star Boutique Hotel, Constantia",Cape Town,-34.0117070000,18.4513610000,0,0,0
+The Piano Bar,"Finger Food, Grill, Tapas, Burger, Contemporary",3.6,Good,120,R,250,3,De Waterkant,Cape Town,-33.9154972715,18.4171575308,0,0,0
+Lou Lou's,"Tapas, Beverages, Steak, Burger, Contemporary, Continental, European",3.6,Good,22,R,0,1,"Cape Quarter Lifestyle Center, Green Point",Cape Town,-33.9155180000,18.4181990000,0,0,0
+The Vue Sky Bar Lounge,Tapas,3.7,Good,60,R,400,4,Green Point,Cape Town,-33.9175244510,18.4182532132,0,0,0
+The Silo Rooftop,Drinks Only,3.7,Good,26,R,220,3,"The Silo Hotel, V&A Waterfront",Cape Town,-33.9086010000,18.4227250000,0,0,0
+Asoka,Asian,3.9,Good,186,R,300,4,Gardens,Cape Town,-33.9315000000,18.4088333333,0,0,0
+Tjing Tjing Rooftop Bar,Japanese,3.9,Good,133,R,350,4,CBD,Cape Town,-33.9222508248,18.4190531820,0,0,0
+Orphanage,Finger Food,4.0,Very Good,128,R,250,3,CBD,Cape Town,-33.9258043355,18.4131975845,0,0,0
+Vista Bar & Lounge - One&Only,European,4.1,Very Good,60,R,510,4,"One and Only Hotel, V & A Waterfront",Cape Town,-33.9072560000,18.4176000000,0,0,1
+Bascule Bar - Hotel Cape Grace,Finger Food,4.1,Very Good,63,R,350,4,"Hotel Cape Grace, V & A Waterfront",Cape Town,-33.9103900000,18.4214540000,0,0,0
+The Strangers Club,American,0,Not rated,3,R,200,3,Green Point,Cape Town,-33.9110900000,18.4135710000,0,0,0
+The Ghibli Bar & Pool Terrace,"Contemporary, Pizza",0,Not rated,3,R,300,4,"Radisson Blu Hotel & Residence, Foreshore",Cape Town,-33.9189870000,18.4223080000,0,0,0
+Cloof Wine Estate,Drinks Only,0,Not rated,1,R,40,1,Darling,Cape Town,-33.4831000000,18.5240330000,0,0,0
+Sky Bar,Finger Food,0,Not rated,2,R,250,3,CBD,Cape Town,-33.9210770000,18.4204460000,0,0,0
+GoldBar,Drinks Only,0,Not rated,3,R,200,3,CBD,Cape Town,-33.9211808199,18.4195436910,0,0,0
+Sea Street Bar & Lounge,Drinks Only,0,Not rated,1,R,250,3,"Radisson Blu Hotel & Residence, Foreshore",Cape Town,-33.9189506260,18.4218711779,0,0,0
+Cumba's,"Grill, Seafood",0,Not rated,0,R,200,3,De Waterkant,Cape Town,-33.9202176370,18.4216961637,0,0,0
+The Common Room,Finger Food,0,Not rated,0,R,70,1,CBD,Cape Town,0.0000000000,0.0000000000,0,0,0
+Cedarwood Lounge & Bar,Drinks Only,0,Not rated,0,R,150,2,"The Devon Valley Hotel, Stellenbosch",Cape Town,-33.9024040000,18.8133140000,0,0,0
+The Sun Lounge,Drinks Only,0,Not rated,0,R,250,3,Hermanus,Cape Town,-34.4177390000,19.2447890000,0,0,0
+Pane E Vino,Italian,3.3,Average,14,R,240,3,Stellenbosch,Cape Town,-33.9403974077,18.8469697908,0,0,0
+Flavours,African,3.4,Average,18,R,380,4,"The Devon Valley Hotel, Stellenbosch",Cape Town,-33.9026750000,18.8142980000,0,0,0
+Catharina's Restaurant - Steenberg Hotel,European,3.8,Good,67,R,550,4,"Steenberg Hotel, Constantia",Cape Town,-34.0713910000,18.4252310000,0,0,0
+Brampton Wine Studio,Finger Food,3.8,Good,60,R,200,3,Stellenbosch,Cape Town,-33.9379840000,18.8614200000,0,0,0
+Cafe Bon Bon,Cafe,3.8,Good,50,R,360,4,Franschhoek,Cape Town,-33.9302166667,19.1179083333,0,0,0
+Bistro Sixteen82,"French, Asian, European",4.5,Excellent,205,R,500,4,"Steenberg Hotel, Constantia",Cape Town,-34.0713910000,18.4252310000,0,0,0
+Bloemendal Restaurant,"Grill, Cape Malay",2.2,Poor,58,R,550,4,"Bloemendal Wine Farm, Durbanville",Cape Town,-33.8289638889,18.5985083333,0,0,0
+Eaglevlei,African,2.4,Poor,53,R,350,4,Stellenbosch,Cape Town,-33.8258670000,18.8142380000,0,0,0
+D'Aria Tasting Room,Continental,2.6,Average,26,R,230,3,Durbanville,Cape Town,-33.8413420000,18.6095020000,0,0,0
+Poplars Restaurant,"European, Contemporary",2.6,Average,116,R,560,4,Durbanville,Cape Town,-33.8408800000,18.6093040000,0,0,0
+Bar Di Bar,"Burger, Tapas, Pizza",2.8,Average,12,R,250,3,Paarl,Cape Town,-33.7653250000,18.9577850000,0,0,0
+Newton Johnson Wines,Drinks Only,2.8,Average,7,R,60,1,Hermanus,Cape Town,-34.3677180000,19.2596500000,0,0,0
+Nitida Tasting Room,Drinks Only,2.9,Average,11,R,60,1,Durbanville,Cape Town,-33.8351720000,18.5946120000,0,0,0
+The Deck Restaurant,"Asian, American",3.0,Average,4,R,300,4,Ridgeback Wine Farm,Cape Town,-33.6736310000,18.9145680000,0,0,0
+Robertson Winery,Drinks Only,2.9,Average,6,R,20,1,Robertson,Cape Town,-33.8102140000,19.8806630000,0,0,0
+Rosendal Winery & Restaurant,"South African, Grill",2.9,Average,6,R,380,4,Robertson,Cape Town,-33.8016460000,19.9884320000,0,0,0
+Bistro at Blaauwklippen,"Bar Food, Beverages, Burger, Cafe, Coffee and Tea, Sandwich, Tapas",2.9,Average,5,R,300,4,Stellenbosch,Cape Town,-33.9701240000,18.8452220000,0,0,0
+La Couronne Wine Estate,Drinks Only,2.9,Average,5,R,250,3,Franschhoek,Cape Town,-33.9193050000,19.1113850000,0,0,0
+Moreson Winery,Drinks Only,3.0,Average,4,R,80,1,Franschhoek,Cape Town,-33.8865730000,19.0585210000,0,0,0
+Vredenheim Winery,Drinks Only,3.0,Average,7,R,50,1,Stellenbosch,Cape Town,-33.9610170000,18.8069220000,0,0,0
+Rustenberg Wines,Drinks Only,3.0,Average,4,R,60,1,Stellenbosch,Cape Town,-33.8955010000,18.8925490000,0,0,0
+Simonsvlei,Drinks Only,3.0,Average,7,R,40,1,Paarl,Cape Town,-33.7891506000,18.9294841000,0,0,0
+Ridgeback Wines Tasting Room,Drinks Only,3.0,Average,9,R,60,1,Ridgeback Wine Farm,Cape Town,-33.6700000000,18.9100000000,0,0,0
+The Polo Club Restaurant,"South African, Cafe",3.0,Average,8,R,380,4,Paarl,Cape Town,-33.8045840000,18.9678280000,0,0,0
+Nuy Winery,Drinks Only,3.0,Average,4,R,60,1,Worcester,Cape Town,-33.6615440000,19.4550290000,0,0,0
+Vergelegen Wine Tasting Centre,Drinks Only,3.0,Average,4,R,60,1,Somerset West,Cape Town,-34.0761620000,18.8896790000,0,0,0
+Windmeul Cellars,Drinks Only,3.0,Average,5,R,20,1,Paarl,Cape Town,-33.6716590000,18.9084580000,0,0,0
+Doolhof Tasting Room,Drinks Only,3.0,Average,4,R,40,1,Wellington,Cape Town,-33.6261070000,19.0838790000,0,0,0
+Jordan Tasting Room,Drinks Only,3.0,Average,6,R,30,1,"Jordan Wine Farm, Stellenbosch",Cape Town,-33.9429920000,18.7451050000,0,0,0
+The Trading Post Eatery,"Cafe, Deli",3.0,Average,5,R,200,3,Anura ,Cape Town,33.8119455000,18.8858213000,0,0,0
+Meerlust Estate,Drinks Only,3.0,Average,5,R,60,1,Stellenbosch,Cape Town,-34.0171400000,18.7572310000,0,0,0
+Bodega de Vinho,Cafe,3.0,Average,4,R,180,2,Robertson,Cape Town,-33.7767400000,19.7619220000,0,0,0
+L'ermitage Restaurant,European,3.0,Average,4,R,450,4,Franschhoek,Cape Town,-33.9104107475,19.1317231581,0,0,0
+The Hermitage,"Mediterranean, African",3.0,Average,5,R,350,4,Brackenfell,Cape Town,-33.9009940000,18.7196810000,0,0,0
+Gordyntjies Bistro and Bar,"Italian, Burger",3.0,Average,4,R,280,3,Franschhoek,Cape Town,-33.8287350000,18.9529190000,0,0,0
+Bon Courage,Drinks Only,3.0,Average,4,R,40,1,Robertson,Cape Town,-33.8456320000,19.9605460000,0,0,0
+Nederburg Tasting Room,Drinks Only,3.1,Average,7,R,120,2,"Nederburg Wines, Paarl",Cape Town,-33.7200000000,19.0000000000,0,0,0
+Le Pommier,"African, Grill",3.1,Average,25,R,280,3,Stellenbosch,Cape Town,-33.9188388889,18.9287916667,0,0,0
+Chamonix Tasting Room,Drinks Only,3.1,Average,6,R,80,1,Franschhoek,Cape Town,-33.9011860000,19.1256330000,0,0,0
+Plaisir De Merle Tasting Room,Drinks Only,3.1,Average,5,R,100,2,Franschhoek,Cape Town,-33.8400000000,18.9600000000,0,0,0
+Tasting Room at Glenelly,Drinks Only,3.1,Average,4,R,50,1,"Glenelly Estate, Stellenbosch",Cape Town,-33.9208500000,18.8786800000,0,0,0
+Anura Tasting Room,Drinks Only,3.1,Average,5,R,100,2,Anura ,Cape Town,33.8041095000,18.8841103000,0,0,0
+Bloemendal Tasting Room,Drinks Only,0,Not rated,0,R,20,1,"Bloemendal Wine Farm, Durbanville",Cape Town,-33.8392944444,18.6005166667,0,0,0
+Warwick Tasting Room,Beverages,0,Not rated,0,R,50,1,Stellenbosch,Cape Town,-33.8404740000,18.8641260000,0,0,0
+Barrique,"African, Seafood, Cape Malay, International, Mediterranean, Pizza, South African",0,Not rated,0,R,400,4,"Vredenheim Wine Estate, Stellenbosch",Cape Town,-33.9608333333,18.8076666667,0,0,0
+Mellasat Tasting Room,Drinks Only,0,Not rated,0,R,80,1,Paarl,Cape Town,-33.7415640000,19.0416820000,0,0,0
+Stellenrust Tasting Room,Drinks Only,3.1,Average,4,R,100,2,Stellenbosch,Cape Town,-33.9886480000,18.8499560000,0,0,0
+Glenwood Tasting Room,Drinks Only,3.1,Average,5,R,120,2,Franschhoek,Cape Town,-33.9162980000,19.0815970000,0,0,0
+Groote Post Vineyards,Drinks Only,3.1,Average,9,R,0,1,Darling,Cape Town,-33.4834000000,18.4097860000,0,0,0
+Bilton Wines,Drinks Only,3.1,Average,4,R,100,2,Stellenbosch,Cape Town,-33.9977130000,18.8496690000,0,0,0
+Eikendal Vineyards,Drinks Only,3.1,Average,8,R,250,3,Stellenbosch,Cape Town,-34.0120680000,18.8232970000,0,0,0
+Graham Beck Tasting Room,Drinks Only,3.1,Average,6,R,100,2,Robertson,Cape Town,-33.8040720000,19.8001080000,0,0,0
+Slaley Tasting Room,Drinks Only,3.1,Average,9,R,150,2,Stellenbosch,Cape Town,-33.8651570000,18.8473400000,0,0,0
+Webersburg Estate,Beverages,3.1,Average,4,R,75,1,Stellenbosch,Cape Town,-34.0057300000,18.8430630000,0,0,0
+Solms Delta Tasting Room,Drinks Only,3.1,Average,10,R,80,1,Franschhoek,Cape Town,-33.8639710000,18.9897380000,0,0,0
+Seasons Restaurant,"European, Grill",3.1,Average,7,R,280,3,Wellington,Cape Town,-33.6612444444,19.0079972222,0,0,0
+Avontuur Estate,Beverages,3.1,Average,7,R,60,1,Somerset West,Cape Town,-34.0266620000,18.8227430000,0,0,0
+DeMorgenzon,Drinks Only,3.0,Average,4,R,100,2,Stellenbosch,Cape Town,-33.9425000000,18.7710450000,0,0,0
+Domaine des Dieux,Drinks Only,3.1,Average,6,R,60,1,Hermanus,Cape Town,-34.3333140000,19.3309120000,0,0,0
+Platform 62,African,3.1,Average,4,R,80,1,Robertson,Cape Town,-33.8326530000,20.0644310000,0,0,0
+La Bri Vineyard,Drinks Only,3.1,Average,5,R,35,1,Franschhoek,Cape Town,-33.9201440000,19.1204910000,0,0,0
+Hartenberg Tasting Room,Drinks Only,3.1,Average,4,R,70,1,Stellenbosch,Cape Town,-33.8983880000,18.7914760000,0,0,0
+The Restaurant At Neethlingshof,"Continental, European, Grill",3.2,Average,21,R,420,4,Stellenbosch,Cape Town,-33.9420000000,18.8015000000,0,0,0
+Viljoensdrift,Drinks Only,3.2,Average,11,R,60,1,Robertson,Cape Town,-33.8690150000,19.9856960000,0,0,0
+Muratie,"Mediterranean, European",3.2,Average,17,R,400,4,Stellenbosch,Cape Town,-33.8704160000,18.8757000000,0,0,0
+Waterkloof Tasting Lounge,Drinks Only,3.2,Average,7,R,80,1,Somerset West,Cape Town,-34.1066510000,18.8826580000,0,0,0
+Dish,"Italian, Mediterranean",3.2,Average,7,R,350,4,Franschhoek,Cape Town,-33.9226694444,19.1174222222,0,0,0
+Beyerskloof Tasting Room,Drinks Only,3.2,Average,9,R,50,1,"Beyerskloof Wine Estate, Stellenbosch",Cape Town,-33.8911729232,18.8236717880,0,0,0
+Kanonkop Tasting Room,Drinks Only,3.2,Average,10,R,100,2,Stellenbosch,Cape Town,-33.8528738715,18.8562341407,0,0,0
+Ataraxia Wines,Drinks Only,3.2,Average,6,R,20,1,Hermanus,Cape Town,-34.3362700000,19.3073760000,0,0,0
+Kleine Zalze Wine Estate,Drinks Only,3.2,Average,7,R,20,1,Stellenbosch,Cape Town,-33.9703780000,18.8362630000,0,0,0
+Webersburg Bistro,"Mediterranean, Burger, South African, Contemporary, Desserts, International, Grill, Steak",3.2,Average,8,R,300,4,Stellenbosch,Cape Town,-34.0057880000,18.8429990000,0,0,0
+Morgenster Tasting Room,Drinks Only,3.2,Average,8,R,100,2,Somerset West,Cape Town,-34.0800000000,18.8800000000,0,0,0
+Neil Ellis Tasting Room,Drinks Only,3.2,Average,5,R,180,2,Stellenbosch,Cape Town,-33.9252280000,18.8912970000,0,0,0
+Rivendell Estate,European,3.2,Average,10,R,450,4,Hermanus,Cape Town,-34.3400000000,19.1400000000,0,0,0
+Middelvlei Boerebraai Restaurant,African,3.2,Average,10,R,300,4,Stellenbosch,Cape Town,-33.9281194444,18.8323055556,0,0,0
+Rhebokskloof Tasting Room,Drinks Only,3.2,Average,7,R,40,1,Paarl,Cape Town,-33.6762870000,18.9349430000,0,0,0
+The Stone Kitchen,"Cafe, Grill, Deli",3.2,Average,9,R,300,4,Wellington,Cape Town,-33.6344540000,19.0383550000,0,0,0
+Four Paws Tasting Room,Drinks Only,3.2,Average,16,R,60,1,Franschhoek,Cape Town,-33.8918310000,19.0829700000,0,0,0
+Glen Carlou Tasting Room,Drinks Only,3.2,Average,6,R,20,1,Paarl,Cape Town,-33.8125860000,18.9027920000,0,0,0
+Ride In,Cafe,3.2,Average,15,R,200,3,Stellenbosch,Cape Town,-33.9422138889,18.9003805556,0,0,0
+Oude Wellington Restaurant,"Cape Malay, Contemporary",3.2,Average,11,R,450,4,Wellington,Cape Town,-33.6424027778,19.0508361111,0,0,0
+Benguela Cove Tasting Room,Drinks Only,3.2,Average,5,R,200,3,Hermanus,Cape Town,-34.3459150000,19.1380490000,0,0,0
+Bon Amis at Bloemendal,"Cafe, Sushi, Pizza, Burger",3.3,Average,77,R,220,3,"Bloemendal Wine Farm, Durbanville",Cape Town,-33.8392944444,18.6005166667,0,0,0
+Hudson's Restaurant,"European, American",3.3,Average,34,R,350,4,"Vredenheim Wine Estate, Stellenbosch",Cape Town,-33.9606666667,18.8076666667,0,0,0
+Eat At Simonsvlei,Contemporary,3.3,Average,29,R,400,4,Paarl,Cape Town,-33.8352960000,18.9539000000,0,0,0
+Skilpadvlei,"South African, Mediterranean, Steak",3.3,Average,46,R,350,4,Stellenbosch,Cape Town,-33.9596080000,18.7679120000,0,0,0
+Paulina's,"European, African",3.3,Average,14,R,400,4,Franschhoek,Cape Town,-33.8991750000,19.0914805556,0,0,0
+Long Table Restaurant,"South African, European",3.3,Average,28,R,350,4,Stellenbosch,Cape Town,-34.0039555556,18.8611361111,0,0,0
+Val Du Charron Wine & Olive Estate,Drinks Only,3.3,Average,8,R,80,1,Wellington,Cape Town,-33.6246010000,19.0475780000,0,0,0
+Christina's At Van Loveren,"Cafe, Burger, Pizza",3.3,Average,20,R,280,3,Robertson,Cape Town,-33.8754260000,20.0027560000,0,0,0
+Floreal Brasserie,"African, European",3.3,Average,14,R,490,4,Stellenbosch,Cape Town,-33.8297760000,18.8797470000,0,0,0
+Tokara Tasting Room,Drinks Only,3.3,Average,15,R,100,2,Stellenbosch,Cape Town,-33.9177080000,18.9199620000,0,0,0
+Eight to Go Deli,"Cafe, Deli",3.3,Average,18,R,300,4,"Spier Wine Estate, Stellenbosch",Cape Town,-33.9736666667,18.7840000000,0,0,0
+Harvest At Laborie,French,3.3,Average,18,R,510,4,Paarl,Cape Town,-33.7663944444,18.9579583333,0,0,0
+Neethlingshof Tasting Room,Drinks Only,3.3,Average,11,R,120,2,Stellenbosch,Cape Town,-33.9422105832,18.8008788414,0,0,0
+Dieu Donne Vineyards,Drinks Only,3.3,Average,12,R,50,1,Franschhoek,Cape Town,-33.8966190000,19.1297390000,0,0,0
+Wine Tasting at Beau Constantia,Drinks Only,3.3,Average,11,R,180,2,"Beau Constantia Wine Estate, Contantia",Cape Town,-34.0136800000,18.4064170000,0,0,0
+Morgenhof Wine Estate,Drinks Only,3.3,Average,13,R,70,1,Stellenbosch,Cape Town,-33.8940380000,18.8606640000,0,0,0
+Backsberg Restaurant,"Contemporary, South African",3.3,Average,21,R,350,4,Franschhoek,Cape Town,-33.8266130000,18.9374220000,0,0,0
+Spier Hotel Restaurant,"Mediterranean, Contemporary",3.3,Average,24,R,535,4,"Spier Wine Estate, Stellenbosch",Cape Town,-33.9760000000,18.7805000000,0,0,0
+Gabriëlskloof Restaurant,South African,3.3,Average,9,R,300,4,Hermanus,Cape Town,-34.2387160000,19.2495910000,0,0,0
+Rust en Vrede Tasting Room,Drinks Only,3.3,Average,11,R,100,2,Stellenbosch,Cape Town,-33.9985400000,18.8561240000,0,0,0
+Simonsig Wine Estate,Drinks Only,3.3,Average,10,R,0,1,Stellenbosch,Cape Town,-33.8700860000,18.8254080000,0,0,0
+Uva Mira Tasting Room,Drinks Only,3.3,Average,9,R,80,1,Stellenbosch,Cape Town,-34.0210610000,18.8569920000,0,0,0
+KWV Wine Emporium,Drinks Only,3.3,Average,9,R,100,2,Paarl,Cape Town,-33.7630030000,18.9663920000,0,0,0
+Thirty7 - The Westin Cape Town,"Continental, Mediterranean, French",3.3,Average,10,R,450,4,"The Westin, Foreshore",Cape Town,-33.9157412813,18.4260983393,0,0,0
+Nando's,"African, Portuguese",3.2,Average,13,R,180,2,"Grandwest Casino, Goodwood",Cape Town,-33.9168931536,18.5474682972,0,0,0
+Jack Rabbit Mobile Kitchen,"Fast Food, Street Food, South African",0,Not rated,3,R,100,2,Durbanville,Cape Town,0.0000000000,0.0000000000,0,0,0
+The Taproom,"American, Beverages, Burger, Grill",3.9,Good,266,R,250,3,Woodstock,Cape Town,-33.9334530000,18.4603940000,0,0,0
+Jessy's Waffles,Desserts,3.1,Average,10,R,100,2,Gardens,Cape Town,0.0000000000,0.0000000000,0,0,0
+Hungry Bear,American,0,Not rated,1,R,120,2,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Slurp,Beverages,0,Not rated,2,R,70,1,"Capegate Shopping Center, Brackenfell",Cape Town,-33.8521688661,18.6972076446,0,0,0
+Caturra Coffee Bar,Drinks Only,0,Not rated,1,R,55,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Vlambojant,"Beverages, Fast Food",0,Not rated,1,R,100,2,Neelsie Student Centre,Cape Town,-33.9326270000,18.8653530000,0,0,0
+Cape Malay Deli,Cape Malay,0,Not rated,1,R,120,2,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Crepes French Pancakes,"French, Desserts",0,Not rated,0,R,60,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Wing It,Finger Food,0,Not rated,0,R,100,2,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Burger De Vine,Burger,0,Not rated,0,R,160,2,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+The Hub,Healthy Food,0,Not rated,0,R,75,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Eezi Street Pizza,Pizza,0,Not rated,0,R,150,2,Hout Bay,Cape Town,-34.0424279196,18.3579898704,0,0,0
+Sno.,Fast Food,0,Not rated,0,R,40,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Healthy Bite,"Healthy Food, Mediterranean",0,Not rated,0,R,105,2,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Slaley Bistro,Contemporary,2.4,Poor,22,R,220,3,Stellenbosch,Cape Town,-33.8652531194,18.8476470485,0,0,0
+Woodcutters Arms,British,3.3,Average,17,R,260,3,Hout Bay,Cape Town,-34.0344980000,18.3564640000,0,0,0
+The Biggest Little Beer Shop,Beverages,0,Not rated,2,R,100,2,"Willowbridge Lifestyle Centre, Bellvile",Cape Town,-33.8708353467,18.6316226050,0,0,0
+Daytona Pub & Venue,"South African, Burger, Steak",0,Not rated,1,R,200,3,Table View,Cape Town,-33.8280099309,18.5365954227,0,0,0
+Zebonkey Brewery,Beverages,0,Not rated,0,R,200,3,Stellenbosch,Cape Town,-33.8482462227,18.8579211697,0,0,0
+Cassis,Patisserie,3.2,Average,9,R,100,2,"Constantia Village, Constantia",Cape Town,-34.0218030000,18.4450460000,0,0,0
+Coco Safar,"Cafe, Patisserie, Bakery, Cafe Food, Coffee and Tea, Desserts",3.3,Average,19,R,300,4,Sea Point,Cape Town,-33.9102700000,18.3945880000,0,0,0
+Yummi,Patisserie,3.5,Good,20,R,125,2,"Canal Walk Mall, Century City",Cape Town,-33.8926666667,18.5105000000,0,0,0
+Créme de Levain,Bakery,3.5,Good,17,R,120,2,Stellenbosch,Cape Town,-33.9380820000,18.8602340000,0,0,0
+Créme de Levain,"Healthy Food, Bakery, Ice Cream, Desserts",0,Not rated,1,R,120,2,"The Sanctuary Shopping Centre, Somerset West",Cape Town,-34.0882790000,18.8214720000,0,0,0
+High Tea Tighty,"Patisserie, Cafe",0,Not rated,0,R,60,1,"V & A Foodmarket, V & A Waterfront",Cape Town,-33.9063970000,18.4192190000,0,0,0
+TonyH Artisan Chocolates,Desserts,0,Not rated,0,R,50,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Njam,"Patisserie, Cafe",0,Not rated,0,R,60,1,Hermanus,Cape Town,-34.3405160000,19.0327260000,0,0,0
+Las Paletas,Ice Cream,3.0,Average,5,R,40,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Kreativ juice,Juices,3.0,Average,4,R,60,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+The Pickled Popper,"Mexican, Street Food",3.1,Average,9,R,95,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Earthfire Pizza,"Street Food, Pizza",3.1,Average,5,R,120,2,CBD,Cape Town,-33.9229310000,18.4186460000,0,0,0
+The Nob,Burger,3.1,Average,5,R,150,2,Kenilworth,Cape Town,-33.9984589377,18.4794997796,0,0,0
+Earthfire Pizza,Pizza,3.2,Average,4,R,0,1,Sea Point,Cape Town,-33.9195425000,18.3854101562,0,0,0
+Didi's Bitchin Burritos,Mexican,3.2,Average,12,R,120,2,Woodstock,Cape Town,-33.9281723329,18.4566061199,0,0,0
+Sugary Sensations,Desserts,3.3,Average,12,R,50,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Crumbs and Cream,Ice Cream,3.6,Good,57,R,100,2,V & A Waterfront,Cape Town,-33.9069690000,18.4184460000,0,0,0
+Como,Latin American,0,Not rated,2,R,80,1,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Black Box Coffeeworks,Cafe,0,Not rated,1,R,150,2,Constantia,Cape Town,-34.0118324896,18.4053788766,0,0,0
+The Chef’s Bench,"Street Food, Burger",0,Not rated,0,R,120,2,CBD,Cape Town,-33.9229410000,18.4186520000,0,0,0
+Chameleon Mobile Kitchen,"Street Food, South African, Contemporary",0,Not rated,0,R,120,2,Observatory,Cape Town,-33.9417750000,18.4689660000,0,0,0
+Sliced Between,Cafe,0,Not rated,0,R,120,2,Kenilworth,Cape Town,-34.0014900000,18.4791840000,0,0,0
+Sunset Cafe,"Contemporary, Seafood",2.8,Average,7,R,220,3,Camps Bay,Cape Town,-33.9531450000,18.3772450000,0,0,0
+Harringtons Cocktail Lounge,Drinks Only,3.4,Average,16,R,200,3,CBD,Cape Town,-33.9289729638,18.4231908247,0,0,0
+Oh La La Cocktail Lounge,Drinks Only,0,Not rated,0,R,200,3,"Krystal Beach Hotel, Gordon's Bay",Cape Town,-34.1513810000,18.8590110000,0,0,0
+The Polynesian Pearl Diver,Drinks Only,0,Not rated,0,R,180,2,"Victoria Wharf, V & A Waterfront",Cape Town,-33.9030940000,18.4197920000,0,0,0
+Moody Lagoon,"Contemporary, French",3.1,Average,4,R,800,4,Hermanus,Cape Town,-34.3457140000,19.1350220000,0,0,0
+Seabreeze Fish & Shell,Seafood,3.6,Good,42,R,300,4,CBD,Cape Town,-33.9254168033,18.4136052802,0,0,0
